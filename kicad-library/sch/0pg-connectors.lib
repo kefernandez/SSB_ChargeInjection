@@ -1,0 +1,504 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# CONNECTOR-1
+#
+DEF CONNECTOR-1 P 0 40 Y Y 1 F N
+F0 "P" 50 150 60 H V C CNN
+F1 "CONNECTOR-1" -150 50 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 100 -50 -100 0 1 0 N
+X ~ 1 250 0 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-10
+#
+DEF CONNECTOR-10 P 0 40 Y Y 1 F N
+F0 "P" 50 550 60 H V C CNN
+F1 "CONNECTOR-10" 0 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 500 -50 -500 0 1 0 N
+X ~ 1 200 450 100 L 50 50 1 1 I
+X ~ 2 200 350 100 L 50 50 1 1 I
+X ~ 3 200 250 100 L 50 50 1 1 I
+X ~ 4 200 150 100 L 50 50 1 1 I
+X ~ 5 200 50 100 L 50 50 1 1 I
+X ~ 6 200 -50 100 L 50 50 1 1 I
+X ~ 7 200 -150 100 L 50 50 1 1 I
+X ~ 8 200 -250 100 L 50 50 1 1 I
+X ~ 9 200 -350 100 L 50 50 1 1 I
+X ~ 10 200 -450 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-2
+#
+DEF CONNECTOR-2 P 0 40 Y Y 1 F N
+F0 "P" 50 150 60 H V C CNN
+F1 "CONNECTOR-2" -150 50 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 100 -50 -100 0 1 0 N
+X ~ 1 250 50 150 L 50 50 1 1 B
+X ~ 2 250 -50 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-20
+#
+DEF CONNECTOR-20 P 0 40 Y Y 1 F N
+F0 "P" -50 1050 60 H V C CNN
+F1 "CONNECTOR-20" 0 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 1000 -100 -1000 0 1 0 N
+X ~ 1 250 950 150 L 50 50 1 1 B
+X ~ 2 250 850 150 L 50 50 1 1 B
+X ~ 3 250 750 150 L 50 50 1 1 B
+X ~ 4 250 650 150 L 50 50 1 1 B
+X ~ 5 250 550 150 L 50 50 1 1 B
+X ~ 6 250 450 150 L 50 50 1 1 B
+X ~ 7 250 350 150 L 50 50 1 1 B
+X ~ 8 250 250 150 L 50 50 1 1 B
+X ~ 9 250 150 150 L 50 50 1 1 B
+X ~ 10 250 50 150 L 50 50 1 1 B
+X ~ 20 250 -950 150 L 50 50 1 1 B
+X ~ 11 250 -50 150 L 50 50 1 1 B
+X ~ 12 250 -150 150 L 50 50 1 1 B
+X ~ 13 250 -250 150 L 50 50 1 1 B
+X ~ 14 250 -350 150 L 50 50 1 1 B
+X ~ 15 250 -450 150 L 50 50 1 1 B
+X ~ 16 250 -550 150 L 50 50 1 1 B
+X ~ 17 250 -650 150 L 50 50 1 1 B
+X ~ 18 250 -750 150 L 50 50 1 1 B
+X ~ 19 250 -850 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-2X6
+#
+DEF CONNECTOR-2X6 P 0 40 Y Y 1 F N
+F0 "P" 50 350 60 H V C CNN
+F1 "CONNECTOR-2X6" 0 500 60 H V C CNN
+F2 "" 0 -50 60 H V C CNN
+F3 "" 0 -50 60 H V C CNN
+F4 "manf" 0 -50 40 V I C CNN "Manufacturer"
+F5 "partno" 0 -50 40 V I C CNN "ManufPartno"
+F6 "tol" 0 -50 40 V I C CNN "Tolerance"
+F7 "voltage" 0 -50 40 V I C CNN "VoltageRating"
+F8 "current" 0 -50 40 V I C CNN "CurrentRating"
+F9 "power" 0 -50 40 V I C CNN "PowerRating"
+F10 "property" 0 -50 40 V I C CNN "Properties"
+F11 "digikey" 0 -50 40 V I C CNN "Digikey"
+F12 "mouser" 0 -50 40 V I C CNN "Mouser"
+F13 "elfa" 0 -50 40 V I C CNN "Elfa"
+F14 "farnell" 0 -50 40 V I C CNN "Farnell"
+F15 "ABCD" 0 -50 40 V I C CNN "PartCategory"
+F16 "comment" 0 -50 40 V I C CNN "Comment"
+DRAW
+S 100 300 -100 -300 0 1 0 N
+X ~ 1 -250 250 150 R 50 50 1 1 B
+X ~ 2 250 250 150 L 50 50 1 1 B
+X ~ 3 -250 150 150 R 50 50 1 1 B
+X ~ 4 250 150 150 L 50 50 1 1 B
+X ~ 5 -250 50 150 R 50 50 1 1 B
+X ~ 6 250 50 150 L 50 50 1 1 B
+X ~ 7 -250 -50 150 R 50 50 1 1 B
+X ~ 8 250 -50 150 L 50 50 1 1 B
+X ~ 9 -250 -150 150 R 50 50 1 1 B
+X ~ 10 250 -150 150 L 50 50 1 1 B
+X ~ 11 -250 -250 150 R 50 50 1 1 B
+X ~ 12 250 -250 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-2X7
+#
+DEF CONNECTOR-2X7 P 0 40 Y Y 1 F N
+F0 "P" -50 400 60 H V C CNN
+F1 "CONNECTOR-2X7" 0 500 60 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S -100 350 100 -350 0 1 0 N
+X ~ 1 250 300 150 L 50 50 1 1 B
+X ~ 2 -250 300 150 R 50 50 1 1 B
+X ~ 3 250 200 150 L 50 50 1 1 B
+X ~ 4 -250 200 150 R 50 50 1 1 B
+X ~ 5 250 100 150 L 50 50 1 1 B
+X ~ 6 -250 100 150 R 50 50 1 1 B
+X ~ 7 250 0 150 L 50 50 1 1 B
+X ~ 8 -250 0 150 R 50 50 1 1 B
+X ~ 9 250 -100 150 L 50 50 1 1 B
+X ~ 10 -250 -100 150 R 50 50 1 1 B
+X ~ 11 250 -200 150 L 50 50 1 1 B
+X ~ 12 -250 -200 150 R 50 50 1 1 B
+X ~ 13 250 -300 150 L 50 50 1 1 B
+X ~ 14 -250 -300 150 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-3
+#
+DEF CONNECTOR-3 P 0 40 Y Y 1 F N
+F0 "P" 50 200 60 H V C CNN
+F1 "CONNECTOR-3" -100 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 150 -50 -150 0 1 0 N
+X ~ 1 250 100 150 L 50 50 1 1 B
+X ~ 2 250 0 150 L 50 50 1 1 B
+X ~ 3 250 -100 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-4
+#
+DEF CONNECTOR-4 P 0 40 Y Y 1 F N
+F0 "P" 50 250 60 H V C CNN
+F1 "CONNECTOR-4" -100 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 200 -50 -200 0 1 0 N
+X ~ 1 250 150 150 L 50 50 1 1 B
+X ~ 2 250 50 150 L 50 50 1 1 B
+X ~ 3 250 -50 150 L 50 50 1 1 B
+X ~ 4 250 -150 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-5
+#
+DEF CONNECTOR-5 P 0 40 Y Y 1 F N
+F0 "P" 50 300 60 H V C CNN
+F1 "CONNECTOR-5" -100 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 250 -50 -250 0 1 0 N
+X ~ 1 250 200 150 L 50 50 1 1 B
+X ~ 2 250 100 150 L 50 50 1 1 B
+X ~ 3 250 0 150 L 50 50 1 1 B
+X ~ 4 250 -100 150 L 50 50 1 1 B
+X ~ 5 250 -200 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-6
+#
+DEF CONNECTOR-6 P 0 40 Y Y 1 F N
+F0 "P" 50 350 60 H V C CNN
+F1 "CONNECTOR-6" -100 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 300 -50 -300 0 1 0 N
+X ~ 1 250 250 150 L 50 50 1 1 B
+X ~ 2 250 150 150 L 50 50 1 1 B
+X ~ 3 250 50 150 L 50 50 1 1 B
+X ~ 4 250 -50 150 L 50 50 1 1 B
+X ~ 5 250 -150 150 L 50 50 1 1 B
+X ~ 6 250 -250 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-8
+#
+DEF CONNECTOR-8 P 0 40 Y Y 1 F N
+F0 "P" 50 450 60 H V C CNN
+F1 "CONNECTOR-8" 0 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 400 -50 -400 0 1 0 N
+X ~ 1 250 350 150 L 50 50 1 1 B
+X ~ 2 250 250 150 L 50 50 1 1 B
+X ~ 3 250 150 150 L 50 50 1 1 B
+X ~ 4 250 50 150 L 50 50 1 1 B
+X ~ 5 250 -50 150 L 50 50 1 1 B
+X ~ 6 250 -150 150 L 50 50 1 1 B
+X ~ 7 250 -250 150 L 50 50 1 1 B
+X ~ 8 250 -350 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# CONNECTOR-9
+#
+DEF CONNECTOR-9 P 0 40 Y Y 1 F N
+F0 "P" 50 500 60 H V C CNN
+F1 "CONNECTOR-9" 0 0 60 V V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+F4 "manf" 0 0 40 V I C CNN "Manufacturer"
+F5 "partno" 0 0 40 V I C CNN "ManufPartno"
+F6 "tol" 0 0 40 V I C CNN "Tolerance"
+F7 "voltage" 0 0 40 V I C CNN "VoltageRating"
+F8 "current" 0 0 40 V I C CNN "CurrentRating"
+F9 "power" 0 0 40 V I C CNN "PowerRating"
+F10 "property" 0 0 40 V I C CNN "Properties"
+F11 "digikey" 0 0 40 V I C CNN "Digikey"
+F12 "mouser" 0 0 40 V I C CNN "Mouser"
+F13 "elfa" 0 0 40 V I C CNN "Elfa"
+F14 "farnell" 0 0 40 V I C CNN "Farnell"
+F15 "ABCD" 0 0 40 V I C CNN "PartCategory"
+F16 "comment" 0 0 40 V I C CNN "Comment"
+DRAW
+S 100 450 -50 -450 0 1 0 N
+X ~ 1 250 400 150 L 50 50 1 1 B
+X ~ 2 250 300 150 L 50 50 1 1 B
+X ~ 3 250 200 150 L 50 50 1 1 B
+X ~ 4 250 100 150 L 50 50 1 1 B
+X ~ 5 250 0 150 L 50 50 1 1 B
+X ~ 6 250 -100 150 L 50 50 1 1 B
+X ~ 7 250 -200 150 L 50 50 1 1 B
+X ~ 8 250 -300 150 L 50 50 1 1 B
+X ~ 9 250 -400 150 L 50 50 1 1 B
+ENDDRAW
+ENDDEF
+#
+# HDR2X40
+#
+DEF HDR2X40 P 0 40 Y Y 1 F N
+F0 "P" -50 2000 60 H V C CNN
+F1 "HDR2X40" 0 2100 60 H V C CNN
+F2 "" 0 1600 60 H V C CNN
+F3 "" 0 1600 60 H V C CNN
+F4 "manf" 0 1600 40 V I C CNN "Manufacturer"
+F5 "partno" 0 1600 40 V I C CNN "ManufPartno"
+F6 "tol" 0 1600 40 V I C CNN "Tolerance"
+F7 "voltage" 0 1600 40 V I C CNN "VoltageRating"
+F8 "current" 0 1600 40 V I C CNN "CurrentRating"
+F9 "power" 0 1600 40 V I C CNN "PowerRating"
+F10 "property" 0 1600 40 V I C CNN "Properties"
+F11 "digikey" 0 1600 40 V I C CNN "Digikey"
+F12 "mouser" 0 1600 40 V I C CNN "Mouser"
+F13 "elfa" 0 1600 40 V I C CNN "Elfa"
+F14 "farnell" 0 1600 40 V I C CNN "Farnell"
+F15 "ABCD" 0 1600 40 V I C CNN "PartCategory"
+F16 "comment" 0 1600 40 V I C CNN "Comment"
+DRAW
+S -150 1950 150 -2050 0 1 0 N
+X ~ 1 -300 1900 150 R 50 50 1 1 B
+X ~ 2 300 1900 150 L 50 50 1 1 B
+X ~ 3 -300 1800 150 R 50 50 1 1 B
+X ~ 4 300 1800 150 L 50 50 1 1 B
+X ~ 5 -300 1700 150 R 50 50 1 1 B
+X ~ 6 300 1700 150 L 50 50 1 1 B
+X ~ 7 -300 1600 150 R 50 50 1 1 B
+X ~ 8 300 1600 150 L 50 50 1 1 B
+X ~ 9 -300 1500 150 R 50 50 1 1 B
+X ~ 10 300 1500 150 L 50 50 1 1 B
+X ~ 20 300 1000 150 L 50 50 1 1 B
+X ~ 30 300 500 150 L 50 50 1 1 B
+X ~ 40 300 0 150 L 50 50 1 1 B
+X ~ 50 300 -500 150 L 50 50 1 1 B
+X ~ 60 300 -1000 150 L 50 50 1 1 B
+X ~ 70 300 -1500 150 L 50 50 1 1 B
+X ~ 80 300 -2000 150 L 50 50 1 1 B
+X ~ 11 -300 1400 150 R 50 50 1 1 B
+X ~ 21 -300 900 150 R 50 50 1 1 B
+X ~ 31 -300 400 150 R 50 50 1 1 B
+X ~ 41 -300 -100 150 R 50 50 1 1 B
+X ~ 51 -300 -600 150 R 50 50 1 1 B
+X ~ 61 -300 -1100 150 R 50 50 1 1 B
+X ~ 71 -300 -1600 150 R 50 50 1 1 B
+X ~ 12 300 1400 150 L 50 50 1 1 B
+X ~ 22 300 900 150 L 50 50 1 1 B
+X ~ 32 300 400 150 L 50 50 1 1 B
+X ~ 42 300 -100 150 L 50 50 1 1 B
+X ~ 52 300 -600 150 L 50 50 1 1 B
+X ~ 62 300 -1100 150 L 50 50 1 1 B
+X ~ 72 300 -1600 150 L 50 50 1 1 B
+X ~ 13 -300 1300 150 R 50 50 1 1 B
+X ~ 23 -300 800 150 R 50 50 1 1 B
+X ~ 33 -300 300 150 R 50 50 1 1 B
+X ~ 43 -300 -200 150 R 50 50 1 1 B
+X ~ 53 -300 -700 150 R 50 50 1 1 B
+X ~ 63 -300 -1200 150 R 50 50 1 1 B
+X ~ 73 -300 -1700 150 R 50 50 1 1 B
+X ~ 14 300 1300 150 L 50 50 1 1 B
+X ~ 24 300 800 150 L 50 50 1 1 B
+X ~ 34 300 300 150 L 50 50 1 1 B
+X ~ 44 300 -200 150 L 50 50 1 1 B
+X ~ 54 300 -700 150 L 50 50 1 1 B
+X ~ 64 300 -1200 150 L 50 50 1 1 B
+X ~ 74 300 -1700 150 L 50 50 1 1 B
+X ~ 15 -300 1200 150 R 50 50 1 1 B
+X ~ 25 -300 700 150 R 50 50 1 1 B
+X ~ 35 -300 200 150 R 50 50 1 1 B
+X ~ 45 -300 -300 150 R 50 50 1 1 B
+X ~ 55 -300 -800 150 R 50 50 1 1 B
+X ~ 65 -300 -1300 150 R 50 50 1 1 B
+X ~ 75 -300 -1800 150 R 50 50 1 1 B
+X ~ 16 300 1200 150 L 50 50 1 1 B
+X ~ 26 300 700 150 L 50 50 1 1 B
+X ~ 36 300 200 150 L 50 50 1 1 B
+X ~ 46 300 -300 150 L 50 50 1 1 B
+X ~ 56 300 -800 150 L 50 50 1 1 B
+X ~ 66 300 -1300 150 L 50 50 1 1 B
+X ~ 76 300 -1800 150 L 50 50 1 1 B
+X ~ 17 -300 1100 150 R 50 50 1 1 B
+X ~ 27 -300 600 150 R 50 50 1 1 B
+X ~ 37 -300 100 150 R 50 50 1 1 B
+X ~ 47 -300 -400 150 R 50 50 1 1 B
+X ~ 57 -300 -900 150 R 50 50 1 1 B
+X ~ 67 -300 -1400 150 R 50 50 1 1 B
+X ~ 77 -300 -1900 150 R 50 50 1 1 B
+X ~ 18 300 1100 150 L 50 50 1 1 B
+X ~ 28 300 600 150 L 50 50 1 1 B
+X ~ 38 300 100 150 L 50 50 1 1 B
+X ~ 48 300 -400 150 L 50 50 1 1 B
+X ~ 58 300 -900 150 L 50 50 1 1 B
+X ~ 68 300 -1400 150 L 50 50 1 1 B
+X ~ 78 300 -1900 150 L 50 50 1 1 B
+X ~ 19 -300 1000 150 R 50 50 1 1 B
+X ~ 29 -300 500 150 R 50 50 1 1 B
+X ~ 39 -300 0 150 R 50 50 1 1 B
+X ~ 49 -300 -500 150 R 50 50 1 1 B
+X ~ 59 -300 -1000 150 R 50 50 1 1 B
+X ~ 69 -300 -1500 150 R 50 50 1 1 B
+X ~ 79 -300 -2000 150 R 50 50 1 1 B
+ENDDRAW
+ENDDEF
+
+#
+#End Library

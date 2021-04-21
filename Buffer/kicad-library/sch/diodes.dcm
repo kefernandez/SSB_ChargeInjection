@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VS-2EFH02HM3/I
+D Diode Hyperfast Rectifier, 2A
+K diode rectifier
+F https://www.vishay.com/docs/95790/vs-2efh02hm3.pdf
+$ENDCMP
+#
+#End Doc Library

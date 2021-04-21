@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IExxxxD_S
+D Isolated DC-DC converter
+K isolated isolation dc-dc converter transformer
+F https://www.xppower.com/pdfs/SF_IE.pdf
+$ENDCMP
+#
+$CMP ISExxxxA
+D Isolated DC-DC converter
+K isolated isolation dc-dc converter transformer
+F https://www.xppower.com/Portals/0/pdfs/SF_ISE.pdf
+$ENDCMP
+#
+$CMP LM2660
+D Switched Capacitor Voltage Converter
+K Inverting Charge Pump
+$ENDCMP
+#
+$CMP NFET_EPC2
+D EPC203x
+K N-Channel GaNFET
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf
+$ENDCMP
+#
+$CMP NFET_GaNSystems
+D EPC203x
+K N-Channel GaNFET
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf
+$ENDCMP
+#
+$CMP OKI-78SR
+D OKI-78SR
+$ENDCMP
+#
+#End Doc Library

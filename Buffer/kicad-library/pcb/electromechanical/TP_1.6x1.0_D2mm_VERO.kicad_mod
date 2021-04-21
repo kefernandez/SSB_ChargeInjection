@@ -1,0 +1,10 @@
+(module TP_1.6x1.0_D2mm_VERO (layer F.Cu) (tedit 57486E46)
+  (fp_text reference TP3 (at 0 1.80086) (layer F.SilkS)
+    (effects (font (size 0.70104 0.70104) (thickness 0.14986)))
+  )
+  (fp_text value TEST-PIN (at 0.89916 2.60096) (layer F.SilkS) hide
+    (effects (font (thickness 0.3048)))
+  )
+  (fp_circle (center 0 0) (end 1.09982 -0.09906) (layer F.SilkS) (width 0.20066))
+  (pad 1 thru_hole circle (at 0 0) (size 1.6002 1.6002) (drill 1) (layers *.Cu *.Mask F.SilkS))
+)

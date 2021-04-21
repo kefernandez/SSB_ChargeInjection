@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPC2047
+D EPC2047
+K GaN transistor 200V EPC
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2047_preliminary.pdf
+$ENDCMP
+#
+$CMP GS61008P
+D GS61008P
+K GaN transistor 100V GaNsystems
+F http://www.gansystems.com/datasheets/GS61008P%20DS%20Rev%20180111.pdf
+$ENDCMP
+#
+$CMP LT1999
+D LT1999 High Voltage, Bidirectional Current Sense Amplifier
+K current sense amplifier LT1999
+F http://www.analog.com/media/en/technical-documentation/data-sheets/1999fd.pdf
+$ENDCMP
+#
+$CMP SI8271
+D Isolated Gate Driver
+K Gate Driver GaN SiLabs
+$ENDCMP
+#
+$CMP Si8271
+D Isolated Gate Driver
+K Gate Driver GaN SiLabs
+$ENDCMP
+#
+#End Doc Library

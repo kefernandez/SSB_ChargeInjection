@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LP2985-6.1
+D 150mA 16V Low-noise Low-dropout Regulator With Shutdown, 6.1V output voltage, SOT-23-5
+K LDO regulator linear  SOT-23-5
+F http://www.ti.com/lit/ds/symlink/lp2985.pdf
+$ENDCMP
+#
+#End Doc Library

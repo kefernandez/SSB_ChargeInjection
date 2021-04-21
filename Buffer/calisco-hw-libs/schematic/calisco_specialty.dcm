@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Q_NMOS_GDS_letter
+D Transistor N-MOSFET with substrate diode (general)
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+$CMP S-1011A80-M6T1U4
+D UVLO 8V
+F https://www.ablicinc.com/en/doc/datasheet/voltage_detector/S1011_E.pdf
+$ENDCMP
+#
+#End Doc Library

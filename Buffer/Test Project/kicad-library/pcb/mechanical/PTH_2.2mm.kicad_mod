@@ -1,0 +1,9 @@
+(module PTH_2.2mm (layer F.Cu)
+  (fp_text reference P4 (at 1.00076 -0.09906 90) (layer F.SilkS)
+    (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+  )
+  (fp_text value AC2 (at -0.89916 0 90) (layer F.SilkS) hide
+    (effects (font (size 0.50038 0.50038) (thickness 0.09906)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 3.2 3.2) (drill 2.2) (layers *.Cu *.Mask F.SilkS))
+)

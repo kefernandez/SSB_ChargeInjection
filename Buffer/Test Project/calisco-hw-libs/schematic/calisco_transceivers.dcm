@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FIN1019
+D LVDS transceiver
+$ENDCMP
+#
+$CMP FIN1027A
+D Dual LVDS driver
+$ENDCMP
+#
+$CMP FIN1028
+D Dual LVDS receiver
+$ENDCMP
+#
+$CMP PCA9536
+D 4-bit I2C GPIO Expander
+$ENDCMP
+#
+$CMP PCA9557
+D 4-bit I2C GPIO Expander
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NFET_EPC2
+D EPC203x
+K N-Channel GaNFET
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf
+$ENDCMP
+#
+$CMP NFET_GaNSystems
+D EPC203x
+K N-Channel GaNFET
+F http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

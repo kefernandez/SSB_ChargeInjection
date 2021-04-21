@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BSS123W
+D N-CH 100V 170MA SOT-23
+K nmos n-mos n-mosfet transistor
+$ENDCMP
+#
+#End Doc Library

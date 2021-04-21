@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# XOSC
+#
+DEF XOSC U 0 40 Y Y 1 F N
+F0 "U" -150 100 60 H V C CNN
+F1 "XOSC" -50 -200 60 H V C CNN
+F2 "" 0 -50 60 V V C CNN
+F3 "" 0 -50 60 V V C CNN
+F4 "manf" 0 -50 40 H I C CNN "Manufacturer"
+F5 "partno" 0 -50 40 H I C CNN "ManufPartno"
+F6 "tol" 0 -50 40 H I C CNN "Tolerance"
+F7 "voltage" 0 -50 40 H I C CNN "VoltageRating"
+F8 "current" 0 -50 40 H I C CNN "CurrentRating"
+F9 "power" 0 -50 40 H I C CNN "PowerRating"
+F10 "property" 0 -50 40 H I C CNN "Properties"
+F11 "digikey" 0 -50 40 H I C CNN "Digikey"
+F12 "mouser" 0 -50 40 H I C CNN "Mouser"
+F13 "elfa" 0 -50 40 H I C CNN "Elfa"
+F14 "farnell" 0 -50 40 H I C CNN "Farnell"
+F15 "ABCD" 0 -50 40 H I C CNN "PartCategory"
+F16 "comment" 0 -50 40 H I C CNN "Comment"
+DRAW
+S 200 50 -200 -150 0 1 0 N
+X OE 1 -300 0 100 R 50 40 1 1 w
+X GND 2 -300 -100 100 R 50 40 1 1 w
+X CLK 3 300 -100 100 L 50 40 1 1 w
+X VDD 4 300 0 100 L 50 40 1 1 w
+ENDDRAW
+ENDDEF
+
+
+
+#
+#End Library

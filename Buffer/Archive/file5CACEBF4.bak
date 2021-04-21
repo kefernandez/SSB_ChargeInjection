@@ -1,0 +1,5052 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 6
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 10850 5075 0    50   Input ~ 0
+C2-
+$Comp
+L Device:C_Small C2
+U 1 1 5CACEEC8
+P 1250 1250
+AR Path="/5CACEBF5/5CACEEC8" Ref="C2"  Part="1" 
+AR Path="/5CFFD7A4/5CACEEC8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACEEC8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACEEC8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACEEC8" Ref="C202"  Part="1" 
+AR Path="/5D65F554/5CACEEC8" Ref="C402"  Part="1" 
+AR Path="/5D65F965/5CACEEC8" Ref="C602"  Part="1" 
+AR Path="/5D66274B/5CACEEC8" Ref="C802"  Part="1" 
+F 0 "C202" H 1342 1296 50  0000 L CNN
+F 1 "C" H 1342 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 1250 50  0001 C CNN
+F 3 "~" H 1250 1250 50  0001 C CNN
+	1    1250 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 1150
+$Comp
+L Device:C_Small C3
+U 1 1 5CACEFB6
+P 1650 1250
+AR Path="/5CACEBF5/5CACEFB6" Ref="C3"  Part="1" 
+AR Path="/5CFFD7A4/5CACEFB6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACEFB6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACEFB6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACEFB6" Ref="C203"  Part="1" 
+AR Path="/5D65F554/5CACEFB6" Ref="C403"  Part="1" 
+AR Path="/5D65F965/5CACEFB6" Ref="C603"  Part="1" 
+AR Path="/5D66274B/5CACEFB6" Ref="C803"  Part="1" 
+F 0 "C203" H 1742 1296 50  0000 L CNN
+F 1 "C" H 1742 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 1250 50  0001 C CNN
+F 3 "~" H 1650 1250 50  0001 C CNN
+	1    1650 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 1150
+$Comp
+L Device:C_Small C4
+U 1 1 5CACF034
+P 2075 1250
+AR Path="/5CACEBF5/5CACF034" Ref="C4"  Part="1" 
+AR Path="/5CFFD7A4/5CACF034" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF034" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF034" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF034" Ref="C204"  Part="1" 
+AR Path="/5D65F554/5CACF034" Ref="C404"  Part="1" 
+AR Path="/5D65F965/5CACF034" Ref="C604"  Part="1" 
+AR Path="/5D66274B/5CACF034" Ref="C804"  Part="1" 
+F 0 "C204" H 2167 1296 50  0000 L CNN
+F 1 "C" H 2167 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 1250 50  0001 C CNN
+F 3 "~" H 2075 1250 50  0001 C CNN
+	1    2075 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C5
+U 1 1 5CACF040
+P 2475 1250
+AR Path="/5CACEBF5/5CACF040" Ref="C5"  Part="1" 
+AR Path="/5CFFD7A4/5CACF040" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF040" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF040" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF040" Ref="C205"  Part="1" 
+AR Path="/5D65F554/5CACF040" Ref="C405"  Part="1" 
+AR Path="/5D65F965/5CACF040" Ref="C605"  Part="1" 
+AR Path="/5D66274B/5CACF040" Ref="C805"  Part="1" 
+F 0 "C205" H 2567 1296 50  0000 L CNN
+F 1 "C" H 2567 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 1250 50  0001 C CNN
+F 3 "~" H 2475 1250 50  0001 C CNN
+	1    2475 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 1150
+Connection ~ 2475 1150
+$Comp
+L Device:C_Small C6
+U 1 1 5CACF1E8
+P 2925 1250
+AR Path="/5CACEBF5/5CACF1E8" Ref="C6"  Part="1" 
+AR Path="/5CFFD7A4/5CACF1E8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF1E8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF1E8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF1E8" Ref="C206"  Part="1" 
+AR Path="/5D65F554/5CACF1E8" Ref="C406"  Part="1" 
+AR Path="/5D65F965/5CACF1E8" Ref="C606"  Part="1" 
+AR Path="/5D66274B/5CACF1E8" Ref="C806"  Part="1" 
+F 0 "C206" H 3017 1296 50  0000 L CNN
+F 1 "C" H 3017 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 1250 50  0001 C CNN
+F 3 "~" H 2925 1250 50  0001 C CNN
+	1    2925 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C7
+U 1 1 5CACF1F4
+P 3325 1250
+AR Path="/5CACEBF5/5CACF1F4" Ref="C7"  Part="1" 
+AR Path="/5CFFD7A4/5CACF1F4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF1F4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF1F4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF1F4" Ref="C207"  Part="1" 
+AR Path="/5D65F554/5CACF1F4" Ref="C407"  Part="1" 
+AR Path="/5D65F965/5CACF1F4" Ref="C607"  Part="1" 
+AR Path="/5D66274B/5CACF1F4" Ref="C807"  Part="1" 
+F 0 "C207" H 3417 1296 50  0000 L CNN
+F 1 "C" H 3417 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 1250 50  0001 C CNN
+F 3 "~" H 3325 1250 50  0001 C CNN
+	1    3325 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C8
+U 1 1 5CACF200
+P 3750 1250
+AR Path="/5CACEBF5/5CACF200" Ref="C8"  Part="1" 
+AR Path="/5CFFD7A4/5CACF200" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF200" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF200" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF200" Ref="C208"  Part="1" 
+AR Path="/5D65F554/5CACF200" Ref="C408"  Part="1" 
+AR Path="/5D65F965/5CACF200" Ref="C608"  Part="1" 
+AR Path="/5D66274B/5CACF200" Ref="C808"  Part="1" 
+F 0 "C208" H 3842 1296 50  0000 L CNN
+F 1 "C" H 3842 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 1250 50  0001 C CNN
+F 3 "~" H 3750 1250 50  0001 C CNN
+	1    3750 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C9
+U 1 1 5CACF20C
+P 4150 1250
+AR Path="/5CACEBF5/5CACF20C" Ref="C9"  Part="1" 
+AR Path="/5CFFD7A4/5CACF20C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF20C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF20C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF20C" Ref="C209"  Part="1" 
+AR Path="/5D65F554/5CACF20C" Ref="C409"  Part="1" 
+AR Path="/5D65F965/5CACF20C" Ref="C609"  Part="1" 
+AR Path="/5D66274B/5CACF20C" Ref="C809"  Part="1" 
+F 0 "C209" H 4242 1296 50  0000 L CNN
+F 1 "C" H 4242 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 1250 50  0001 C CNN
+F 3 "~" H 4150 1250 50  0001 C CNN
+	1    4150 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 1150
+Connection ~ 3325 1150
+Connection ~ 3750 1150
+Connection ~ 4150 1150
+$Comp
+L Device:C_Small C10
+U 1 1 5CACF87C
+P 4600 1250
+AR Path="/5CACEBF5/5CACF87C" Ref="C10"  Part="1" 
+AR Path="/5CFFD7A4/5CACF87C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF87C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF87C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF87C" Ref="C210"  Part="1" 
+AR Path="/5D65F554/5CACF87C" Ref="C410"  Part="1" 
+AR Path="/5D65F965/5CACF87C" Ref="C610"  Part="1" 
+AR Path="/5D66274B/5CACF87C" Ref="C810"  Part="1" 
+F 0 "C210" H 4692 1296 50  0000 L CNN
+F 1 "C" H 4692 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 1250 50  0001 C CNN
+F 3 "~" H 4600 1250 50  0001 C CNN
+	1    4600 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C11
+U 1 1 5CACF888
+P 5000 1250
+AR Path="/5CACEBF5/5CACF888" Ref="C11"  Part="1" 
+AR Path="/5CFFD7A4/5CACF888" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF888" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF888" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF888" Ref="C211"  Part="1" 
+AR Path="/5D65F554/5CACF888" Ref="C411"  Part="1" 
+AR Path="/5D65F965/5CACF888" Ref="C611"  Part="1" 
+AR Path="/5D66274B/5CACF888" Ref="C811"  Part="1" 
+F 0 "C211" H 5092 1296 50  0000 L CNN
+F 1 "C" H 5092 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 1250 50  0001 C CNN
+F 3 "~" H 5000 1250 50  0001 C CNN
+	1    5000 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C12
+U 1 1 5CACF894
+P 5425 1250
+AR Path="/5CACEBF5/5CACF894" Ref="C12"  Part="1" 
+AR Path="/5CFFD7A4/5CACF894" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF894" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF894" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF894" Ref="C212"  Part="1" 
+AR Path="/5D65F554/5CACF894" Ref="C412"  Part="1" 
+AR Path="/5D65F965/5CACF894" Ref="C612"  Part="1" 
+AR Path="/5D66274B/5CACF894" Ref="C812"  Part="1" 
+F 0 "C212" H 5517 1296 50  0000 L CNN
+F 1 "C" H 5517 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 1250 50  0001 C CNN
+F 3 "~" H 5425 1250 50  0001 C CNN
+	1    5425 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C13
+U 1 1 5CACF8A0
+P 5825 1250
+AR Path="/5CACEBF5/5CACF8A0" Ref="C13"  Part="1" 
+AR Path="/5CFFD7A4/5CACF8A0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF8A0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF8A0" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF8A0" Ref="C213"  Part="1" 
+AR Path="/5D65F554/5CACF8A0" Ref="C413"  Part="1" 
+AR Path="/5D65F965/5CACF8A0" Ref="C613"  Part="1" 
+AR Path="/5D66274B/5CACF8A0" Ref="C813"  Part="1" 
+F 0 "C213" H 5917 1296 50  0000 L CNN
+F 1 "C" H 5917 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 1250 50  0001 C CNN
+F 3 "~" H 5825 1250 50  0001 C CNN
+	1    5825 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C14
+U 1 1 5CACF8AC
+P 6275 1250
+AR Path="/5CACEBF5/5CACF8AC" Ref="C14"  Part="1" 
+AR Path="/5CFFD7A4/5CACF8AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF8AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF8AC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF8AC" Ref="C214"  Part="1" 
+AR Path="/5D65F554/5CACF8AC" Ref="C414"  Part="1" 
+AR Path="/5D65F965/5CACF8AC" Ref="C614"  Part="1" 
+AR Path="/5D66274B/5CACF8AC" Ref="C814"  Part="1" 
+F 0 "C214" H 6367 1296 50  0000 L CNN
+F 1 "C" H 6367 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 1250 50  0001 C CNN
+F 3 "~" H 6275 1250 50  0001 C CNN
+	1    6275 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C15
+U 1 1 5CACF8B8
+P 6675 1250
+AR Path="/5CACEBF5/5CACF8B8" Ref="C15"  Part="1" 
+AR Path="/5CFFD7A4/5CACF8B8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF8B8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF8B8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF8B8" Ref="C215"  Part="1" 
+AR Path="/5D65F554/5CACF8B8" Ref="C415"  Part="1" 
+AR Path="/5D65F965/5CACF8B8" Ref="C615"  Part="1" 
+AR Path="/5D66274B/5CACF8B8" Ref="C815"  Part="1" 
+F 0 "C215" H 6767 1296 50  0000 L CNN
+F 1 "C" H 6767 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 1250 50  0001 C CNN
+F 3 "~" H 6675 1250 50  0001 C CNN
+	1    6675 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C16
+U 1 1 5CACF8C4
+P 7100 1250
+AR Path="/5CACEBF5/5CACF8C4" Ref="C16"  Part="1" 
+AR Path="/5CFFD7A4/5CACF8C4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF8C4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF8C4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF8C4" Ref="C216"  Part="1" 
+AR Path="/5D65F554/5CACF8C4" Ref="C416"  Part="1" 
+AR Path="/5D65F965/5CACF8C4" Ref="C616"  Part="1" 
+AR Path="/5D66274B/5CACF8C4" Ref="C816"  Part="1" 
+F 0 "C216" H 7192 1296 50  0000 L CNN
+F 1 "C" H 7192 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 1250 50  0001 C CNN
+F 3 "~" H 7100 1250 50  0001 C CNN
+	1    7100 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C17
+U 1 1 5CACF8D0
+P 7500 1250
+AR Path="/5CACEBF5/5CACF8D0" Ref="C17"  Part="1" 
+AR Path="/5CFFD7A4/5CACF8D0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CACF8D0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CACF8D0" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CACF8D0" Ref="C217"  Part="1" 
+AR Path="/5D65F554/5CACF8D0" Ref="C417"  Part="1" 
+AR Path="/5D65F965/5CACF8D0" Ref="C617"  Part="1" 
+AR Path="/5D66274B/5CACF8D0" Ref="C817"  Part="1" 
+F 0 "C217" H 7592 1296 50  0000 L CNN
+F 1 "C" H 7592 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 1250 50  0001 C CNN
+F 3 "~" H 7500 1250 50  0001 C CNN
+	1    7500 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 1150
+Connection ~ 5000 1150
+Connection ~ 5425 1150
+Connection ~ 5825 1150
+Connection ~ 6275 1150
+Connection ~ 6675 1150
+Connection ~ 7100 1150
+Connection ~ 7500 1150
+$Comp
+L Device:C_Small C18
+U 1 1 5CAD045F
+P 7875 1250
+AR Path="/5CACEBF5/5CAD045F" Ref="C18"  Part="1" 
+AR Path="/5CFFD7A4/5CAD045F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD045F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD045F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD045F" Ref="C218"  Part="1" 
+AR Path="/5D65F554/5CAD045F" Ref="C418"  Part="1" 
+AR Path="/5D65F965/5CAD045F" Ref="C618"  Part="1" 
+AR Path="/5D66274B/5CAD045F" Ref="C818"  Part="1" 
+F 0 "C218" H 7967 1296 50  0000 L CNN
+F 1 "C" H 7967 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 1250 50  0001 C CNN
+F 3 "~" H 7875 1250 50  0001 C CNN
+	1    7875 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C19
+U 1 1 5CAD046B
+P 8275 1250
+AR Path="/5CACEBF5/5CAD046B" Ref="C19"  Part="1" 
+AR Path="/5CFFD7A4/5CAD046B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD046B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD046B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD046B" Ref="C219"  Part="1" 
+AR Path="/5D65F554/5CAD046B" Ref="C419"  Part="1" 
+AR Path="/5D65F965/5CAD046B" Ref="C619"  Part="1" 
+AR Path="/5D66274B/5CAD046B" Ref="C819"  Part="1" 
+F 0 "C219" H 8367 1296 50  0000 L CNN
+F 1 "C" H 8367 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 1250 50  0001 C CNN
+F 3 "~" H 8275 1250 50  0001 C CNN
+	1    8275 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C20
+U 1 1 5CAD0477
+P 8725 1250
+AR Path="/5CACEBF5/5CAD0477" Ref="C20"  Part="1" 
+AR Path="/5CFFD7A4/5CAD0477" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD0477" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD0477" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD0477" Ref="C220"  Part="1" 
+AR Path="/5D65F554/5CAD0477" Ref="C420"  Part="1" 
+AR Path="/5D65F965/5CAD0477" Ref="C620"  Part="1" 
+AR Path="/5D66274B/5CAD0477" Ref="C820"  Part="1" 
+F 0 "C220" H 8817 1296 50  0000 L CNN
+F 1 "C" H 8817 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 1250 50  0001 C CNN
+F 3 "~" H 8725 1250 50  0001 C CNN
+	1    8725 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C21
+U 1 1 5CAD0483
+P 9125 1250
+AR Path="/5CACEBF5/5CAD0483" Ref="C21"  Part="1" 
+AR Path="/5CFFD7A4/5CAD0483" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD0483" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD0483" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD0483" Ref="C221"  Part="1" 
+AR Path="/5D65F554/5CAD0483" Ref="C421"  Part="1" 
+AR Path="/5D65F965/5CAD0483" Ref="C621"  Part="1" 
+AR Path="/5D66274B/5CAD0483" Ref="C821"  Part="1" 
+F 0 "C221" H 9217 1296 50  0000 L CNN
+F 1 "C" H 9217 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 1250 50  0001 C CNN
+F 3 "~" H 9125 1250 50  0001 C CNN
+	1    9125 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C22
+U 1 1 5CAD048F
+P 9550 1250
+AR Path="/5CACEBF5/5CAD048F" Ref="C22"  Part="1" 
+AR Path="/5CFFD7A4/5CAD048F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD048F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD048F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD048F" Ref="C222"  Part="1" 
+AR Path="/5D65F554/5CAD048F" Ref="C422"  Part="1" 
+AR Path="/5D65F965/5CAD048F" Ref="C622"  Part="1" 
+AR Path="/5D66274B/5CAD048F" Ref="C822"  Part="1" 
+F 0 "C222" H 9642 1296 50  0000 L CNN
+F 1 "C" H 9642 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 1250 50  0001 C CNN
+F 3 "~" H 9550 1250 50  0001 C CNN
+	1    9550 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C23
+U 1 1 5CAD049B
+P 9950 1250
+AR Path="/5CACEBF5/5CAD049B" Ref="C23"  Part="1" 
+AR Path="/5CFFD7A4/5CAD049B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD049B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD049B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD049B" Ref="C223"  Part="1" 
+AR Path="/5D65F554/5CAD049B" Ref="C423"  Part="1" 
+AR Path="/5D65F965/5CAD049B" Ref="C623"  Part="1" 
+AR Path="/5D66274B/5CAD049B" Ref="C823"  Part="1" 
+F 0 "C223" H 10042 1296 50  0000 L CNN
+F 1 "C" H 10042 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 1250 50  0001 C CNN
+F 3 "~" H 9950 1250 50  0001 C CNN
+	1    9950 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C24
+U 1 1 5CAD04A7
+P 10400 1250
+AR Path="/5CACEBF5/5CAD04A7" Ref="C24"  Part="1" 
+AR Path="/5CFFD7A4/5CAD04A7" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD04A7" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD04A7" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD04A7" Ref="C224"  Part="1" 
+AR Path="/5D65F554/5CAD04A7" Ref="C424"  Part="1" 
+AR Path="/5D65F965/5CAD04A7" Ref="C624"  Part="1" 
+AR Path="/5D66274B/5CAD04A7" Ref="C824"  Part="1" 
+F 0 "C224" H 10492 1296 50  0000 L CNN
+F 1 "C" H 10492 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 1250 50  0001 C CNN
+F 3 "~" H 10400 1250 50  0001 C CNN
+	1    10400 1250
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 1150
+Connection ~ 8275 1150
+Connection ~ 8725 1150
+Connection ~ 9125 1150
+Connection ~ 9550 1150
+Connection ~ 9950 1150
+$Comp
+L Device:C_Small C1
+U 1 1 5CAD4E35
+P 900 1250
+AR Path="/5CACEBF5/5CAD4E35" Ref="C1"  Part="1" 
+AR Path="/5CFFD7A4/5CAD4E35" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CAD4E35" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CAD4E35" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CAD4E35" Ref="C201"  Part="1" 
+AR Path="/5D65F554/5CAD4E35" Ref="C401"  Part="1" 
+AR Path="/5D65F965/5CAD4E35" Ref="C601"  Part="1" 
+AR Path="/5D66274B/5CAD4E35" Ref="C801"  Part="1" 
+F 0 "C201" H 992 1296 50  0000 L CNN
+F 1 "C" H 992 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 1250 50  0001 C CNN
+F 3 "~" H 900 1250 50  0001 C CNN
+	1    900  1250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	900  1150 1250 1150
+Wire Wire Line
+	1250 1150 1650 1150
+Wire Wire Line
+	1650 1150 2075 1150
+Wire Wire Line
+	2075 1150 2475 1150
+Wire Wire Line
+	2475 1150 2925 1150
+Wire Wire Line
+	2925 1150 3325 1150
+Wire Wire Line
+	3325 1150 3750 1150
+Wire Wire Line
+	3750 1150 4150 1150
+Wire Wire Line
+	4150 1150 4600 1150
+Wire Wire Line
+	4600 1150 5000 1150
+Wire Wire Line
+	5000 1150 5425 1150
+Wire Wire Line
+	5425 1150 5825 1150
+Wire Wire Line
+	5825 1150 6275 1150
+Wire Wire Line
+	6275 1150 6675 1150
+Wire Wire Line
+	6675 1150 7100 1150
+Wire Wire Line
+	7100 1150 7500 1150
+Wire Wire Line
+	7500 1150 7875 1150
+Wire Wire Line
+	7875 1150 8275 1150
+Wire Wire Line
+	8275 1150 8725 1150
+Wire Wire Line
+	8725 1150 9125 1150
+Wire Wire Line
+	9125 1150 9550 1150
+Wire Wire Line
+	9550 1150 9950 1150
+Wire Wire Line
+	9950 1150 10400 1150
+$Comp
+L Device:C_Small C27
+U 1 1 5CDAC636
+P 1250 1775
+AR Path="/5CACEBF5/5CDAC636" Ref="C27"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC636" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC636" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC636" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC636" Ref="C227"  Part="1" 
+AR Path="/5D65F554/5CDAC636" Ref="C427"  Part="1" 
+AR Path="/5D65F965/5CDAC636" Ref="C627"  Part="1" 
+AR Path="/5D66274B/5CDAC636" Ref="C827"  Part="1" 
+F 0 "C227" H 1342 1821 50  0000 L CNN
+F 1 "C" H 1342 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 1775 50  0001 C CNN
+F 3 "~" H 1250 1775 50  0001 C CNN
+	1    1250 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 1675
+$Comp
+L Device:C_Small C28
+U 1 1 5CDAC63E
+P 1650 1775
+AR Path="/5CACEBF5/5CDAC63E" Ref="C28"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC63E" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC63E" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC63E" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC63E" Ref="C228"  Part="1" 
+AR Path="/5D65F554/5CDAC63E" Ref="C428"  Part="1" 
+AR Path="/5D65F965/5CDAC63E" Ref="C628"  Part="1" 
+AR Path="/5D66274B/5CDAC63E" Ref="C828"  Part="1" 
+F 0 "C228" H 1742 1821 50  0000 L CNN
+F 1 "C" H 1742 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 1775 50  0001 C CNN
+F 3 "~" H 1650 1775 50  0001 C CNN
+	1    1650 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 1675
+$Comp
+L Device:C_Small C29
+U 1 1 5CDAC646
+P 2075 1775
+AR Path="/5CACEBF5/5CDAC646" Ref="C29"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC646" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC646" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC646" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC646" Ref="C229"  Part="1" 
+AR Path="/5D65F554/5CDAC646" Ref="C429"  Part="1" 
+AR Path="/5D65F965/5CDAC646" Ref="C629"  Part="1" 
+AR Path="/5D66274B/5CDAC646" Ref="C829"  Part="1" 
+F 0 "C229" H 2167 1821 50  0000 L CNN
+F 1 "C" H 2167 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 1775 50  0001 C CNN
+F 3 "~" H 2075 1775 50  0001 C CNN
+	1    2075 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C30
+U 1 1 5CDAC64D
+P 2475 1775
+AR Path="/5CACEBF5/5CDAC64D" Ref="C30"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC64D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC64D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC64D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC64D" Ref="C230"  Part="1" 
+AR Path="/5D65F554/5CDAC64D" Ref="C430"  Part="1" 
+AR Path="/5D65F965/5CDAC64D" Ref="C630"  Part="1" 
+AR Path="/5D66274B/5CDAC64D" Ref="C830"  Part="1" 
+F 0 "C230" H 2567 1821 50  0000 L CNN
+F 1 "C" H 2567 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 1775 50  0001 C CNN
+F 3 "~" H 2475 1775 50  0001 C CNN
+	1    2475 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 1675
+Connection ~ 2475 1675
+$Comp
+L Device:C_Small C31
+U 1 1 5CDAC656
+P 2925 1775
+AR Path="/5CACEBF5/5CDAC656" Ref="C31"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC656" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC656" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC656" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC656" Ref="C231"  Part="1" 
+AR Path="/5D65F554/5CDAC656" Ref="C431"  Part="1" 
+AR Path="/5D65F965/5CDAC656" Ref="C631"  Part="1" 
+AR Path="/5D66274B/5CDAC656" Ref="C831"  Part="1" 
+F 0 "C231" H 3017 1821 50  0000 L CNN
+F 1 "C" H 3017 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 1775 50  0001 C CNN
+F 3 "~" H 2925 1775 50  0001 C CNN
+	1    2925 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C32
+U 1 1 5CDAC65D
+P 3325 1775
+AR Path="/5CACEBF5/5CDAC65D" Ref="C32"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC65D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC65D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC65D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC65D" Ref="C232"  Part="1" 
+AR Path="/5D65F554/5CDAC65D" Ref="C432"  Part="1" 
+AR Path="/5D65F965/5CDAC65D" Ref="C632"  Part="1" 
+AR Path="/5D66274B/5CDAC65D" Ref="C832"  Part="1" 
+F 0 "C232" H 3417 1821 50  0000 L CNN
+F 1 "C" H 3417 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 1775 50  0001 C CNN
+F 3 "~" H 3325 1775 50  0001 C CNN
+	1    3325 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C33
+U 1 1 5CDAC664
+P 3750 1775
+AR Path="/5CACEBF5/5CDAC664" Ref="C33"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC664" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC664" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC664" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC664" Ref="C233"  Part="1" 
+AR Path="/5D65F554/5CDAC664" Ref="C433"  Part="1" 
+AR Path="/5D65F965/5CDAC664" Ref="C633"  Part="1" 
+AR Path="/5D66274B/5CDAC664" Ref="C833"  Part="1" 
+F 0 "C233" H 3842 1821 50  0000 L CNN
+F 1 "C" H 3842 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 1775 50  0001 C CNN
+F 3 "~" H 3750 1775 50  0001 C CNN
+	1    3750 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C34
+U 1 1 5CDAC66B
+P 4150 1775
+AR Path="/5CACEBF5/5CDAC66B" Ref="C34"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC66B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC66B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC66B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC66B" Ref="C234"  Part="1" 
+AR Path="/5D65F554/5CDAC66B" Ref="C434"  Part="1" 
+AR Path="/5D65F965/5CDAC66B" Ref="C634"  Part="1" 
+AR Path="/5D66274B/5CDAC66B" Ref="C834"  Part="1" 
+F 0 "C234" H 4242 1821 50  0000 L CNN
+F 1 "C" H 4242 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 1775 50  0001 C CNN
+F 3 "~" H 4150 1775 50  0001 C CNN
+	1    4150 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 1675
+Connection ~ 3325 1675
+Connection ~ 3750 1675
+Connection ~ 4150 1675
+$Comp
+L Device:C_Small C35
+U 1 1 5CDAC676
+P 4600 1775
+AR Path="/5CACEBF5/5CDAC676" Ref="C35"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC676" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC676" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC676" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC676" Ref="C235"  Part="1" 
+AR Path="/5D65F554/5CDAC676" Ref="C435"  Part="1" 
+AR Path="/5D65F965/5CDAC676" Ref="C635"  Part="1" 
+AR Path="/5D66274B/5CDAC676" Ref="C835"  Part="1" 
+F 0 "C235" H 4692 1821 50  0000 L CNN
+F 1 "C" H 4692 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 1775 50  0001 C CNN
+F 3 "~" H 4600 1775 50  0001 C CNN
+	1    4600 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C36
+U 1 1 5CDAC67D
+P 5000 1775
+AR Path="/5CACEBF5/5CDAC67D" Ref="C36"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC67D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC67D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC67D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC67D" Ref="C236"  Part="1" 
+AR Path="/5D65F554/5CDAC67D" Ref="C436"  Part="1" 
+AR Path="/5D65F965/5CDAC67D" Ref="C636"  Part="1" 
+AR Path="/5D66274B/5CDAC67D" Ref="C836"  Part="1" 
+F 0 "C236" H 5092 1821 50  0000 L CNN
+F 1 "C" H 5092 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 1775 50  0001 C CNN
+F 3 "~" H 5000 1775 50  0001 C CNN
+	1    5000 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C37
+U 1 1 5CDAC684
+P 5425 1775
+AR Path="/5CACEBF5/5CDAC684" Ref="C37"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC684" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC684" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC684" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC684" Ref="C237"  Part="1" 
+AR Path="/5D65F554/5CDAC684" Ref="C437"  Part="1" 
+AR Path="/5D65F965/5CDAC684" Ref="C637"  Part="1" 
+AR Path="/5D66274B/5CDAC684" Ref="C837"  Part="1" 
+F 0 "C237" H 5517 1821 50  0000 L CNN
+F 1 "C" H 5517 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 1775 50  0001 C CNN
+F 3 "~" H 5425 1775 50  0001 C CNN
+	1    5425 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C38
+U 1 1 5CDAC68B
+P 5825 1775
+AR Path="/5CACEBF5/5CDAC68B" Ref="C38"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC68B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC68B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC68B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC68B" Ref="C238"  Part="1" 
+AR Path="/5D65F554/5CDAC68B" Ref="C438"  Part="1" 
+AR Path="/5D65F965/5CDAC68B" Ref="C638"  Part="1" 
+AR Path="/5D66274B/5CDAC68B" Ref="C838"  Part="1" 
+F 0 "C238" H 5917 1821 50  0000 L CNN
+F 1 "C" H 5917 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 1775 50  0001 C CNN
+F 3 "~" H 5825 1775 50  0001 C CNN
+	1    5825 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C39
+U 1 1 5CDAC692
+P 6275 1775
+AR Path="/5CACEBF5/5CDAC692" Ref="C39"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC692" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC692" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC692" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC692" Ref="C239"  Part="1" 
+AR Path="/5D65F554/5CDAC692" Ref="C439"  Part="1" 
+AR Path="/5D65F965/5CDAC692" Ref="C639"  Part="1" 
+AR Path="/5D66274B/5CDAC692" Ref="C839"  Part="1" 
+F 0 "C239" H 6367 1821 50  0000 L CNN
+F 1 "C" H 6367 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 1775 50  0001 C CNN
+F 3 "~" H 6275 1775 50  0001 C CNN
+	1    6275 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C40
+U 1 1 5CDAC699
+P 6675 1775
+AR Path="/5CACEBF5/5CDAC699" Ref="C40"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC699" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC699" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC699" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC699" Ref="C240"  Part="1" 
+AR Path="/5D65F554/5CDAC699" Ref="C440"  Part="1" 
+AR Path="/5D65F965/5CDAC699" Ref="C640"  Part="1" 
+AR Path="/5D66274B/5CDAC699" Ref="C840"  Part="1" 
+F 0 "C240" H 6767 1821 50  0000 L CNN
+F 1 "C" H 6767 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 1775 50  0001 C CNN
+F 3 "~" H 6675 1775 50  0001 C CNN
+	1    6675 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C41
+U 1 1 5CDAC6A0
+P 7100 1775
+AR Path="/5CACEBF5/5CDAC6A0" Ref="C41"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6A0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6A0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6A0" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6A0" Ref="C241"  Part="1" 
+AR Path="/5D65F554/5CDAC6A0" Ref="C441"  Part="1" 
+AR Path="/5D65F965/5CDAC6A0" Ref="C641"  Part="1" 
+AR Path="/5D66274B/5CDAC6A0" Ref="C841"  Part="1" 
+F 0 "C241" H 7192 1821 50  0000 L CNN
+F 1 "C" H 7192 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 1775 50  0001 C CNN
+F 3 "~" H 7100 1775 50  0001 C CNN
+	1    7100 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C42
+U 1 1 5CDAC6A7
+P 7500 1775
+AR Path="/5CACEBF5/5CDAC6A7" Ref="C42"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6A7" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6A7" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6A7" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6A7" Ref="C242"  Part="1" 
+AR Path="/5D65F554/5CDAC6A7" Ref="C442"  Part="1" 
+AR Path="/5D65F965/5CDAC6A7" Ref="C642"  Part="1" 
+AR Path="/5D66274B/5CDAC6A7" Ref="C842"  Part="1" 
+F 0 "C242" H 7592 1821 50  0000 L CNN
+F 1 "C" H 7592 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 1775 50  0001 C CNN
+F 3 "~" H 7500 1775 50  0001 C CNN
+	1    7500 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 1675
+Connection ~ 5000 1675
+Connection ~ 5425 1675
+Connection ~ 5825 1675
+Connection ~ 6275 1675
+Connection ~ 6675 1675
+Connection ~ 7100 1675
+Connection ~ 7500 1675
+$Comp
+L Device:C_Small C43
+U 1 1 5CDAC6B6
+P 7875 1775
+AR Path="/5CACEBF5/5CDAC6B6" Ref="C43"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6B6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6B6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6B6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6B6" Ref="C243"  Part="1" 
+AR Path="/5D65F554/5CDAC6B6" Ref="C443"  Part="1" 
+AR Path="/5D65F965/5CDAC6B6" Ref="C643"  Part="1" 
+AR Path="/5D66274B/5CDAC6B6" Ref="C843"  Part="1" 
+F 0 "C243" H 7967 1821 50  0000 L CNN
+F 1 "C" H 7967 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 1775 50  0001 C CNN
+F 3 "~" H 7875 1775 50  0001 C CNN
+	1    7875 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C44
+U 1 1 5CDAC6BD
+P 8275 1775
+AR Path="/5CACEBF5/5CDAC6BD" Ref="C44"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6BD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6BD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6BD" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6BD" Ref="C244"  Part="1" 
+AR Path="/5D65F554/5CDAC6BD" Ref="C444"  Part="1" 
+AR Path="/5D65F965/5CDAC6BD" Ref="C644"  Part="1" 
+AR Path="/5D66274B/5CDAC6BD" Ref="C844"  Part="1" 
+F 0 "C244" H 8367 1821 50  0000 L CNN
+F 1 "C" H 8367 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 1775 50  0001 C CNN
+F 3 "~" H 8275 1775 50  0001 C CNN
+	1    8275 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C45
+U 1 1 5CDAC6C4
+P 8725 1775
+AR Path="/5CACEBF5/5CDAC6C4" Ref="C45"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6C4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6C4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6C4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6C4" Ref="C245"  Part="1" 
+AR Path="/5D65F554/5CDAC6C4" Ref="C445"  Part="1" 
+AR Path="/5D65F965/5CDAC6C4" Ref="C645"  Part="1" 
+AR Path="/5D66274B/5CDAC6C4" Ref="C845"  Part="1" 
+F 0 "C245" H 8817 1821 50  0000 L CNN
+F 1 "C" H 8817 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 1775 50  0001 C CNN
+F 3 "~" H 8725 1775 50  0001 C CNN
+	1    8725 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C46
+U 1 1 5CDAC6CB
+P 9125 1775
+AR Path="/5CACEBF5/5CDAC6CB" Ref="C46"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6CB" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6CB" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6CB" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6CB" Ref="C246"  Part="1" 
+AR Path="/5D65F554/5CDAC6CB" Ref="C446"  Part="1" 
+AR Path="/5D65F965/5CDAC6CB" Ref="C646"  Part="1" 
+AR Path="/5D66274B/5CDAC6CB" Ref="C846"  Part="1" 
+F 0 "C246" H 9217 1821 50  0000 L CNN
+F 1 "C" H 9217 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 1775 50  0001 C CNN
+F 3 "~" H 9125 1775 50  0001 C CNN
+	1    9125 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C47
+U 1 1 5CDAC6D2
+P 9550 1775
+AR Path="/5CACEBF5/5CDAC6D2" Ref="C47"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6D2" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6D2" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6D2" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6D2" Ref="C247"  Part="1" 
+AR Path="/5D65F554/5CDAC6D2" Ref="C447"  Part="1" 
+AR Path="/5D65F965/5CDAC6D2" Ref="C647"  Part="1" 
+AR Path="/5D66274B/5CDAC6D2" Ref="C847"  Part="1" 
+F 0 "C247" H 9642 1821 50  0000 L CNN
+F 1 "C" H 9642 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 1775 50  0001 C CNN
+F 3 "~" H 9550 1775 50  0001 C CNN
+	1    9550 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C48
+U 1 1 5CDAC6D9
+P 9950 1775
+AR Path="/5CACEBF5/5CDAC6D9" Ref="C48"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6D9" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6D9" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6D9" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6D9" Ref="C248"  Part="1" 
+AR Path="/5D65F554/5CDAC6D9" Ref="C448"  Part="1" 
+AR Path="/5D65F965/5CDAC6D9" Ref="C648"  Part="1" 
+AR Path="/5D66274B/5CDAC6D9" Ref="C848"  Part="1" 
+F 0 "C248" H 10042 1821 50  0000 L CNN
+F 1 "C" H 10042 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 1775 50  0001 C CNN
+F 3 "~" H 9950 1775 50  0001 C CNN
+	1    9950 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C49
+U 1 1 5CDAC6E0
+P 10400 1775
+AR Path="/5CACEBF5/5CDAC6E0" Ref="C49"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6E0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6E0" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6E0" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6E0" Ref="C249"  Part="1" 
+AR Path="/5D65F554/5CDAC6E0" Ref="C449"  Part="1" 
+AR Path="/5D65F965/5CDAC6E0" Ref="C649"  Part="1" 
+AR Path="/5D66274B/5CDAC6E0" Ref="C849"  Part="1" 
+F 0 "C249" H 10492 1821 50  0000 L CNN
+F 1 "C" H 10492 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 1775 50  0001 C CNN
+F 3 "~" H 10400 1775 50  0001 C CNN
+	1    10400 1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 1675
+Connection ~ 8275 1675
+Connection ~ 8725 1675
+Connection ~ 9125 1675
+Connection ~ 9550 1675
+Connection ~ 9950 1675
+$Comp
+L Device:C_Small C26
+U 1 1 5CDAC6ED
+P 900 1775
+AR Path="/5CACEBF5/5CDAC6ED" Ref="C26"  Part="1" 
+AR Path="/5CFFD7A4/5CDAC6ED" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAC6ED" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAC6ED" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAC6ED" Ref="C226"  Part="1" 
+AR Path="/5D65F554/5CDAC6ED" Ref="C426"  Part="1" 
+AR Path="/5D65F965/5CDAC6ED" Ref="C626"  Part="1" 
+AR Path="/5D66274B/5CDAC6ED" Ref="C826"  Part="1" 
+F 0 "C226" H 992 1821 50  0000 L CNN
+F 1 "C" H 992 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 1775 50  0001 C CNN
+F 3 "~" H 900 1775 50  0001 C CNN
+	1    900  1775
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  1675
+Wire Wire Line
+	750  1675 900  1675
+Wire Wire Line
+	900  1675 1250 1675
+Wire Wire Line
+	1250 1675 1650 1675
+Wire Wire Line
+	1650 1675 2075 1675
+Wire Wire Line
+	2075 1675 2475 1675
+Wire Wire Line
+	2475 1675 2925 1675
+Wire Wire Line
+	2925 1675 3325 1675
+Wire Wire Line
+	3325 1675 3750 1675
+Wire Wire Line
+	3750 1675 4150 1675
+Wire Wire Line
+	4150 1675 4600 1675
+Wire Wire Line
+	4600 1675 5000 1675
+Wire Wire Line
+	5000 1675 5425 1675
+Wire Wire Line
+	5425 1675 5825 1675
+Wire Wire Line
+	5825 1675 6275 1675
+Wire Wire Line
+	6275 1675 6675 1675
+Wire Wire Line
+	6675 1675 7100 1675
+Wire Wire Line
+	7100 1675 7500 1675
+Wire Wire Line
+	7500 1675 7875 1675
+Wire Wire Line
+	7875 1675 8275 1675
+Wire Wire Line
+	8275 1675 8725 1675
+Wire Wire Line
+	8725 1675 9125 1675
+Wire Wire Line
+	9125 1675 9550 1675
+Wire Wire Line
+	9550 1675 9950 1675
+Wire Wire Line
+	9950 1675 10400 1675
+$Comp
+L Device:C_Small C52
+U 1 1 5CDADFC5
+P 1250 2225
+AR Path="/5CACEBF5/5CDADFC5" Ref="C52"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFC5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFC5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFC5" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFC5" Ref="C252"  Part="1" 
+AR Path="/5D65F554/5CDADFC5" Ref="C452"  Part="1" 
+AR Path="/5D65F965/5CDADFC5" Ref="C652"  Part="1" 
+AR Path="/5D66274B/5CDADFC5" Ref="C852"  Part="1" 
+F 0 "C252" H 1342 2271 50  0000 L CNN
+F 1 "C" H 1342 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 2225 50  0001 C CNN
+F 3 "~" H 1250 2225 50  0001 C CNN
+	1    1250 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 2125
+$Comp
+L Device:C_Small C53
+U 1 1 5CDADFCD
+P 1650 2225
+AR Path="/5CACEBF5/5CDADFCD" Ref="C53"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFCD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFCD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFCD" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFCD" Ref="C253"  Part="1" 
+AR Path="/5D65F554/5CDADFCD" Ref="C453"  Part="1" 
+AR Path="/5D65F965/5CDADFCD" Ref="C653"  Part="1" 
+AR Path="/5D66274B/5CDADFCD" Ref="C853"  Part="1" 
+F 0 "C253" H 1742 2271 50  0000 L CNN
+F 1 "C" H 1742 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 2225 50  0001 C CNN
+F 3 "~" H 1650 2225 50  0001 C CNN
+	1    1650 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 2125
+$Comp
+L Device:C_Small C54
+U 1 1 5CDADFD5
+P 2075 2225
+AR Path="/5CACEBF5/5CDADFD5" Ref="C54"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFD5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFD5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFD5" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFD5" Ref="C254"  Part="1" 
+AR Path="/5D65F554/5CDADFD5" Ref="C454"  Part="1" 
+AR Path="/5D65F965/5CDADFD5" Ref="C654"  Part="1" 
+AR Path="/5D66274B/5CDADFD5" Ref="C854"  Part="1" 
+F 0 "C254" H 2167 2271 50  0000 L CNN
+F 1 "C" H 2167 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 2225 50  0001 C CNN
+F 3 "~" H 2075 2225 50  0001 C CNN
+	1    2075 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C55
+U 1 1 5CDADFDC
+P 2475 2225
+AR Path="/5CACEBF5/5CDADFDC" Ref="C55"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFDC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFDC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFDC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFDC" Ref="C255"  Part="1" 
+AR Path="/5D65F554/5CDADFDC" Ref="C455"  Part="1" 
+AR Path="/5D65F965/5CDADFDC" Ref="C655"  Part="1" 
+AR Path="/5D66274B/5CDADFDC" Ref="C855"  Part="1" 
+F 0 "C255" H 2567 2271 50  0000 L CNN
+F 1 "C" H 2567 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 2225 50  0001 C CNN
+F 3 "~" H 2475 2225 50  0001 C CNN
+	1    2475 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 2125
+Connection ~ 2475 2125
+$Comp
+L Device:C_Small C56
+U 1 1 5CDADFE5
+P 2925 2225
+AR Path="/5CACEBF5/5CDADFE5" Ref="C56"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFE5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFE5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFE5" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFE5" Ref="C256"  Part="1" 
+AR Path="/5D65F554/5CDADFE5" Ref="C456"  Part="1" 
+AR Path="/5D65F965/5CDADFE5" Ref="C656"  Part="1" 
+AR Path="/5D66274B/5CDADFE5" Ref="C856"  Part="1" 
+F 0 "C256" H 3017 2271 50  0000 L CNN
+F 1 "C" H 3017 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 2225 50  0001 C CNN
+F 3 "~" H 2925 2225 50  0001 C CNN
+	1    2925 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C57
+U 1 1 5CDADFEC
+P 3325 2225
+AR Path="/5CACEBF5/5CDADFEC" Ref="C57"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFEC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFEC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFEC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFEC" Ref="C257"  Part="1" 
+AR Path="/5D65F554/5CDADFEC" Ref="C457"  Part="1" 
+AR Path="/5D65F965/5CDADFEC" Ref="C657"  Part="1" 
+AR Path="/5D66274B/5CDADFEC" Ref="C857"  Part="1" 
+F 0 "C257" H 3417 2271 50  0000 L CNN
+F 1 "C" H 3417 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 2225 50  0001 C CNN
+F 3 "~" H 3325 2225 50  0001 C CNN
+	1    3325 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C58
+U 1 1 5CDADFF3
+P 3750 2225
+AR Path="/5CACEBF5/5CDADFF3" Ref="C58"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFF3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFF3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFF3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFF3" Ref="C258"  Part="1" 
+AR Path="/5D65F554/5CDADFF3" Ref="C458"  Part="1" 
+AR Path="/5D65F965/5CDADFF3" Ref="C658"  Part="1" 
+AR Path="/5D66274B/5CDADFF3" Ref="C858"  Part="1" 
+F 0 "C258" H 3842 2271 50  0000 L CNN
+F 1 "C" H 3842 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 2225 50  0001 C CNN
+F 3 "~" H 3750 2225 50  0001 C CNN
+	1    3750 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C59
+U 1 1 5CDADFFA
+P 4150 2225
+AR Path="/5CACEBF5/5CDADFFA" Ref="C59"  Part="1" 
+AR Path="/5CFFD7A4/5CDADFFA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDADFFA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDADFFA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDADFFA" Ref="C259"  Part="1" 
+AR Path="/5D65F554/5CDADFFA" Ref="C459"  Part="1" 
+AR Path="/5D65F965/5CDADFFA" Ref="C659"  Part="1" 
+AR Path="/5D66274B/5CDADFFA" Ref="C859"  Part="1" 
+F 0 "C259" H 4242 2271 50  0000 L CNN
+F 1 "C" H 4242 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 2225 50  0001 C CNN
+F 3 "~" H 4150 2225 50  0001 C CNN
+	1    4150 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 2125
+Connection ~ 3325 2125
+Connection ~ 3750 2125
+Connection ~ 4150 2125
+$Comp
+L Device:C_Small C60
+U 1 1 5CDAE005
+P 4600 2225
+AR Path="/5CACEBF5/5CDAE005" Ref="C60"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE005" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE005" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE005" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE005" Ref="C260"  Part="1" 
+AR Path="/5D65F554/5CDAE005" Ref="C460"  Part="1" 
+AR Path="/5D65F965/5CDAE005" Ref="C660"  Part="1" 
+AR Path="/5D66274B/5CDAE005" Ref="C860"  Part="1" 
+F 0 "C260" H 4692 2271 50  0000 L CNN
+F 1 "C" H 4692 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 2225 50  0001 C CNN
+F 3 "~" H 4600 2225 50  0001 C CNN
+	1    4600 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C61
+U 1 1 5CDAE00C
+P 5000 2225
+AR Path="/5CACEBF5/5CDAE00C" Ref="C61"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE00C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE00C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE00C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE00C" Ref="C261"  Part="1" 
+AR Path="/5D65F554/5CDAE00C" Ref="C461"  Part="1" 
+AR Path="/5D65F965/5CDAE00C" Ref="C661"  Part="1" 
+AR Path="/5D66274B/5CDAE00C" Ref="C861"  Part="1" 
+F 0 "C261" H 5092 2271 50  0000 L CNN
+F 1 "C" H 5092 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 2225 50  0001 C CNN
+F 3 "~" H 5000 2225 50  0001 C CNN
+	1    5000 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C62
+U 1 1 5CDAE013
+P 5425 2225
+AR Path="/5CACEBF5/5CDAE013" Ref="C62"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE013" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE013" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE013" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE013" Ref="C262"  Part="1" 
+AR Path="/5D65F554/5CDAE013" Ref="C462"  Part="1" 
+AR Path="/5D65F965/5CDAE013" Ref="C662"  Part="1" 
+AR Path="/5D66274B/5CDAE013" Ref="C862"  Part="1" 
+F 0 "C262" H 5517 2271 50  0000 L CNN
+F 1 "C" H 5517 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 2225 50  0001 C CNN
+F 3 "~" H 5425 2225 50  0001 C CNN
+	1    5425 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C63
+U 1 1 5CDAE01A
+P 5825 2225
+AR Path="/5CACEBF5/5CDAE01A" Ref="C63"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE01A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE01A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE01A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE01A" Ref="C263"  Part="1" 
+AR Path="/5D65F554/5CDAE01A" Ref="C463"  Part="1" 
+AR Path="/5D65F965/5CDAE01A" Ref="C663"  Part="1" 
+AR Path="/5D66274B/5CDAE01A" Ref="C863"  Part="1" 
+F 0 "C263" H 5917 2271 50  0000 L CNN
+F 1 "C" H 5917 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 2225 50  0001 C CNN
+F 3 "~" H 5825 2225 50  0001 C CNN
+	1    5825 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C64
+U 1 1 5CDAE021
+P 6275 2225
+AR Path="/5CACEBF5/5CDAE021" Ref="C64"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE021" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE021" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE021" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE021" Ref="C264"  Part="1" 
+AR Path="/5D65F554/5CDAE021" Ref="C464"  Part="1" 
+AR Path="/5D65F965/5CDAE021" Ref="C664"  Part="1" 
+AR Path="/5D66274B/5CDAE021" Ref="C864"  Part="1" 
+F 0 "C264" H 6367 2271 50  0000 L CNN
+F 1 "C" H 6367 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 2225 50  0001 C CNN
+F 3 "~" H 6275 2225 50  0001 C CNN
+	1    6275 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C65
+U 1 1 5CDAE028
+P 6675 2225
+AR Path="/5CACEBF5/5CDAE028" Ref="C65"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE028" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE028" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE028" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE028" Ref="C265"  Part="1" 
+AR Path="/5D65F554/5CDAE028" Ref="C465"  Part="1" 
+AR Path="/5D65F965/5CDAE028" Ref="C665"  Part="1" 
+AR Path="/5D66274B/5CDAE028" Ref="C865"  Part="1" 
+F 0 "C265" H 6767 2271 50  0000 L CNN
+F 1 "C" H 6767 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 2225 50  0001 C CNN
+F 3 "~" H 6675 2225 50  0001 C CNN
+	1    6675 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C66
+U 1 1 5CDAE02F
+P 7100 2225
+AR Path="/5CACEBF5/5CDAE02F" Ref="C66"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE02F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE02F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE02F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE02F" Ref="C266"  Part="1" 
+AR Path="/5D65F554/5CDAE02F" Ref="C466"  Part="1" 
+AR Path="/5D65F965/5CDAE02F" Ref="C666"  Part="1" 
+AR Path="/5D66274B/5CDAE02F" Ref="C866"  Part="1" 
+F 0 "C266" H 7192 2271 50  0000 L CNN
+F 1 "C" H 7192 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 2225 50  0001 C CNN
+F 3 "~" H 7100 2225 50  0001 C CNN
+	1    7100 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C67
+U 1 1 5CDAE036
+P 7500 2225
+AR Path="/5CACEBF5/5CDAE036" Ref="C67"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE036" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE036" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE036" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE036" Ref="C267"  Part="1" 
+AR Path="/5D65F554/5CDAE036" Ref="C467"  Part="1" 
+AR Path="/5D65F965/5CDAE036" Ref="C667"  Part="1" 
+AR Path="/5D66274B/5CDAE036" Ref="C867"  Part="1" 
+F 0 "C267" H 7592 2271 50  0000 L CNN
+F 1 "C" H 7592 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 2225 50  0001 C CNN
+F 3 "~" H 7500 2225 50  0001 C CNN
+	1    7500 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 2125
+Connection ~ 5000 2125
+Connection ~ 5425 2125
+Connection ~ 5825 2125
+Connection ~ 6275 2125
+Connection ~ 6675 2125
+Connection ~ 7100 2125
+Connection ~ 7500 2125
+$Comp
+L Device:C_Small C68
+U 1 1 5CDAE045
+P 7875 2225
+AR Path="/5CACEBF5/5CDAE045" Ref="C68"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE045" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE045" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE045" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE045" Ref="C268"  Part="1" 
+AR Path="/5D65F554/5CDAE045" Ref="C468"  Part="1" 
+AR Path="/5D65F965/5CDAE045" Ref="C668"  Part="1" 
+AR Path="/5D66274B/5CDAE045" Ref="C868"  Part="1" 
+F 0 "C268" H 7967 2271 50  0000 L CNN
+F 1 "C" H 7967 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 2225 50  0001 C CNN
+F 3 "~" H 7875 2225 50  0001 C CNN
+	1    7875 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C69
+U 1 1 5CDAE04C
+P 8275 2225
+AR Path="/5CACEBF5/5CDAE04C" Ref="C69"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE04C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE04C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE04C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE04C" Ref="C269"  Part="1" 
+AR Path="/5D65F554/5CDAE04C" Ref="C469"  Part="1" 
+AR Path="/5D65F965/5CDAE04C" Ref="C669"  Part="1" 
+AR Path="/5D66274B/5CDAE04C" Ref="C869"  Part="1" 
+F 0 "C269" H 8367 2271 50  0000 L CNN
+F 1 "C" H 8367 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 2225 50  0001 C CNN
+F 3 "~" H 8275 2225 50  0001 C CNN
+	1    8275 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C70
+U 1 1 5CDAE053
+P 8725 2225
+AR Path="/5CACEBF5/5CDAE053" Ref="C70"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE053" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE053" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE053" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE053" Ref="C270"  Part="1" 
+AR Path="/5D65F554/5CDAE053" Ref="C470"  Part="1" 
+AR Path="/5D65F965/5CDAE053" Ref="C670"  Part="1" 
+AR Path="/5D66274B/5CDAE053" Ref="C870"  Part="1" 
+F 0 "C270" H 8817 2271 50  0000 L CNN
+F 1 "C" H 8817 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 2225 50  0001 C CNN
+F 3 "~" H 8725 2225 50  0001 C CNN
+	1    8725 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C71
+U 1 1 5CDAE05A
+P 9125 2225
+AR Path="/5CACEBF5/5CDAE05A" Ref="C71"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE05A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE05A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE05A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE05A" Ref="C271"  Part="1" 
+AR Path="/5D65F554/5CDAE05A" Ref="C471"  Part="1" 
+AR Path="/5D65F965/5CDAE05A" Ref="C671"  Part="1" 
+AR Path="/5D66274B/5CDAE05A" Ref="C871"  Part="1" 
+F 0 "C271" H 9217 2271 50  0000 L CNN
+F 1 "C" H 9217 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 2225 50  0001 C CNN
+F 3 "~" H 9125 2225 50  0001 C CNN
+	1    9125 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C72
+U 1 1 5CDAE061
+P 9550 2225
+AR Path="/5CACEBF5/5CDAE061" Ref="C72"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE061" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE061" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE061" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE061" Ref="C272"  Part="1" 
+AR Path="/5D65F554/5CDAE061" Ref="C472"  Part="1" 
+AR Path="/5D65F965/5CDAE061" Ref="C672"  Part="1" 
+AR Path="/5D66274B/5CDAE061" Ref="C872"  Part="1" 
+F 0 "C272" H 9642 2271 50  0000 L CNN
+F 1 "C" H 9642 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 2225 50  0001 C CNN
+F 3 "~" H 9550 2225 50  0001 C CNN
+	1    9550 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C73
+U 1 1 5CDAE068
+P 9950 2225
+AR Path="/5CACEBF5/5CDAE068" Ref="C73"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE068" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE068" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE068" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE068" Ref="C273"  Part="1" 
+AR Path="/5D65F554/5CDAE068" Ref="C473"  Part="1" 
+AR Path="/5D65F965/5CDAE068" Ref="C673"  Part="1" 
+AR Path="/5D66274B/5CDAE068" Ref="C873"  Part="1" 
+F 0 "C273" H 10042 2271 50  0000 L CNN
+F 1 "C" H 10042 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 2225 50  0001 C CNN
+F 3 "~" H 9950 2225 50  0001 C CNN
+	1    9950 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C74
+U 1 1 5CDAE06F
+P 10400 2225
+AR Path="/5CACEBF5/5CDAE06F" Ref="C74"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE06F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE06F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE06F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE06F" Ref="C274"  Part="1" 
+AR Path="/5D65F554/5CDAE06F" Ref="C474"  Part="1" 
+AR Path="/5D65F965/5CDAE06F" Ref="C674"  Part="1" 
+AR Path="/5D66274B/5CDAE06F" Ref="C874"  Part="1" 
+F 0 "C274" H 10492 2271 50  0000 L CNN
+F 1 "C" H 10492 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 2225 50  0001 C CNN
+F 3 "~" H 10400 2225 50  0001 C CNN
+	1    10400 2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 2125
+Connection ~ 8275 2125
+Connection ~ 8725 2125
+Connection ~ 9125 2125
+Connection ~ 9550 2125
+Connection ~ 9950 2125
+$Comp
+L Device:C_Small C51
+U 1 1 5CDAE07C
+P 900 2225
+AR Path="/5CACEBF5/5CDAE07C" Ref="C51"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE07C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE07C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE07C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE07C" Ref="C251"  Part="1" 
+AR Path="/5D65F554/5CDAE07C" Ref="C451"  Part="1" 
+AR Path="/5D65F965/5CDAE07C" Ref="C651"  Part="1" 
+AR Path="/5D66274B/5CDAE07C" Ref="C851"  Part="1" 
+F 0 "C251" H 992 2271 50  0000 L CNN
+F 1 "C" H 992 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 2225 50  0001 C CNN
+F 3 "~" H 900 2225 50  0001 C CNN
+	1    900  2225
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  2125
+Wire Wire Line
+	750  2125 900  2125
+Wire Wire Line
+	900  2125 1250 2125
+Wire Wire Line
+	1250 2125 1650 2125
+Wire Wire Line
+	1650 2125 2075 2125
+Wire Wire Line
+	2075 2125 2475 2125
+Wire Wire Line
+	2475 2125 2925 2125
+Wire Wire Line
+	2925 2125 3325 2125
+Wire Wire Line
+	3325 2125 3750 2125
+Wire Wire Line
+	3750 2125 4150 2125
+Wire Wire Line
+	4150 2125 4600 2125
+Wire Wire Line
+	4600 2125 5000 2125
+Wire Wire Line
+	5000 2125 5425 2125
+Wire Wire Line
+	5425 2125 5825 2125
+Wire Wire Line
+	5825 2125 6275 2125
+Wire Wire Line
+	6275 2125 6675 2125
+Wire Wire Line
+	6675 2125 7100 2125
+Wire Wire Line
+	7100 2125 7500 2125
+Wire Wire Line
+	7500 2125 7875 2125
+Wire Wire Line
+	7875 2125 8275 2125
+Wire Wire Line
+	8275 2125 8725 2125
+Wire Wire Line
+	8725 2125 9125 2125
+Wire Wire Line
+	9125 2125 9550 2125
+Wire Wire Line
+	9550 2125 9950 2125
+Wire Wire Line
+	9950 2125 10400 2125
+$Comp
+L Device:C_Small C77
+U 1 1 5CDAE09C
+P 1250 2750
+AR Path="/5CACEBF5/5CDAE09C" Ref="C77"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE09C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE09C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE09C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE09C" Ref="C277"  Part="1" 
+AR Path="/5D65F554/5CDAE09C" Ref="C477"  Part="1" 
+AR Path="/5D65F965/5CDAE09C" Ref="C677"  Part="1" 
+AR Path="/5D66274B/5CDAE09C" Ref="C877"  Part="1" 
+F 0 "C277" H 1342 2796 50  0000 L CNN
+F 1 "C" H 1342 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 2750 50  0001 C CNN
+F 3 "~" H 1250 2750 50  0001 C CNN
+	1    1250 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 2650
+$Comp
+L Device:C_Small C78
+U 1 1 5CDAE0A4
+P 1650 2750
+AR Path="/5CACEBF5/5CDAE0A4" Ref="C78"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0A4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0A4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0A4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0A4" Ref="C278"  Part="1" 
+AR Path="/5D65F554/5CDAE0A4" Ref="C478"  Part="1" 
+AR Path="/5D65F965/5CDAE0A4" Ref="C678"  Part="1" 
+AR Path="/5D66274B/5CDAE0A4" Ref="C878"  Part="1" 
+F 0 "C278" H 1742 2796 50  0000 L CNN
+F 1 "C" H 1742 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 2750 50  0001 C CNN
+F 3 "~" H 1650 2750 50  0001 C CNN
+	1    1650 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 2650
+$Comp
+L Device:C_Small C79
+U 1 1 5CDAE0AC
+P 2075 2750
+AR Path="/5CACEBF5/5CDAE0AC" Ref="C79"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0AC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0AC" Ref="C279"  Part="1" 
+AR Path="/5D65F554/5CDAE0AC" Ref="C479"  Part="1" 
+AR Path="/5D65F965/5CDAE0AC" Ref="C679"  Part="1" 
+AR Path="/5D66274B/5CDAE0AC" Ref="C879"  Part="1" 
+F 0 "C279" H 2167 2796 50  0000 L CNN
+F 1 "C" H 2167 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 2750 50  0001 C CNN
+F 3 "~" H 2075 2750 50  0001 C CNN
+	1    2075 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C80
+U 1 1 5CDAE0B3
+P 2475 2750
+AR Path="/5CACEBF5/5CDAE0B3" Ref="C80"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0B3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0B3" Ref="C280"  Part="1" 
+AR Path="/5D65F554/5CDAE0B3" Ref="C480"  Part="1" 
+AR Path="/5D65F965/5CDAE0B3" Ref="C680"  Part="1" 
+AR Path="/5D66274B/5CDAE0B3" Ref="C880"  Part="1" 
+F 0 "C280" H 2567 2796 50  0000 L CNN
+F 1 "C" H 2567 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 2750 50  0001 C CNN
+F 3 "~" H 2475 2750 50  0001 C CNN
+	1    2475 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 2650
+Connection ~ 2475 2650
+$Comp
+L Device:C_Small C81
+U 1 1 5CDAE0BC
+P 2925 2750
+AR Path="/5CACEBF5/5CDAE0BC" Ref="C81"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0BC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0BC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0BC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0BC" Ref="C281"  Part="1" 
+AR Path="/5D65F554/5CDAE0BC" Ref="C481"  Part="1" 
+AR Path="/5D65F965/5CDAE0BC" Ref="C681"  Part="1" 
+AR Path="/5D66274B/5CDAE0BC" Ref="C881"  Part="1" 
+F 0 "C281" H 3017 2796 50  0000 L CNN
+F 1 "C" H 3017 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 2750 50  0001 C CNN
+F 3 "~" H 2925 2750 50  0001 C CNN
+	1    2925 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C82
+U 1 1 5CDAE0C3
+P 3325 2750
+AR Path="/5CACEBF5/5CDAE0C3" Ref="C82"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0C3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0C3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0C3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0C3" Ref="C282"  Part="1" 
+AR Path="/5D65F554/5CDAE0C3" Ref="C482"  Part="1" 
+AR Path="/5D65F965/5CDAE0C3" Ref="C682"  Part="1" 
+AR Path="/5D66274B/5CDAE0C3" Ref="C882"  Part="1" 
+F 0 "C282" H 3417 2796 50  0000 L CNN
+F 1 "C" H 3417 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 2750 50  0001 C CNN
+F 3 "~" H 3325 2750 50  0001 C CNN
+	1    3325 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C83
+U 1 1 5CDAE0CA
+P 3750 2750
+AR Path="/5CACEBF5/5CDAE0CA" Ref="C83"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0CA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0CA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0CA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0CA" Ref="C283"  Part="1" 
+AR Path="/5D65F554/5CDAE0CA" Ref="C483"  Part="1" 
+AR Path="/5D65F965/5CDAE0CA" Ref="C683"  Part="1" 
+AR Path="/5D66274B/5CDAE0CA" Ref="C883"  Part="1" 
+F 0 "C283" H 3842 2796 50  0000 L CNN
+F 1 "C" H 3842 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 2750 50  0001 C CNN
+F 3 "~" H 3750 2750 50  0001 C CNN
+	1    3750 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C84
+U 1 1 5CDAE0D1
+P 4150 2750
+AR Path="/5CACEBF5/5CDAE0D1" Ref="C84"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0D1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0D1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0D1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0D1" Ref="C284"  Part="1" 
+AR Path="/5D65F554/5CDAE0D1" Ref="C484"  Part="1" 
+AR Path="/5D65F965/5CDAE0D1" Ref="C684"  Part="1" 
+AR Path="/5D66274B/5CDAE0D1" Ref="C884"  Part="1" 
+F 0 "C284" H 4242 2796 50  0000 L CNN
+F 1 "C" H 4242 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 2750 50  0001 C CNN
+F 3 "~" H 4150 2750 50  0001 C CNN
+	1    4150 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 2650
+Connection ~ 3325 2650
+Connection ~ 3750 2650
+Connection ~ 4150 2650
+$Comp
+L Device:C_Small C85
+U 1 1 5CDAE0DC
+P 4600 2750
+AR Path="/5CACEBF5/5CDAE0DC" Ref="C85"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0DC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0DC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0DC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0DC" Ref="C285"  Part="1" 
+AR Path="/5D65F554/5CDAE0DC" Ref="C485"  Part="1" 
+AR Path="/5D65F965/5CDAE0DC" Ref="C685"  Part="1" 
+AR Path="/5D66274B/5CDAE0DC" Ref="C885"  Part="1" 
+F 0 "C285" H 4692 2796 50  0000 L CNN
+F 1 "C" H 4692 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 2750 50  0001 C CNN
+F 3 "~" H 4600 2750 50  0001 C CNN
+	1    4600 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C86
+U 1 1 5CDAE0E3
+P 5000 2750
+AR Path="/5CACEBF5/5CDAE0E3" Ref="C86"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0E3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0E3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0E3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0E3" Ref="C286"  Part="1" 
+AR Path="/5D65F554/5CDAE0E3" Ref="C486"  Part="1" 
+AR Path="/5D65F965/5CDAE0E3" Ref="C686"  Part="1" 
+AR Path="/5D66274B/5CDAE0E3" Ref="C886"  Part="1" 
+F 0 "C286" H 5092 2796 50  0000 L CNN
+F 1 "C" H 5092 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 2750 50  0001 C CNN
+F 3 "~" H 5000 2750 50  0001 C CNN
+	1    5000 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C87
+U 1 1 5CDAE0EA
+P 5425 2750
+AR Path="/5CACEBF5/5CDAE0EA" Ref="C87"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0EA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0EA" Ref="C287"  Part="1" 
+AR Path="/5D65F554/5CDAE0EA" Ref="C487"  Part="1" 
+AR Path="/5D65F965/5CDAE0EA" Ref="C687"  Part="1" 
+AR Path="/5D66274B/5CDAE0EA" Ref="C887"  Part="1" 
+F 0 "C287" H 5517 2796 50  0000 L CNN
+F 1 "C" H 5517 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 2750 50  0001 C CNN
+F 3 "~" H 5425 2750 50  0001 C CNN
+	1    5425 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C88
+U 1 1 5CDAE0F1
+P 5825 2750
+AR Path="/5CACEBF5/5CDAE0F1" Ref="C88"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0F1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0F1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0F1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0F1" Ref="C288"  Part="1" 
+AR Path="/5D65F554/5CDAE0F1" Ref="C488"  Part="1" 
+AR Path="/5D65F965/5CDAE0F1" Ref="C688"  Part="1" 
+AR Path="/5D66274B/5CDAE0F1" Ref="C888"  Part="1" 
+F 0 "C288" H 5917 2796 50  0000 L CNN
+F 1 "C" H 5917 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 2750 50  0001 C CNN
+F 3 "~" H 5825 2750 50  0001 C CNN
+	1    5825 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C89
+U 1 1 5CDAE0F8
+P 6275 2750
+AR Path="/5CACEBF5/5CDAE0F8" Ref="C89"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0F8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0F8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0F8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0F8" Ref="C289"  Part="1" 
+AR Path="/5D65F554/5CDAE0F8" Ref="C489"  Part="1" 
+AR Path="/5D65F965/5CDAE0F8" Ref="C689"  Part="1" 
+AR Path="/5D66274B/5CDAE0F8" Ref="C889"  Part="1" 
+F 0 "C289" H 6367 2796 50  0000 L CNN
+F 1 "C" H 6367 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 2750 50  0001 C CNN
+F 3 "~" H 6275 2750 50  0001 C CNN
+	1    6275 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C90
+U 1 1 5CDAE0FF
+P 6675 2750
+AR Path="/5CACEBF5/5CDAE0FF" Ref="C90"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE0FF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE0FF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE0FF" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE0FF" Ref="C290"  Part="1" 
+AR Path="/5D65F554/5CDAE0FF" Ref="C490"  Part="1" 
+AR Path="/5D65F965/5CDAE0FF" Ref="C690"  Part="1" 
+AR Path="/5D66274B/5CDAE0FF" Ref="C890"  Part="1" 
+F 0 "C290" H 6767 2796 50  0000 L CNN
+F 1 "C" H 6767 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 2750 50  0001 C CNN
+F 3 "~" H 6675 2750 50  0001 C CNN
+	1    6675 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C91
+U 1 1 5CDAE106
+P 7100 2750
+AR Path="/5CACEBF5/5CDAE106" Ref="C91"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE106" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE106" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE106" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE106" Ref="C291"  Part="1" 
+AR Path="/5D65F554/5CDAE106" Ref="C491"  Part="1" 
+AR Path="/5D65F965/5CDAE106" Ref="C691"  Part="1" 
+AR Path="/5D66274B/5CDAE106" Ref="C891"  Part="1" 
+F 0 "C291" H 7192 2796 50  0000 L CNN
+F 1 "C" H 7192 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 2750 50  0001 C CNN
+F 3 "~" H 7100 2750 50  0001 C CNN
+	1    7100 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C92
+U 1 1 5CDAE10D
+P 7500 2750
+AR Path="/5CACEBF5/5CDAE10D" Ref="C92"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE10D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE10D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE10D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE10D" Ref="C292"  Part="1" 
+AR Path="/5D65F554/5CDAE10D" Ref="C492"  Part="1" 
+AR Path="/5D65F965/5CDAE10D" Ref="C692"  Part="1" 
+AR Path="/5D66274B/5CDAE10D" Ref="C892"  Part="1" 
+F 0 "C292" H 7592 2796 50  0000 L CNN
+F 1 "C" H 7592 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 2750 50  0001 C CNN
+F 3 "~" H 7500 2750 50  0001 C CNN
+	1    7500 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 2650
+Connection ~ 5000 2650
+Connection ~ 5425 2650
+Connection ~ 5825 2650
+Connection ~ 6275 2650
+Connection ~ 6675 2650
+Connection ~ 7100 2650
+Connection ~ 7500 2650
+$Comp
+L Device:C_Small C93
+U 1 1 5CDAE11C
+P 7875 2750
+AR Path="/5CACEBF5/5CDAE11C" Ref="C93"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE11C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE11C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE11C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE11C" Ref="C293"  Part="1" 
+AR Path="/5D65F554/5CDAE11C" Ref="C493"  Part="1" 
+AR Path="/5D65F965/5CDAE11C" Ref="C693"  Part="1" 
+AR Path="/5D66274B/5CDAE11C" Ref="C893"  Part="1" 
+F 0 "C293" H 7967 2796 50  0000 L CNN
+F 1 "C" H 7967 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 2750 50  0001 C CNN
+F 3 "~" H 7875 2750 50  0001 C CNN
+	1    7875 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C94
+U 1 1 5CDAE123
+P 8275 2750
+AR Path="/5CACEBF5/5CDAE123" Ref="C94"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE123" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE123" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE123" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE123" Ref="C294"  Part="1" 
+AR Path="/5D65F554/5CDAE123" Ref="C494"  Part="1" 
+AR Path="/5D65F965/5CDAE123" Ref="C694"  Part="1" 
+AR Path="/5D66274B/5CDAE123" Ref="C894"  Part="1" 
+F 0 "C294" H 8367 2796 50  0000 L CNN
+F 1 "C" H 8367 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 2750 50  0001 C CNN
+F 3 "~" H 8275 2750 50  0001 C CNN
+	1    8275 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C95
+U 1 1 5CDAE12A
+P 8725 2750
+AR Path="/5CACEBF5/5CDAE12A" Ref="C95"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE12A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE12A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE12A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE12A" Ref="C295"  Part="1" 
+AR Path="/5D65F554/5CDAE12A" Ref="C495"  Part="1" 
+AR Path="/5D65F965/5CDAE12A" Ref="C695"  Part="1" 
+AR Path="/5D66274B/5CDAE12A" Ref="C895"  Part="1" 
+F 0 "C295" H 8817 2796 50  0000 L CNN
+F 1 "C" H 8817 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 2750 50  0001 C CNN
+F 3 "~" H 8725 2750 50  0001 C CNN
+	1    8725 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C96
+U 1 1 5CDAE131
+P 9125 2750
+AR Path="/5CACEBF5/5CDAE131" Ref="C96"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE131" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE131" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE131" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE131" Ref="C296"  Part="1" 
+AR Path="/5D65F554/5CDAE131" Ref="C496"  Part="1" 
+AR Path="/5D65F965/5CDAE131" Ref="C696"  Part="1" 
+AR Path="/5D66274B/5CDAE131" Ref="C896"  Part="1" 
+F 0 "C296" H 9217 2796 50  0000 L CNN
+F 1 "C" H 9217 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 2750 50  0001 C CNN
+F 3 "~" H 9125 2750 50  0001 C CNN
+	1    9125 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C97
+U 1 1 5CDAE138
+P 9550 2750
+AR Path="/5CACEBF5/5CDAE138" Ref="C97"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE138" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE138" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE138" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE138" Ref="C297"  Part="1" 
+AR Path="/5D65F554/5CDAE138" Ref="C497"  Part="1" 
+AR Path="/5D65F965/5CDAE138" Ref="C697"  Part="1" 
+AR Path="/5D66274B/5CDAE138" Ref="C897"  Part="1" 
+F 0 "C297" H 9642 2796 50  0000 L CNN
+F 1 "C" H 9642 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 2750 50  0001 C CNN
+F 3 "~" H 9550 2750 50  0001 C CNN
+	1    9550 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C98
+U 1 1 5CDAE13F
+P 9950 2750
+AR Path="/5CACEBF5/5CDAE13F" Ref="C98"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE13F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE13F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE13F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE13F" Ref="C298"  Part="1" 
+AR Path="/5D65F554/5CDAE13F" Ref="C498"  Part="1" 
+AR Path="/5D65F965/5CDAE13F" Ref="C698"  Part="1" 
+AR Path="/5D66274B/5CDAE13F" Ref="C898"  Part="1" 
+F 0 "C298" H 10042 2796 50  0000 L CNN
+F 1 "C" H 10042 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 2750 50  0001 C CNN
+F 3 "~" H 9950 2750 50  0001 C CNN
+	1    9950 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C99
+U 1 1 5CDAE146
+P 10400 2750
+AR Path="/5CACEBF5/5CDAE146" Ref="C99"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE146" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE146" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE146" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE146" Ref="C299"  Part="1" 
+AR Path="/5D65F554/5CDAE146" Ref="C499"  Part="1" 
+AR Path="/5D65F965/5CDAE146" Ref="C699"  Part="1" 
+AR Path="/5D66274B/5CDAE146" Ref="C899"  Part="1" 
+F 0 "C299" H 10492 2796 50  0000 L CNN
+F 1 "C" H 10492 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 2750 50  0001 C CNN
+F 3 "~" H 10400 2750 50  0001 C CNN
+	1    10400 2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 2650
+Connection ~ 8275 2650
+Connection ~ 8725 2650
+Connection ~ 9125 2650
+Connection ~ 9550 2650
+Connection ~ 9950 2650
+$Comp
+L Device:C_Small C76
+U 1 1 5CDAE153
+P 900 2750
+AR Path="/5CACEBF5/5CDAE153" Ref="C76"  Part="1" 
+AR Path="/5CFFD7A4/5CDAE153" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDAE153" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDAE153" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDAE153" Ref="C276"  Part="1" 
+AR Path="/5D65F554/5CDAE153" Ref="C476"  Part="1" 
+AR Path="/5D65F965/5CDAE153" Ref="C676"  Part="1" 
+AR Path="/5D66274B/5CDAE153" Ref="C876"  Part="1" 
+F 0 "C276" H 992 2796 50  0000 L CNN
+F 1 "C" H 992 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 2750 50  0001 C CNN
+F 3 "~" H 900 2750 50  0001 C CNN
+	1    900  2750
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  2650
+Wire Wire Line
+	750  2650 900  2650
+Wire Wire Line
+	900  2650 1250 2650
+Wire Wire Line
+	1250 2650 1650 2650
+Wire Wire Line
+	1650 2650 2075 2650
+Wire Wire Line
+	2075 2650 2475 2650
+Wire Wire Line
+	2475 2650 2925 2650
+Wire Wire Line
+	2925 2650 3325 2650
+Wire Wire Line
+	3325 2650 3750 2650
+Wire Wire Line
+	3750 2650 4150 2650
+Wire Wire Line
+	4150 2650 4600 2650
+Wire Wire Line
+	4600 2650 5000 2650
+Wire Wire Line
+	5000 2650 5425 2650
+Wire Wire Line
+	5425 2650 5825 2650
+Wire Wire Line
+	5825 2650 6275 2650
+Wire Wire Line
+	6275 2650 6675 2650
+Wire Wire Line
+	6675 2650 7100 2650
+Wire Wire Line
+	7100 2650 7500 2650
+Wire Wire Line
+	7500 2650 7875 2650
+Wire Wire Line
+	7875 2650 8275 2650
+Wire Wire Line
+	8275 2650 8725 2650
+Wire Wire Line
+	8725 2650 9125 2650
+Wire Wire Line
+	9125 2650 9550 2650
+Wire Wire Line
+	9550 2650 9950 2650
+Wire Wire Line
+	9950 2650 10400 2650
+$Comp
+L Device:C_Small C102
+U 1 1 5CDB8685
+P 1250 3225
+AR Path="/5CACEBF5/5CDB8685" Ref="C102"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8685" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8685" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8685" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8685" Ref="C302"  Part="1" 
+AR Path="/5D65F554/5CDB8685" Ref="C502"  Part="1" 
+AR Path="/5D65F965/5CDB8685" Ref="C702"  Part="1" 
+AR Path="/5D66274B/5CDB8685" Ref="C902"  Part="1" 
+F 0 "C302" H 1342 3271 50  0000 L CNN
+F 1 "C" H 1342 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 3225 50  0001 C CNN
+F 3 "~" H 1250 3225 50  0001 C CNN
+	1    1250 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 3125
+$Comp
+L Device:C_Small C103
+U 1 1 5CDB868D
+P 1650 3225
+AR Path="/5CACEBF5/5CDB868D" Ref="C103"  Part="1" 
+AR Path="/5CFFD7A4/5CDB868D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB868D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB868D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB868D" Ref="C303"  Part="1" 
+AR Path="/5D65F554/5CDB868D" Ref="C503"  Part="1" 
+AR Path="/5D65F965/5CDB868D" Ref="C703"  Part="1" 
+AR Path="/5D66274B/5CDB868D" Ref="C903"  Part="1" 
+F 0 "C303" H 1742 3271 50  0000 L CNN
+F 1 "C" H 1742 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 3225 50  0001 C CNN
+F 3 "~" H 1650 3225 50  0001 C CNN
+	1    1650 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 3125
+$Comp
+L Device:C_Small C104
+U 1 1 5CDB8695
+P 2075 3225
+AR Path="/5CACEBF5/5CDB8695" Ref="C104"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8695" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8695" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8695" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8695" Ref="C304"  Part="1" 
+AR Path="/5D65F554/5CDB8695" Ref="C504"  Part="1" 
+AR Path="/5D65F965/5CDB8695" Ref="C704"  Part="1" 
+AR Path="/5D66274B/5CDB8695" Ref="C904"  Part="1" 
+F 0 "C304" H 2167 3271 50  0000 L CNN
+F 1 "C" H 2167 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 3225 50  0001 C CNN
+F 3 "~" H 2075 3225 50  0001 C CNN
+	1    2075 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C105
+U 1 1 5CDB869C
+P 2475 3225
+AR Path="/5CACEBF5/5CDB869C" Ref="C105"  Part="1" 
+AR Path="/5CFFD7A4/5CDB869C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB869C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB869C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB869C" Ref="C305"  Part="1" 
+AR Path="/5D65F554/5CDB869C" Ref="C505"  Part="1" 
+AR Path="/5D65F965/5CDB869C" Ref="C705"  Part="1" 
+AR Path="/5D66274B/5CDB869C" Ref="C905"  Part="1" 
+F 0 "C305" H 2567 3271 50  0000 L CNN
+F 1 "C" H 2567 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 3225 50  0001 C CNN
+F 3 "~" H 2475 3225 50  0001 C CNN
+	1    2475 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 3125
+Connection ~ 2475 3125
+$Comp
+L Device:C_Small C106
+U 1 1 5CDB86A5
+P 2925 3225
+AR Path="/5CACEBF5/5CDB86A5" Ref="C106"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86A5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86A5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86A5" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86A5" Ref="C306"  Part="1" 
+AR Path="/5D65F554/5CDB86A5" Ref="C506"  Part="1" 
+AR Path="/5D65F965/5CDB86A5" Ref="C706"  Part="1" 
+AR Path="/5D66274B/5CDB86A5" Ref="C906"  Part="1" 
+F 0 "C306" H 3017 3271 50  0000 L CNN
+F 1 "C" H 3017 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 3225 50  0001 C CNN
+F 3 "~" H 2925 3225 50  0001 C CNN
+	1    2925 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C107
+U 1 1 5CDB86AC
+P 3325 3225
+AR Path="/5CACEBF5/5CDB86AC" Ref="C107"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86AC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86AC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86AC" Ref="C307"  Part="1" 
+AR Path="/5D65F554/5CDB86AC" Ref="C507"  Part="1" 
+AR Path="/5D65F965/5CDB86AC" Ref="C707"  Part="1" 
+AR Path="/5D66274B/5CDB86AC" Ref="C907"  Part="1" 
+F 0 "C307" H 3417 3271 50  0000 L CNN
+F 1 "C" H 3417 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 3225 50  0001 C CNN
+F 3 "~" H 3325 3225 50  0001 C CNN
+	1    3325 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C108
+U 1 1 5CDB86B3
+P 3750 3225
+AR Path="/5CACEBF5/5CDB86B3" Ref="C108"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86B3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86B3" Ref="C308"  Part="1" 
+AR Path="/5D65F554/5CDB86B3" Ref="C508"  Part="1" 
+AR Path="/5D65F965/5CDB86B3" Ref="C708"  Part="1" 
+AR Path="/5D66274B/5CDB86B3" Ref="C908"  Part="1" 
+F 0 "C308" H 3842 3271 50  0000 L CNN
+F 1 "C" H 3842 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 3225 50  0001 C CNN
+F 3 "~" H 3750 3225 50  0001 C CNN
+	1    3750 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C109
+U 1 1 5CDB86BA
+P 4150 3225
+AR Path="/5CACEBF5/5CDB86BA" Ref="C109"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86BA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86BA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86BA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86BA" Ref="C309"  Part="1" 
+AR Path="/5D65F554/5CDB86BA" Ref="C509"  Part="1" 
+AR Path="/5D65F965/5CDB86BA" Ref="C709"  Part="1" 
+AR Path="/5D66274B/5CDB86BA" Ref="C909"  Part="1" 
+F 0 "C309" H 4242 3271 50  0000 L CNN
+F 1 "C" H 4242 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 3225 50  0001 C CNN
+F 3 "~" H 4150 3225 50  0001 C CNN
+	1    4150 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 3125
+Connection ~ 3325 3125
+Connection ~ 3750 3125
+Connection ~ 4150 3125
+$Comp
+L Device:C_Small C110
+U 1 1 5CDB86C5
+P 4600 3225
+AR Path="/5CACEBF5/5CDB86C5" Ref="C110"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86C5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86C5" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86C5" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86C5" Ref="C310"  Part="1" 
+AR Path="/5D65F554/5CDB86C5" Ref="C510"  Part="1" 
+AR Path="/5D65F965/5CDB86C5" Ref="C710"  Part="1" 
+AR Path="/5D66274B/5CDB86C5" Ref="C910"  Part="1" 
+F 0 "C310" H 4692 3271 50  0000 L CNN
+F 1 "C" H 4692 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 3225 50  0001 C CNN
+F 3 "~" H 4600 3225 50  0001 C CNN
+	1    4600 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C111
+U 1 1 5CDB86CC
+P 5000 3225
+AR Path="/5CACEBF5/5CDB86CC" Ref="C111"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86CC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86CC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86CC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86CC" Ref="C311"  Part="1" 
+AR Path="/5D65F554/5CDB86CC" Ref="C511"  Part="1" 
+AR Path="/5D65F965/5CDB86CC" Ref="C711"  Part="1" 
+AR Path="/5D66274B/5CDB86CC" Ref="C911"  Part="1" 
+F 0 "C311" H 5092 3271 50  0000 L CNN
+F 1 "C" H 5092 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 3225 50  0001 C CNN
+F 3 "~" H 5000 3225 50  0001 C CNN
+	1    5000 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C112
+U 1 1 5CDB86D3
+P 5425 3225
+AR Path="/5CACEBF5/5CDB86D3" Ref="C112"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86D3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86D3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86D3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86D3" Ref="C312"  Part="1" 
+AR Path="/5D65F554/5CDB86D3" Ref="C512"  Part="1" 
+AR Path="/5D65F965/5CDB86D3" Ref="C712"  Part="1" 
+AR Path="/5D66274B/5CDB86D3" Ref="C912"  Part="1" 
+F 0 "C312" H 5517 3271 50  0000 L CNN
+F 1 "C" H 5517 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 3225 50  0001 C CNN
+F 3 "~" H 5425 3225 50  0001 C CNN
+	1    5425 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C113
+U 1 1 5CDB86DA
+P 5825 3225
+AR Path="/5CACEBF5/5CDB86DA" Ref="C113"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86DA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86DA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86DA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86DA" Ref="C313"  Part="1" 
+AR Path="/5D65F554/5CDB86DA" Ref="C513"  Part="1" 
+AR Path="/5D65F965/5CDB86DA" Ref="C713"  Part="1" 
+AR Path="/5D66274B/5CDB86DA" Ref="C913"  Part="1" 
+F 0 "C313" H 5917 3271 50  0000 L CNN
+F 1 "C" H 5917 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 3225 50  0001 C CNN
+F 3 "~" H 5825 3225 50  0001 C CNN
+	1    5825 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C114
+U 1 1 5CDB86E1
+P 6275 3225
+AR Path="/5CACEBF5/5CDB86E1" Ref="C114"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86E1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86E1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86E1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86E1" Ref="C314"  Part="1" 
+AR Path="/5D65F554/5CDB86E1" Ref="C514"  Part="1" 
+AR Path="/5D65F965/5CDB86E1" Ref="C714"  Part="1" 
+AR Path="/5D66274B/5CDB86E1" Ref="C914"  Part="1" 
+F 0 "C314" H 6367 3271 50  0000 L CNN
+F 1 "C" H 6367 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 3225 50  0001 C CNN
+F 3 "~" H 6275 3225 50  0001 C CNN
+	1    6275 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C115
+U 1 1 5CDB86E8
+P 6675 3225
+AR Path="/5CACEBF5/5CDB86E8" Ref="C115"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86E8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86E8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86E8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86E8" Ref="C315"  Part="1" 
+AR Path="/5D65F554/5CDB86E8" Ref="C515"  Part="1" 
+AR Path="/5D65F965/5CDB86E8" Ref="C715"  Part="1" 
+AR Path="/5D66274B/5CDB86E8" Ref="C915"  Part="1" 
+F 0 "C315" H 6767 3271 50  0000 L CNN
+F 1 "C" H 6767 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 3225 50  0001 C CNN
+F 3 "~" H 6675 3225 50  0001 C CNN
+	1    6675 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C116
+U 1 1 5CDB86EF
+P 7100 3225
+AR Path="/5CACEBF5/5CDB86EF" Ref="C116"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86EF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86EF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86EF" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86EF" Ref="C316"  Part="1" 
+AR Path="/5D65F554/5CDB86EF" Ref="C516"  Part="1" 
+AR Path="/5D65F965/5CDB86EF" Ref="C716"  Part="1" 
+AR Path="/5D66274B/5CDB86EF" Ref="C916"  Part="1" 
+F 0 "C316" H 7192 3271 50  0000 L CNN
+F 1 "C" H 7192 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 3225 50  0001 C CNN
+F 3 "~" H 7100 3225 50  0001 C CNN
+	1    7100 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C117
+U 1 1 5CDB86F6
+P 7500 3225
+AR Path="/5CACEBF5/5CDB86F6" Ref="C117"  Part="1" 
+AR Path="/5CFFD7A4/5CDB86F6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB86F6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB86F6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB86F6" Ref="C317"  Part="1" 
+AR Path="/5D65F554/5CDB86F6" Ref="C517"  Part="1" 
+AR Path="/5D65F965/5CDB86F6" Ref="C717"  Part="1" 
+AR Path="/5D66274B/5CDB86F6" Ref="C917"  Part="1" 
+F 0 "C317" H 7592 3271 50  0000 L CNN
+F 1 "C" H 7592 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 3225 50  0001 C CNN
+F 3 "~" H 7500 3225 50  0001 C CNN
+	1    7500 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 3125
+Connection ~ 5000 3125
+Connection ~ 5425 3125
+Connection ~ 5825 3125
+Connection ~ 6275 3125
+Connection ~ 6675 3125
+Connection ~ 7100 3125
+Connection ~ 7500 3125
+$Comp
+L Device:C_Small C118
+U 1 1 5CDB8705
+P 7875 3225
+AR Path="/5CACEBF5/5CDB8705" Ref="C118"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8705" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8705" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8705" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8705" Ref="C318"  Part="1" 
+AR Path="/5D65F554/5CDB8705" Ref="C518"  Part="1" 
+AR Path="/5D65F965/5CDB8705" Ref="C718"  Part="1" 
+AR Path="/5D66274B/5CDB8705" Ref="C918"  Part="1" 
+F 0 "C318" H 7967 3271 50  0000 L CNN
+F 1 "C" H 7967 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 3225 50  0001 C CNN
+F 3 "~" H 7875 3225 50  0001 C CNN
+	1    7875 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C119
+U 1 1 5CDB870C
+P 8275 3225
+AR Path="/5CACEBF5/5CDB870C" Ref="C119"  Part="1" 
+AR Path="/5CFFD7A4/5CDB870C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB870C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB870C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB870C" Ref="C319"  Part="1" 
+AR Path="/5D65F554/5CDB870C" Ref="C519"  Part="1" 
+AR Path="/5D65F965/5CDB870C" Ref="C719"  Part="1" 
+AR Path="/5D66274B/5CDB870C" Ref="C919"  Part="1" 
+F 0 "C319" H 8367 3271 50  0000 L CNN
+F 1 "C" H 8367 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 3225 50  0001 C CNN
+F 3 "~" H 8275 3225 50  0001 C CNN
+	1    8275 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C120
+U 1 1 5CDB8713
+P 8725 3225
+AR Path="/5CACEBF5/5CDB8713" Ref="C120"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8713" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8713" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8713" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8713" Ref="C320"  Part="1" 
+AR Path="/5D65F554/5CDB8713" Ref="C520"  Part="1" 
+AR Path="/5D65F965/5CDB8713" Ref="C720"  Part="1" 
+AR Path="/5D66274B/5CDB8713" Ref="C920"  Part="1" 
+F 0 "C320" H 8817 3271 50  0000 L CNN
+F 1 "C" H 8817 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 3225 50  0001 C CNN
+F 3 "~" H 8725 3225 50  0001 C CNN
+	1    8725 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C121
+U 1 1 5CDB871A
+P 9125 3225
+AR Path="/5CACEBF5/5CDB871A" Ref="C121"  Part="1" 
+AR Path="/5CFFD7A4/5CDB871A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB871A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB871A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB871A" Ref="C321"  Part="1" 
+AR Path="/5D65F554/5CDB871A" Ref="C521"  Part="1" 
+AR Path="/5D65F965/5CDB871A" Ref="C721"  Part="1" 
+AR Path="/5D66274B/5CDB871A" Ref="C921"  Part="1" 
+F 0 "C321" H 9217 3271 50  0000 L CNN
+F 1 "C" H 9217 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 3225 50  0001 C CNN
+F 3 "~" H 9125 3225 50  0001 C CNN
+	1    9125 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C122
+U 1 1 5CDB8721
+P 9550 3225
+AR Path="/5CACEBF5/5CDB8721" Ref="C122"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8721" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8721" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8721" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8721" Ref="C322"  Part="1" 
+AR Path="/5D65F554/5CDB8721" Ref="C522"  Part="1" 
+AR Path="/5D65F965/5CDB8721" Ref="C722"  Part="1" 
+AR Path="/5D66274B/5CDB8721" Ref="C922"  Part="1" 
+F 0 "C322" H 9642 3271 50  0000 L CNN
+F 1 "C" H 9642 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 3225 50  0001 C CNN
+F 3 "~" H 9550 3225 50  0001 C CNN
+	1    9550 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C123
+U 1 1 5CDB8728
+P 9950 3225
+AR Path="/5CACEBF5/5CDB8728" Ref="C123"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8728" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8728" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8728" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8728" Ref="C323"  Part="1" 
+AR Path="/5D65F554/5CDB8728" Ref="C523"  Part="1" 
+AR Path="/5D65F965/5CDB8728" Ref="C723"  Part="1" 
+AR Path="/5D66274B/5CDB8728" Ref="C923"  Part="1" 
+F 0 "C323" H 10042 3271 50  0000 L CNN
+F 1 "C" H 10042 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 3225 50  0001 C CNN
+F 3 "~" H 9950 3225 50  0001 C CNN
+	1    9950 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C124
+U 1 1 5CDB872F
+P 10400 3225
+AR Path="/5CACEBF5/5CDB872F" Ref="C124"  Part="1" 
+AR Path="/5CFFD7A4/5CDB872F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB872F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB872F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB872F" Ref="C324"  Part="1" 
+AR Path="/5D65F554/5CDB872F" Ref="C524"  Part="1" 
+AR Path="/5D65F965/5CDB872F" Ref="C724"  Part="1" 
+AR Path="/5D66274B/5CDB872F" Ref="C924"  Part="1" 
+F 0 "C324" H 10492 3271 50  0000 L CNN
+F 1 "C" H 10492 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 3225 50  0001 C CNN
+F 3 "~" H 10400 3225 50  0001 C CNN
+	1    10400 3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 3125
+Connection ~ 8275 3125
+Connection ~ 8725 3125
+Connection ~ 9125 3125
+Connection ~ 9550 3125
+Connection ~ 9950 3125
+$Comp
+L Device:C_Small C101
+U 1 1 5CDB873C
+P 900 3225
+AR Path="/5CACEBF5/5CDB873C" Ref="C101"  Part="1" 
+AR Path="/5CFFD7A4/5CDB873C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB873C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB873C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB873C" Ref="C301"  Part="1" 
+AR Path="/5D65F554/5CDB873C" Ref="C501"  Part="1" 
+AR Path="/5D65F965/5CDB873C" Ref="C701"  Part="1" 
+AR Path="/5D66274B/5CDB873C" Ref="C901"  Part="1" 
+F 0 "C301" H 992 3271 50  0000 L CNN
+F 1 "C" H 992 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 3225 50  0001 C CNN
+F 3 "~" H 900 3225 50  0001 C CNN
+	1    900  3225
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  3125
+Wire Wire Line
+	750  3125 900  3125
+Wire Wire Line
+	900  3125 1250 3125
+Wire Wire Line
+	1250 3125 1650 3125
+Wire Wire Line
+	1650 3125 2075 3125
+Wire Wire Line
+	2075 3125 2475 3125
+Wire Wire Line
+	2475 3125 2925 3125
+Wire Wire Line
+	2925 3125 3325 3125
+Wire Wire Line
+	3325 3125 3750 3125
+Wire Wire Line
+	3750 3125 4150 3125
+Wire Wire Line
+	4150 3125 4600 3125
+Wire Wire Line
+	4600 3125 5000 3125
+Wire Wire Line
+	5000 3125 5425 3125
+Wire Wire Line
+	5425 3125 5825 3125
+Wire Wire Line
+	5825 3125 6275 3125
+Wire Wire Line
+	6275 3125 6675 3125
+Wire Wire Line
+	6675 3125 7100 3125
+Wire Wire Line
+	7100 3125 7500 3125
+Wire Wire Line
+	7500 3125 7875 3125
+Wire Wire Line
+	7875 3125 8275 3125
+Wire Wire Line
+	8275 3125 8725 3125
+Wire Wire Line
+	8725 3125 9125 3125
+Wire Wire Line
+	9125 3125 9550 3125
+Wire Wire Line
+	9550 3125 9950 3125
+Wire Wire Line
+	9950 3125 10400 3125
+$Comp
+L Device:C_Small C127
+U 1 1 5CDB875C
+P 1250 3750
+AR Path="/5CACEBF5/5CDB875C" Ref="C127"  Part="1" 
+AR Path="/5CFFD7A4/5CDB875C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB875C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB875C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB875C" Ref="C327"  Part="1" 
+AR Path="/5D65F554/5CDB875C" Ref="C527"  Part="1" 
+AR Path="/5D65F965/5CDB875C" Ref="C727"  Part="1" 
+AR Path="/5D66274B/5CDB875C" Ref="C927"  Part="1" 
+F 0 "C327" H 1342 3796 50  0000 L CNN
+F 1 "C" H 1342 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 3750 50  0001 C CNN
+F 3 "~" H 1250 3750 50  0001 C CNN
+	1    1250 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 3650
+$Comp
+L Device:C_Small C128
+U 1 1 5CDB8764
+P 1650 3750
+AR Path="/5CACEBF5/5CDB8764" Ref="C128"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8764" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8764" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8764" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8764" Ref="C328"  Part="1" 
+AR Path="/5D65F554/5CDB8764" Ref="C528"  Part="1" 
+AR Path="/5D65F965/5CDB8764" Ref="C728"  Part="1" 
+AR Path="/5D66274B/5CDB8764" Ref="C928"  Part="1" 
+F 0 "C328" H 1742 3796 50  0000 L CNN
+F 1 "C" H 1742 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 3750 50  0001 C CNN
+F 3 "~" H 1650 3750 50  0001 C CNN
+	1    1650 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 3650
+$Comp
+L Device:C_Small C129
+U 1 1 5CDB876C
+P 2075 3750
+AR Path="/5CACEBF5/5CDB876C" Ref="C129"  Part="1" 
+AR Path="/5CFFD7A4/5CDB876C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB876C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB876C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB876C" Ref="C329"  Part="1" 
+AR Path="/5D65F554/5CDB876C" Ref="C529"  Part="1" 
+AR Path="/5D65F965/5CDB876C" Ref="C729"  Part="1" 
+AR Path="/5D66274B/5CDB876C" Ref="C929"  Part="1" 
+F 0 "C329" H 2167 3796 50  0000 L CNN
+F 1 "C" H 2167 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 3750 50  0001 C CNN
+F 3 "~" H 2075 3750 50  0001 C CNN
+	1    2075 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C130
+U 1 1 5CDB8773
+P 2475 3750
+AR Path="/5CACEBF5/5CDB8773" Ref="C130"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8773" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8773" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8773" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8773" Ref="C330"  Part="1" 
+AR Path="/5D65F554/5CDB8773" Ref="C530"  Part="1" 
+AR Path="/5D65F965/5CDB8773" Ref="C730"  Part="1" 
+AR Path="/5D66274B/5CDB8773" Ref="C930"  Part="1" 
+F 0 "C330" H 2567 3796 50  0000 L CNN
+F 1 "C" H 2567 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 3750 50  0001 C CNN
+F 3 "~" H 2475 3750 50  0001 C CNN
+	1    2475 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 3650
+Connection ~ 2475 3650
+$Comp
+L Device:C_Small C131
+U 1 1 5CDB877C
+P 2925 3750
+AR Path="/5CACEBF5/5CDB877C" Ref="C131"  Part="1" 
+AR Path="/5CFFD7A4/5CDB877C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB877C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB877C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB877C" Ref="C331"  Part="1" 
+AR Path="/5D65F554/5CDB877C" Ref="C531"  Part="1" 
+AR Path="/5D65F965/5CDB877C" Ref="C731"  Part="1" 
+AR Path="/5D66274B/5CDB877C" Ref="C931"  Part="1" 
+F 0 "C331" H 3017 3796 50  0000 L CNN
+F 1 "C" H 3017 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 3750 50  0001 C CNN
+F 3 "~" H 2925 3750 50  0001 C CNN
+	1    2925 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C132
+U 1 1 5CDB8783
+P 3325 3750
+AR Path="/5CACEBF5/5CDB8783" Ref="C132"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8783" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8783" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8783" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8783" Ref="C332"  Part="1" 
+AR Path="/5D65F554/5CDB8783" Ref="C532"  Part="1" 
+AR Path="/5D65F965/5CDB8783" Ref="C732"  Part="1" 
+AR Path="/5D66274B/5CDB8783" Ref="C932"  Part="1" 
+F 0 "C332" H 3417 3796 50  0000 L CNN
+F 1 "C" H 3417 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 3750 50  0001 C CNN
+F 3 "~" H 3325 3750 50  0001 C CNN
+	1    3325 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C133
+U 1 1 5CDB878A
+P 3750 3750
+AR Path="/5CACEBF5/5CDB878A" Ref="C133"  Part="1" 
+AR Path="/5CFFD7A4/5CDB878A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB878A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB878A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB878A" Ref="C333"  Part="1" 
+AR Path="/5D65F554/5CDB878A" Ref="C533"  Part="1" 
+AR Path="/5D65F965/5CDB878A" Ref="C733"  Part="1" 
+AR Path="/5D66274B/5CDB878A" Ref="C933"  Part="1" 
+F 0 "C333" H 3842 3796 50  0000 L CNN
+F 1 "C" H 3842 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 3750 50  0001 C CNN
+F 3 "~" H 3750 3750 50  0001 C CNN
+	1    3750 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C134
+U 1 1 5CDB8791
+P 4150 3750
+AR Path="/5CACEBF5/5CDB8791" Ref="C134"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8791" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8791" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8791" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8791" Ref="C334"  Part="1" 
+AR Path="/5D65F554/5CDB8791" Ref="C534"  Part="1" 
+AR Path="/5D65F965/5CDB8791" Ref="C734"  Part="1" 
+AR Path="/5D66274B/5CDB8791" Ref="C934"  Part="1" 
+F 0 "C334" H 4242 3796 50  0000 L CNN
+F 1 "C" H 4242 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 3750 50  0001 C CNN
+F 3 "~" H 4150 3750 50  0001 C CNN
+	1    4150 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 3650
+Connection ~ 3325 3650
+Connection ~ 3750 3650
+Connection ~ 4150 3650
+$Comp
+L Device:C_Small C135
+U 1 1 5CDB879C
+P 4600 3750
+AR Path="/5CACEBF5/5CDB879C" Ref="C135"  Part="1" 
+AR Path="/5CFFD7A4/5CDB879C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB879C" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB879C" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB879C" Ref="C335"  Part="1" 
+AR Path="/5D65F554/5CDB879C" Ref="C535"  Part="1" 
+AR Path="/5D65F965/5CDB879C" Ref="C735"  Part="1" 
+AR Path="/5D66274B/5CDB879C" Ref="C935"  Part="1" 
+F 0 "C335" H 4692 3796 50  0000 L CNN
+F 1 "C" H 4692 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 3750 50  0001 C CNN
+F 3 "~" H 4600 3750 50  0001 C CNN
+	1    4600 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C136
+U 1 1 5CDB87A3
+P 5000 3750
+AR Path="/5CACEBF5/5CDB87A3" Ref="C136"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87A3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87A3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87A3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87A3" Ref="C336"  Part="1" 
+AR Path="/5D65F554/5CDB87A3" Ref="C536"  Part="1" 
+AR Path="/5D65F965/5CDB87A3" Ref="C736"  Part="1" 
+AR Path="/5D66274B/5CDB87A3" Ref="C936"  Part="1" 
+F 0 "C336" H 5092 3796 50  0000 L CNN
+F 1 "C" H 5092 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 3750 50  0001 C CNN
+F 3 "~" H 5000 3750 50  0001 C CNN
+	1    5000 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C137
+U 1 1 5CDB87AA
+P 5425 3750
+AR Path="/5CACEBF5/5CDB87AA" Ref="C137"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87AA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87AA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87AA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87AA" Ref="C337"  Part="1" 
+AR Path="/5D65F554/5CDB87AA" Ref="C537"  Part="1" 
+AR Path="/5D65F965/5CDB87AA" Ref="C737"  Part="1" 
+AR Path="/5D66274B/5CDB87AA" Ref="C937"  Part="1" 
+F 0 "C337" H 5517 3796 50  0000 L CNN
+F 1 "C" H 5517 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 3750 50  0001 C CNN
+F 3 "~" H 5425 3750 50  0001 C CNN
+	1    5425 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C138
+U 1 1 5CDB87B1
+P 5825 3750
+AR Path="/5CACEBF5/5CDB87B1" Ref="C138"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87B1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87B1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87B1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87B1" Ref="C338"  Part="1" 
+AR Path="/5D65F554/5CDB87B1" Ref="C538"  Part="1" 
+AR Path="/5D65F965/5CDB87B1" Ref="C738"  Part="1" 
+AR Path="/5D66274B/5CDB87B1" Ref="C938"  Part="1" 
+F 0 "C338" H 5917 3796 50  0000 L CNN
+F 1 "C" H 5917 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 3750 50  0001 C CNN
+F 3 "~" H 5825 3750 50  0001 C CNN
+	1    5825 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C139
+U 1 1 5CDB87B8
+P 6275 3750
+AR Path="/5CACEBF5/5CDB87B8" Ref="C139"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87B8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87B8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87B8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87B8" Ref="C339"  Part="1" 
+AR Path="/5D65F554/5CDB87B8" Ref="C539"  Part="1" 
+AR Path="/5D65F965/5CDB87B8" Ref="C739"  Part="1" 
+AR Path="/5D66274B/5CDB87B8" Ref="C939"  Part="1" 
+F 0 "C339" H 6367 3796 50  0000 L CNN
+F 1 "C" H 6367 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 3750 50  0001 C CNN
+F 3 "~" H 6275 3750 50  0001 C CNN
+	1    6275 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C140
+U 1 1 5CDB87BF
+P 6675 3750
+AR Path="/5CACEBF5/5CDB87BF" Ref="C140"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87BF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87BF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87BF" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87BF" Ref="C340"  Part="1" 
+AR Path="/5D65F554/5CDB87BF" Ref="C540"  Part="1" 
+AR Path="/5D65F965/5CDB87BF" Ref="C740"  Part="1" 
+AR Path="/5D66274B/5CDB87BF" Ref="C940"  Part="1" 
+F 0 "C340" H 6767 3796 50  0000 L CNN
+F 1 "C" H 6767 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 3750 50  0001 C CNN
+F 3 "~" H 6675 3750 50  0001 C CNN
+	1    6675 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C141
+U 1 1 5CDB87C6
+P 7100 3750
+AR Path="/5CACEBF5/5CDB87C6" Ref="C141"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87C6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87C6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87C6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87C6" Ref="C341"  Part="1" 
+AR Path="/5D65F554/5CDB87C6" Ref="C541"  Part="1" 
+AR Path="/5D65F965/5CDB87C6" Ref="C741"  Part="1" 
+AR Path="/5D66274B/5CDB87C6" Ref="C941"  Part="1" 
+F 0 "C341" H 7192 3796 50  0000 L CNN
+F 1 "C" H 7192 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 3750 50  0001 C CNN
+F 3 "~" H 7100 3750 50  0001 C CNN
+	1    7100 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C142
+U 1 1 5CDB87CD
+P 7500 3750
+AR Path="/5CACEBF5/5CDB87CD" Ref="C142"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87CD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87CD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87CD" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87CD" Ref="C342"  Part="1" 
+AR Path="/5D65F554/5CDB87CD" Ref="C542"  Part="1" 
+AR Path="/5D65F965/5CDB87CD" Ref="C742"  Part="1" 
+AR Path="/5D66274B/5CDB87CD" Ref="C942"  Part="1" 
+F 0 "C342" H 7592 3796 50  0000 L CNN
+F 1 "C" H 7592 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 3750 50  0001 C CNN
+F 3 "~" H 7500 3750 50  0001 C CNN
+	1    7500 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 3650
+Connection ~ 5000 3650
+Connection ~ 5425 3650
+Connection ~ 5825 3650
+Connection ~ 6275 3650
+Connection ~ 6675 3650
+Connection ~ 7100 3650
+Connection ~ 7500 3650
+$Comp
+L Device:C_Small C143
+U 1 1 5CDB87DC
+P 7875 3750
+AR Path="/5CACEBF5/5CDB87DC" Ref="C143"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87DC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87DC" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87DC" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87DC" Ref="C343"  Part="1" 
+AR Path="/5D65F554/5CDB87DC" Ref="C543"  Part="1" 
+AR Path="/5D65F965/5CDB87DC" Ref="C743"  Part="1" 
+AR Path="/5D66274B/5CDB87DC" Ref="C943"  Part="1" 
+F 0 "C343" H 7967 3796 50  0000 L CNN
+F 1 "C" H 7967 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 3750 50  0001 C CNN
+F 3 "~" H 7875 3750 50  0001 C CNN
+	1    7875 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C144
+U 1 1 5CDB87E3
+P 8275 3750
+AR Path="/5CACEBF5/5CDB87E3" Ref="C144"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87E3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87E3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87E3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87E3" Ref="C344"  Part="1" 
+AR Path="/5D65F554/5CDB87E3" Ref="C544"  Part="1" 
+AR Path="/5D65F965/5CDB87E3" Ref="C744"  Part="1" 
+AR Path="/5D66274B/5CDB87E3" Ref="C944"  Part="1" 
+F 0 "C344" H 8367 3796 50  0000 L CNN
+F 1 "C" H 8367 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 3750 50  0001 C CNN
+F 3 "~" H 8275 3750 50  0001 C CNN
+	1    8275 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C145
+U 1 1 5CDB87EA
+P 8725 3750
+AR Path="/5CACEBF5/5CDB87EA" Ref="C145"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87EA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87EA" Ref="C345"  Part="1" 
+AR Path="/5D65F554/5CDB87EA" Ref="C545"  Part="1" 
+AR Path="/5D65F965/5CDB87EA" Ref="C745"  Part="1" 
+AR Path="/5D66274B/5CDB87EA" Ref="C945"  Part="1" 
+F 0 "C345" H 8817 3796 50  0000 L CNN
+F 1 "C" H 8817 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 3750 50  0001 C CNN
+F 3 "~" H 8725 3750 50  0001 C CNN
+	1    8725 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C146
+U 1 1 5CDB87F1
+P 9125 3750
+AR Path="/5CACEBF5/5CDB87F1" Ref="C146"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87F1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87F1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87F1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87F1" Ref="C346"  Part="1" 
+AR Path="/5D65F554/5CDB87F1" Ref="C546"  Part="1" 
+AR Path="/5D65F965/5CDB87F1" Ref="C746"  Part="1" 
+AR Path="/5D66274B/5CDB87F1" Ref="C946"  Part="1" 
+F 0 "C346" H 9217 3796 50  0000 L CNN
+F 1 "C" H 9217 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 3750 50  0001 C CNN
+F 3 "~" H 9125 3750 50  0001 C CNN
+	1    9125 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C147
+U 1 1 5CDB87F8
+P 9550 3750
+AR Path="/5CACEBF5/5CDB87F8" Ref="C147"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87F8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87F8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87F8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87F8" Ref="C347"  Part="1" 
+AR Path="/5D65F554/5CDB87F8" Ref="C547"  Part="1" 
+AR Path="/5D65F965/5CDB87F8" Ref="C747"  Part="1" 
+AR Path="/5D66274B/5CDB87F8" Ref="C947"  Part="1" 
+F 0 "C347" H 9642 3796 50  0000 L CNN
+F 1 "C" H 9642 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 3750 50  0001 C CNN
+F 3 "~" H 9550 3750 50  0001 C CNN
+	1    9550 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C148
+U 1 1 5CDB87FF
+P 9950 3750
+AR Path="/5CACEBF5/5CDB87FF" Ref="C148"  Part="1" 
+AR Path="/5CFFD7A4/5CDB87FF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB87FF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB87FF" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB87FF" Ref="C348"  Part="1" 
+AR Path="/5D65F554/5CDB87FF" Ref="C548"  Part="1" 
+AR Path="/5D65F965/5CDB87FF" Ref="C748"  Part="1" 
+AR Path="/5D66274B/5CDB87FF" Ref="C948"  Part="1" 
+F 0 "C348" H 10042 3796 50  0000 L CNN
+F 1 "C" H 10042 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 3750 50  0001 C CNN
+F 3 "~" H 9950 3750 50  0001 C CNN
+	1    9950 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C149
+U 1 1 5CDB8806
+P 10400 3750
+AR Path="/5CACEBF5/5CDB8806" Ref="C149"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8806" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8806" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8806" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8806" Ref="C349"  Part="1" 
+AR Path="/5D65F554/5CDB8806" Ref="C549"  Part="1" 
+AR Path="/5D65F965/5CDB8806" Ref="C749"  Part="1" 
+AR Path="/5D66274B/5CDB8806" Ref="C949"  Part="1" 
+F 0 "C349" H 10492 3796 50  0000 L CNN
+F 1 "C" H 10492 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 3750 50  0001 C CNN
+F 3 "~" H 10400 3750 50  0001 C CNN
+	1    10400 3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 3650
+Connection ~ 8275 3650
+Connection ~ 8725 3650
+Connection ~ 9125 3650
+Connection ~ 9550 3650
+Connection ~ 9950 3650
+$Comp
+L Device:C_Small C126
+U 1 1 5CDB8813
+P 900 3750
+AR Path="/5CACEBF5/5CDB8813" Ref="C126"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8813" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8813" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8813" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8813" Ref="C326"  Part="1" 
+AR Path="/5D65F554/5CDB8813" Ref="C526"  Part="1" 
+AR Path="/5D65F965/5CDB8813" Ref="C726"  Part="1" 
+AR Path="/5D66274B/5CDB8813" Ref="C926"  Part="1" 
+F 0 "C326" H 992 3796 50  0000 L CNN
+F 1 "C" H 992 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 3750 50  0001 C CNN
+F 3 "~" H 900 3750 50  0001 C CNN
+	1    900  3750
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  3650
+Wire Wire Line
+	750  3650 900  3650
+Wire Wire Line
+	900  3650 1250 3650
+Wire Wire Line
+	1250 3650 1650 3650
+Wire Wire Line
+	1650 3650 2075 3650
+Wire Wire Line
+	2075 3650 2475 3650
+Wire Wire Line
+	2475 3650 2925 3650
+Wire Wire Line
+	2925 3650 3325 3650
+Wire Wire Line
+	3325 3650 3750 3650
+Wire Wire Line
+	3750 3650 4150 3650
+Wire Wire Line
+	4150 3650 4600 3650
+Wire Wire Line
+	4600 3650 5000 3650
+Wire Wire Line
+	5000 3650 5425 3650
+Wire Wire Line
+	5425 3650 5825 3650
+Wire Wire Line
+	5825 3650 6275 3650
+Wire Wire Line
+	6275 3650 6675 3650
+Wire Wire Line
+	6675 3650 7100 3650
+Wire Wire Line
+	7100 3650 7500 3650
+Wire Wire Line
+	7500 3650 7875 3650
+Wire Wire Line
+	7875 3650 8275 3650
+Wire Wire Line
+	8275 3650 8725 3650
+Wire Wire Line
+	8725 3650 9125 3650
+Wire Wire Line
+	9125 3650 9550 3650
+Wire Wire Line
+	9550 3650 9950 3650
+Wire Wire Line
+	9950 3650 10400 3650
+$Comp
+L Device:C_Small C152
+U 1 1 5CDB8833
+P 1250 4200
+AR Path="/5CACEBF5/5CDB8833" Ref="C152"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8833" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8833" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8833" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8833" Ref="C352"  Part="1" 
+AR Path="/5D65F554/5CDB8833" Ref="C552"  Part="1" 
+AR Path="/5D65F965/5CDB8833" Ref="C752"  Part="1" 
+AR Path="/5D66274B/5CDB8833" Ref="C952"  Part="1" 
+F 0 "C352" H 1342 4246 50  0000 L CNN
+F 1 "C" H 1342 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 4200 50  0001 C CNN
+F 3 "~" H 1250 4200 50  0001 C CNN
+	1    1250 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 4100
+$Comp
+L Device:C_Small C153
+U 1 1 5CDB883B
+P 1650 4200
+AR Path="/5CACEBF5/5CDB883B" Ref="C153"  Part="1" 
+AR Path="/5CFFD7A4/5CDB883B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB883B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB883B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB883B" Ref="C353"  Part="1" 
+AR Path="/5D65F554/5CDB883B" Ref="C553"  Part="1" 
+AR Path="/5D65F965/5CDB883B" Ref="C753"  Part="1" 
+AR Path="/5D66274B/5CDB883B" Ref="C953"  Part="1" 
+F 0 "C353" H 1742 4246 50  0000 L CNN
+F 1 "C" H 1742 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 4200 50  0001 C CNN
+F 3 "~" H 1650 4200 50  0001 C CNN
+	1    1650 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 4100
+$Comp
+L Device:C_Small C154
+U 1 1 5CDB8843
+P 2075 4200
+AR Path="/5CACEBF5/5CDB8843" Ref="C154"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8843" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8843" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8843" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8843" Ref="C354"  Part="1" 
+AR Path="/5D65F554/5CDB8843" Ref="C554"  Part="1" 
+AR Path="/5D65F965/5CDB8843" Ref="C754"  Part="1" 
+AR Path="/5D66274B/5CDB8843" Ref="C954"  Part="1" 
+F 0 "C354" H 2167 4246 50  0000 L CNN
+F 1 "C" H 2167 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 4200 50  0001 C CNN
+F 3 "~" H 2075 4200 50  0001 C CNN
+	1    2075 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C155
+U 1 1 5CDB884A
+P 2475 4200
+AR Path="/5CACEBF5/5CDB884A" Ref="C155"  Part="1" 
+AR Path="/5CFFD7A4/5CDB884A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB884A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB884A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB884A" Ref="C355"  Part="1" 
+AR Path="/5D65F554/5CDB884A" Ref="C555"  Part="1" 
+AR Path="/5D65F965/5CDB884A" Ref="C755"  Part="1" 
+AR Path="/5D66274B/5CDB884A" Ref="C955"  Part="1" 
+F 0 "C355" H 2567 4246 50  0000 L CNN
+F 1 "C" H 2567 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 4200 50  0001 C CNN
+F 3 "~" H 2475 4200 50  0001 C CNN
+	1    2475 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 4100
+Connection ~ 2475 4100
+$Comp
+L Device:C_Small C156
+U 1 1 5CDB8853
+P 2925 4200
+AR Path="/5CACEBF5/5CDB8853" Ref="C156"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8853" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8853" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8853" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8853" Ref="C356"  Part="1" 
+AR Path="/5D65F554/5CDB8853" Ref="C556"  Part="1" 
+AR Path="/5D65F965/5CDB8853" Ref="C756"  Part="1" 
+AR Path="/5D66274B/5CDB8853" Ref="C956"  Part="1" 
+F 0 "C356" H 3017 4246 50  0000 L CNN
+F 1 "C" H 3017 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 4200 50  0001 C CNN
+F 3 "~" H 2925 4200 50  0001 C CNN
+	1    2925 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C157
+U 1 1 5CDB885A
+P 3325 4200
+AR Path="/5CACEBF5/5CDB885A" Ref="C157"  Part="1" 
+AR Path="/5CFFD7A4/5CDB885A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB885A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB885A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB885A" Ref="C357"  Part="1" 
+AR Path="/5D65F554/5CDB885A" Ref="C557"  Part="1" 
+AR Path="/5D65F965/5CDB885A" Ref="C757"  Part="1" 
+AR Path="/5D66274B/5CDB885A" Ref="C957"  Part="1" 
+F 0 "C357" H 3417 4246 50  0000 L CNN
+F 1 "C" H 3417 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 4200 50  0001 C CNN
+F 3 "~" H 3325 4200 50  0001 C CNN
+	1    3325 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C158
+U 1 1 5CDB8861
+P 3750 4200
+AR Path="/5CACEBF5/5CDB8861" Ref="C158"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8861" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8861" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8861" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8861" Ref="C358"  Part="1" 
+AR Path="/5D65F554/5CDB8861" Ref="C558"  Part="1" 
+AR Path="/5D65F965/5CDB8861" Ref="C758"  Part="1" 
+AR Path="/5D66274B/5CDB8861" Ref="C958"  Part="1" 
+F 0 "C358" H 3842 4246 50  0000 L CNN
+F 1 "C" H 3842 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 4200 50  0001 C CNN
+F 3 "~" H 3750 4200 50  0001 C CNN
+	1    3750 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C159
+U 1 1 5CDB8868
+P 4150 4200
+AR Path="/5CACEBF5/5CDB8868" Ref="C159"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8868" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8868" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8868" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8868" Ref="C359"  Part="1" 
+AR Path="/5D65F554/5CDB8868" Ref="C559"  Part="1" 
+AR Path="/5D65F965/5CDB8868" Ref="C759"  Part="1" 
+AR Path="/5D66274B/5CDB8868" Ref="C959"  Part="1" 
+F 0 "C359" H 4242 4246 50  0000 L CNN
+F 1 "C" H 4242 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 4200 50  0001 C CNN
+F 3 "~" H 4150 4200 50  0001 C CNN
+	1    4150 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 4100
+Connection ~ 3325 4100
+Connection ~ 3750 4100
+Connection ~ 4150 4100
+$Comp
+L Device:C_Small C160
+U 1 1 5CDB8873
+P 4600 4200
+AR Path="/5CACEBF5/5CDB8873" Ref="C160"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8873" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8873" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8873" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8873" Ref="C360"  Part="1" 
+AR Path="/5D65F554/5CDB8873" Ref="C560"  Part="1" 
+AR Path="/5D65F965/5CDB8873" Ref="C760"  Part="1" 
+AR Path="/5D66274B/5CDB8873" Ref="C960"  Part="1" 
+F 0 "C360" H 4692 4246 50  0000 L CNN
+F 1 "C" H 4692 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 4200 50  0001 C CNN
+F 3 "~" H 4600 4200 50  0001 C CNN
+	1    4600 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C161
+U 1 1 5CDB887A
+P 5000 4200
+AR Path="/5CACEBF5/5CDB887A" Ref="C161"  Part="1" 
+AR Path="/5CFFD7A4/5CDB887A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB887A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB887A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB887A" Ref="C361"  Part="1" 
+AR Path="/5D65F554/5CDB887A" Ref="C561"  Part="1" 
+AR Path="/5D65F965/5CDB887A" Ref="C761"  Part="1" 
+AR Path="/5D66274B/5CDB887A" Ref="C961"  Part="1" 
+F 0 "C361" H 5092 4246 50  0000 L CNN
+F 1 "C" H 5092 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 4200 50  0001 C CNN
+F 3 "~" H 5000 4200 50  0001 C CNN
+	1    5000 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C162
+U 1 1 5CDB8881
+P 5425 4200
+AR Path="/5CACEBF5/5CDB8881" Ref="C162"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8881" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8881" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8881" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8881" Ref="C362"  Part="1" 
+AR Path="/5D65F554/5CDB8881" Ref="C562"  Part="1" 
+AR Path="/5D65F965/5CDB8881" Ref="C762"  Part="1" 
+AR Path="/5D66274B/5CDB8881" Ref="C962"  Part="1" 
+F 0 "C362" H 5517 4246 50  0000 L CNN
+F 1 "C" H 5517 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 4200 50  0001 C CNN
+F 3 "~" H 5425 4200 50  0001 C CNN
+	1    5425 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C163
+U 1 1 5CDB8888
+P 5825 4200
+AR Path="/5CACEBF5/5CDB8888" Ref="C163"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8888" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8888" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8888" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8888" Ref="C363"  Part="1" 
+AR Path="/5D65F554/5CDB8888" Ref="C563"  Part="1" 
+AR Path="/5D65F965/5CDB8888" Ref="C763"  Part="1" 
+AR Path="/5D66274B/5CDB8888" Ref="C963"  Part="1" 
+F 0 "C363" H 5917 4246 50  0000 L CNN
+F 1 "C" H 5917 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 4200 50  0001 C CNN
+F 3 "~" H 5825 4200 50  0001 C CNN
+	1    5825 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C164
+U 1 1 5CDB888F
+P 6275 4200
+AR Path="/5CACEBF5/5CDB888F" Ref="C164"  Part="1" 
+AR Path="/5CFFD7A4/5CDB888F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB888F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB888F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB888F" Ref="C364"  Part="1" 
+AR Path="/5D65F554/5CDB888F" Ref="C564"  Part="1" 
+AR Path="/5D65F965/5CDB888F" Ref="C764"  Part="1" 
+AR Path="/5D66274B/5CDB888F" Ref="C964"  Part="1" 
+F 0 "C364" H 6367 4246 50  0000 L CNN
+F 1 "C" H 6367 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 4200 50  0001 C CNN
+F 3 "~" H 6275 4200 50  0001 C CNN
+	1    6275 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C165
+U 1 1 5CDB8896
+P 6675 4200
+AR Path="/5CACEBF5/5CDB8896" Ref="C165"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8896" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8896" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8896" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8896" Ref="C365"  Part="1" 
+AR Path="/5D65F554/5CDB8896" Ref="C565"  Part="1" 
+AR Path="/5D65F965/5CDB8896" Ref="C765"  Part="1" 
+AR Path="/5D66274B/5CDB8896" Ref="C965"  Part="1" 
+F 0 "C365" H 6767 4246 50  0000 L CNN
+F 1 "C" H 6767 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 4200 50  0001 C CNN
+F 3 "~" H 6675 4200 50  0001 C CNN
+	1    6675 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C166
+U 1 1 5CDB889D
+P 7100 4200
+AR Path="/5CACEBF5/5CDB889D" Ref="C166"  Part="1" 
+AR Path="/5CFFD7A4/5CDB889D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB889D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB889D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB889D" Ref="C366"  Part="1" 
+AR Path="/5D65F554/5CDB889D" Ref="C566"  Part="1" 
+AR Path="/5D65F965/5CDB889D" Ref="C766"  Part="1" 
+AR Path="/5D66274B/5CDB889D" Ref="C966"  Part="1" 
+F 0 "C366" H 7192 4246 50  0000 L CNN
+F 1 "C" H 7192 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 4200 50  0001 C CNN
+F 3 "~" H 7100 4200 50  0001 C CNN
+	1    7100 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C167
+U 1 1 5CDB88A4
+P 7500 4200
+AR Path="/5CACEBF5/5CDB88A4" Ref="C167"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88A4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88A4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88A4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88A4" Ref="C367"  Part="1" 
+AR Path="/5D65F554/5CDB88A4" Ref="C567"  Part="1" 
+AR Path="/5D65F965/5CDB88A4" Ref="C767"  Part="1" 
+AR Path="/5D66274B/5CDB88A4" Ref="C967"  Part="1" 
+F 0 "C367" H 7592 4246 50  0000 L CNN
+F 1 "C" H 7592 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 4200 50  0001 C CNN
+F 3 "~" H 7500 4200 50  0001 C CNN
+	1    7500 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 4100
+Connection ~ 5000 4100
+Connection ~ 5425 4100
+Connection ~ 5825 4100
+Connection ~ 6275 4100
+Connection ~ 6675 4100
+Connection ~ 7100 4100
+Connection ~ 7500 4100
+$Comp
+L Device:C_Small C168
+U 1 1 5CDB88B3
+P 7875 4200
+AR Path="/5CACEBF5/5CDB88B3" Ref="C168"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88B3" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88B3" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88B3" Ref="C368"  Part="1" 
+AR Path="/5D65F554/5CDB88B3" Ref="C568"  Part="1" 
+AR Path="/5D65F965/5CDB88B3" Ref="C768"  Part="1" 
+AR Path="/5D66274B/5CDB88B3" Ref="C968"  Part="1" 
+F 0 "C368" H 7967 4246 50  0000 L CNN
+F 1 "C" H 7967 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 4200 50  0001 C CNN
+F 3 "~" H 7875 4200 50  0001 C CNN
+	1    7875 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C169
+U 1 1 5CDB88BA
+P 8275 4200
+AR Path="/5CACEBF5/5CDB88BA" Ref="C169"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88BA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88BA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88BA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88BA" Ref="C369"  Part="1" 
+AR Path="/5D65F554/5CDB88BA" Ref="C569"  Part="1" 
+AR Path="/5D65F965/5CDB88BA" Ref="C769"  Part="1" 
+AR Path="/5D66274B/5CDB88BA" Ref="C969"  Part="1" 
+F 0 "C369" H 8367 4246 50  0000 L CNN
+F 1 "C" H 8367 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 4200 50  0001 C CNN
+F 3 "~" H 8275 4200 50  0001 C CNN
+	1    8275 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C170
+U 1 1 5CDB88C1
+P 8725 4200
+AR Path="/5CACEBF5/5CDB88C1" Ref="C170"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88C1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88C1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88C1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88C1" Ref="C370"  Part="1" 
+AR Path="/5D65F554/5CDB88C1" Ref="C570"  Part="1" 
+AR Path="/5D65F965/5CDB88C1" Ref="C770"  Part="1" 
+AR Path="/5D66274B/5CDB88C1" Ref="C970"  Part="1" 
+F 0 "C370" H 8817 4246 50  0000 L CNN
+F 1 "C" H 8817 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 4200 50  0001 C CNN
+F 3 "~" H 8725 4200 50  0001 C CNN
+	1    8725 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C171
+U 1 1 5CDB88C8
+P 9125 4200
+AR Path="/5CACEBF5/5CDB88C8" Ref="C171"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88C8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88C8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88C8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88C8" Ref="C371"  Part="1" 
+AR Path="/5D65F554/5CDB88C8" Ref="C571"  Part="1" 
+AR Path="/5D65F965/5CDB88C8" Ref="C771"  Part="1" 
+AR Path="/5D66274B/5CDB88C8" Ref="C971"  Part="1" 
+F 0 "C371" H 9217 4246 50  0000 L CNN
+F 1 "C" H 9217 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 4200 50  0001 C CNN
+F 3 "~" H 9125 4200 50  0001 C CNN
+	1    9125 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C172
+U 1 1 5CDB88CF
+P 9550 4200
+AR Path="/5CACEBF5/5CDB88CF" Ref="C172"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88CF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88CF" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88CF" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88CF" Ref="C372"  Part="1" 
+AR Path="/5D65F554/5CDB88CF" Ref="C572"  Part="1" 
+AR Path="/5D65F965/5CDB88CF" Ref="C772"  Part="1" 
+AR Path="/5D66274B/5CDB88CF" Ref="C972"  Part="1" 
+F 0 "C372" H 9642 4246 50  0000 L CNN
+F 1 "C" H 9642 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 4200 50  0001 C CNN
+F 3 "~" H 9550 4200 50  0001 C CNN
+	1    9550 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C173
+U 1 1 5CDB88D6
+P 9950 4200
+AR Path="/5CACEBF5/5CDB88D6" Ref="C173"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88D6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88D6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88D6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88D6" Ref="C373"  Part="1" 
+AR Path="/5D65F554/5CDB88D6" Ref="C573"  Part="1" 
+AR Path="/5D65F965/5CDB88D6" Ref="C773"  Part="1" 
+AR Path="/5D66274B/5CDB88D6" Ref="C973"  Part="1" 
+F 0 "C373" H 10042 4246 50  0000 L CNN
+F 1 "C" H 10042 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 4200 50  0001 C CNN
+F 3 "~" H 9950 4200 50  0001 C CNN
+	1    9950 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C174
+U 1 1 5CDB88DD
+P 10400 4200
+AR Path="/5CACEBF5/5CDB88DD" Ref="C174"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88DD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88DD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88DD" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88DD" Ref="C374"  Part="1" 
+AR Path="/5D65F554/5CDB88DD" Ref="C574"  Part="1" 
+AR Path="/5D65F965/5CDB88DD" Ref="C774"  Part="1" 
+AR Path="/5D66274B/5CDB88DD" Ref="C974"  Part="1" 
+F 0 "C374" H 10492 4246 50  0000 L CNN
+F 1 "C" H 10492 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 4200 50  0001 C CNN
+F 3 "~" H 10400 4200 50  0001 C CNN
+	1    10400 4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 4100
+Connection ~ 8275 4100
+Connection ~ 8725 4100
+Connection ~ 9125 4100
+Connection ~ 9550 4100
+Connection ~ 9950 4100
+$Comp
+L Device:C_Small C151
+U 1 1 5CDB88EA
+P 900 4200
+AR Path="/5CACEBF5/5CDB88EA" Ref="C151"  Part="1" 
+AR Path="/5CFFD7A4/5CDB88EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB88EA" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB88EA" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB88EA" Ref="C351"  Part="1" 
+AR Path="/5D65F554/5CDB88EA" Ref="C551"  Part="1" 
+AR Path="/5D65F965/5CDB88EA" Ref="C751"  Part="1" 
+AR Path="/5D66274B/5CDB88EA" Ref="C951"  Part="1" 
+F 0 "C351" H 992 4246 50  0000 L CNN
+F 1 "C" H 992 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 4200 50  0001 C CNN
+F 3 "~" H 900 4200 50  0001 C CNN
+	1    900  4200
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  4100
+Wire Wire Line
+	750  4100 900  4100
+Wire Wire Line
+	900  4100 1250 4100
+Wire Wire Line
+	1250 4100 1650 4100
+Wire Wire Line
+	1650 4100 2075 4100
+Wire Wire Line
+	2075 4100 2475 4100
+Wire Wire Line
+	2475 4100 2925 4100
+Wire Wire Line
+	2925 4100 3325 4100
+Wire Wire Line
+	3325 4100 3750 4100
+Wire Wire Line
+	3750 4100 4150 4100
+Wire Wire Line
+	4150 4100 4600 4100
+Wire Wire Line
+	4600 4100 5000 4100
+Wire Wire Line
+	5000 4100 5425 4100
+Wire Wire Line
+	5425 4100 5825 4100
+Wire Wire Line
+	5825 4100 6275 4100
+Wire Wire Line
+	6275 4100 6675 4100
+Wire Wire Line
+	6675 4100 7100 4100
+Wire Wire Line
+	7100 4100 7500 4100
+Wire Wire Line
+	7500 4100 7875 4100
+Wire Wire Line
+	7875 4100 8275 4100
+Wire Wire Line
+	8275 4100 8725 4100
+Wire Wire Line
+	8725 4100 9125 4100
+Wire Wire Line
+	9125 4100 9550 4100
+Wire Wire Line
+	9550 4100 9950 4100
+Wire Wire Line
+	9950 4100 10400 4100
+$Comp
+L Device:C_Small C177
+U 1 1 5CDB890A
+P 1250 4725
+AR Path="/5CACEBF5/5CDB890A" Ref="C177"  Part="1" 
+AR Path="/5CFFD7A4/5CDB890A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB890A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB890A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB890A" Ref="C377"  Part="1" 
+AR Path="/5D65F554/5CDB890A" Ref="C577"  Part="1" 
+AR Path="/5D65F965/5CDB890A" Ref="C777"  Part="1" 
+AR Path="/5D66274B/5CDB890A" Ref="C977"  Part="1" 
+F 0 "C377" H 1342 4771 50  0000 L CNN
+F 1 "C" H 1342 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1250 4725 50  0001 C CNN
+F 3 "~" H 1250 4725 50  0001 C CNN
+	1    1250 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 1250 4625
+$Comp
+L Device:C_Small C178
+U 1 1 5CDB8912
+P 1650 4725
+AR Path="/5CACEBF5/5CDB8912" Ref="C178"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8912" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8912" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8912" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8912" Ref="C378"  Part="1" 
+AR Path="/5D65F554/5CDB8912" Ref="C578"  Part="1" 
+AR Path="/5D65F965/5CDB8912" Ref="C778"  Part="1" 
+AR Path="/5D66274B/5CDB8912" Ref="C978"  Part="1" 
+F 0 "C378" H 1742 4771 50  0000 L CNN
+F 1 "C" H 1742 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 1650 4725 50  0001 C CNN
+F 3 "~" H 1650 4725 50  0001 C CNN
+	1    1650 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 1650 4625
+$Comp
+L Device:C_Small C179
+U 1 1 5CDB891A
+P 2075 4725
+AR Path="/5CACEBF5/5CDB891A" Ref="C179"  Part="1" 
+AR Path="/5CFFD7A4/5CDB891A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB891A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB891A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB891A" Ref="C379"  Part="1" 
+AR Path="/5D65F554/5CDB891A" Ref="C579"  Part="1" 
+AR Path="/5D65F965/5CDB891A" Ref="C779"  Part="1" 
+AR Path="/5D66274B/5CDB891A" Ref="C979"  Part="1" 
+F 0 "C379" H 2167 4771 50  0000 L CNN
+F 1 "C" H 2167 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2075 4725 50  0001 C CNN
+F 3 "~" H 2075 4725 50  0001 C CNN
+	1    2075 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C180
+U 1 1 5CDB8921
+P 2475 4725
+AR Path="/5CACEBF5/5CDB8921" Ref="C180"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8921" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8921" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8921" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8921" Ref="C380"  Part="1" 
+AR Path="/5D65F554/5CDB8921" Ref="C580"  Part="1" 
+AR Path="/5D65F965/5CDB8921" Ref="C780"  Part="1" 
+AR Path="/5D66274B/5CDB8921" Ref="C980"  Part="1" 
+F 0 "C380" H 2567 4771 50  0000 L CNN
+F 1 "C" H 2567 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2475 4725 50  0001 C CNN
+F 3 "~" H 2475 4725 50  0001 C CNN
+	1    2475 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 2075 4625
+Connection ~ 2475 4625
+$Comp
+L Device:C_Small C181
+U 1 1 5CDB892A
+P 2925 4725
+AR Path="/5CACEBF5/5CDB892A" Ref="C181"  Part="1" 
+AR Path="/5CFFD7A4/5CDB892A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB892A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB892A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB892A" Ref="C381"  Part="1" 
+AR Path="/5D65F554/5CDB892A" Ref="C581"  Part="1" 
+AR Path="/5D65F965/5CDB892A" Ref="C781"  Part="1" 
+AR Path="/5D66274B/5CDB892A" Ref="C981"  Part="1" 
+F 0 "C381" H 3017 4771 50  0000 L CNN
+F 1 "C" H 3017 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 2925 4725 50  0001 C CNN
+F 3 "~" H 2925 4725 50  0001 C CNN
+	1    2925 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C182
+U 1 1 5CDB8931
+P 3325 4725
+AR Path="/5CACEBF5/5CDB8931" Ref="C182"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8931" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8931" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8931" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8931" Ref="C382"  Part="1" 
+AR Path="/5D65F554/5CDB8931" Ref="C582"  Part="1" 
+AR Path="/5D65F965/5CDB8931" Ref="C782"  Part="1" 
+AR Path="/5D66274B/5CDB8931" Ref="C982"  Part="1" 
+F 0 "C382" H 3417 4771 50  0000 L CNN
+F 1 "C" H 3417 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3325 4725 50  0001 C CNN
+F 3 "~" H 3325 4725 50  0001 C CNN
+	1    3325 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C183
+U 1 1 5CDB8938
+P 3750 4725
+AR Path="/5CACEBF5/5CDB8938" Ref="C183"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8938" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8938" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8938" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8938" Ref="C383"  Part="1" 
+AR Path="/5D65F554/5CDB8938" Ref="C583"  Part="1" 
+AR Path="/5D65F965/5CDB8938" Ref="C783"  Part="1" 
+AR Path="/5D66274B/5CDB8938" Ref="C983"  Part="1" 
+F 0 "C383" H 3842 4771 50  0000 L CNN
+F 1 "C" H 3842 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 3750 4725 50  0001 C CNN
+F 3 "~" H 3750 4725 50  0001 C CNN
+	1    3750 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C184
+U 1 1 5CDB893F
+P 4150 4725
+AR Path="/5CACEBF5/5CDB893F" Ref="C184"  Part="1" 
+AR Path="/5CFFD7A4/5CDB893F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB893F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB893F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB893F" Ref="C384"  Part="1" 
+AR Path="/5D65F554/5CDB893F" Ref="C584"  Part="1" 
+AR Path="/5D65F965/5CDB893F" Ref="C784"  Part="1" 
+AR Path="/5D66274B/5CDB893F" Ref="C984"  Part="1" 
+F 0 "C384" H 4242 4771 50  0000 L CNN
+F 1 "C" H 4242 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4150 4725 50  0001 C CNN
+F 3 "~" H 4150 4725 50  0001 C CNN
+	1    4150 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 2925 4625
+Connection ~ 3325 4625
+Connection ~ 3750 4625
+Connection ~ 4150 4625
+$Comp
+L Device:C_Small C185
+U 1 1 5CDB894A
+P 4600 4725
+AR Path="/5CACEBF5/5CDB894A" Ref="C185"  Part="1" 
+AR Path="/5CFFD7A4/5CDB894A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB894A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB894A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB894A" Ref="C385"  Part="1" 
+AR Path="/5D65F554/5CDB894A" Ref="C585"  Part="1" 
+AR Path="/5D65F965/5CDB894A" Ref="C785"  Part="1" 
+AR Path="/5D66274B/5CDB894A" Ref="C985"  Part="1" 
+F 0 "C385" H 4692 4771 50  0000 L CNN
+F 1 "C" H 4692 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 4600 4725 50  0001 C CNN
+F 3 "~" H 4600 4725 50  0001 C CNN
+	1    4600 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C186
+U 1 1 5CDB8951
+P 5000 4725
+AR Path="/5CACEBF5/5CDB8951" Ref="C186"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8951" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8951" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8951" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8951" Ref="C386"  Part="1" 
+AR Path="/5D65F554/5CDB8951" Ref="C586"  Part="1" 
+AR Path="/5D65F965/5CDB8951" Ref="C786"  Part="1" 
+AR Path="/5D66274B/5CDB8951" Ref="C986"  Part="1" 
+F 0 "C386" H 5092 4771 50  0000 L CNN
+F 1 "C" H 5092 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5000 4725 50  0001 C CNN
+F 3 "~" H 5000 4725 50  0001 C CNN
+	1    5000 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C187
+U 1 1 5CDB8958
+P 5425 4725
+AR Path="/5CACEBF5/5CDB8958" Ref="C187"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8958" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8958" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8958" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8958" Ref="C387"  Part="1" 
+AR Path="/5D65F554/5CDB8958" Ref="C587"  Part="1" 
+AR Path="/5D65F965/5CDB8958" Ref="C787"  Part="1" 
+AR Path="/5D66274B/5CDB8958" Ref="C987"  Part="1" 
+F 0 "C387" H 5517 4771 50  0000 L CNN
+F 1 "C" H 5517 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5425 4725 50  0001 C CNN
+F 3 "~" H 5425 4725 50  0001 C CNN
+	1    5425 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C188
+U 1 1 5CDB895F
+P 5825 4725
+AR Path="/5CACEBF5/5CDB895F" Ref="C188"  Part="1" 
+AR Path="/5CFFD7A4/5CDB895F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB895F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB895F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB895F" Ref="C388"  Part="1" 
+AR Path="/5D65F554/5CDB895F" Ref="C588"  Part="1" 
+AR Path="/5D65F965/5CDB895F" Ref="C788"  Part="1" 
+AR Path="/5D66274B/5CDB895F" Ref="C988"  Part="1" 
+F 0 "C388" H 5917 4771 50  0000 L CNN
+F 1 "C" H 5917 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 5825 4725 50  0001 C CNN
+F 3 "~" H 5825 4725 50  0001 C CNN
+	1    5825 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C189
+U 1 1 5CDB8966
+P 6275 4725
+AR Path="/5CACEBF5/5CDB8966" Ref="C189"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8966" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8966" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8966" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8966" Ref="C389"  Part="1" 
+AR Path="/5D65F554/5CDB8966" Ref="C589"  Part="1" 
+AR Path="/5D65F965/5CDB8966" Ref="C789"  Part="1" 
+AR Path="/5D66274B/5CDB8966" Ref="C989"  Part="1" 
+F 0 "C389" H 6367 4771 50  0000 L CNN
+F 1 "C" H 6367 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6275 4725 50  0001 C CNN
+F 3 "~" H 6275 4725 50  0001 C CNN
+	1    6275 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C190
+U 1 1 5CDB896D
+P 6675 4725
+AR Path="/5CACEBF5/5CDB896D" Ref="C190"  Part="1" 
+AR Path="/5CFFD7A4/5CDB896D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB896D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB896D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB896D" Ref="C390"  Part="1" 
+AR Path="/5D65F554/5CDB896D" Ref="C590"  Part="1" 
+AR Path="/5D65F965/5CDB896D" Ref="C790"  Part="1" 
+AR Path="/5D66274B/5CDB896D" Ref="C990"  Part="1" 
+F 0 "C390" H 6767 4771 50  0000 L CNN
+F 1 "C" H 6767 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 6675 4725 50  0001 C CNN
+F 3 "~" H 6675 4725 50  0001 C CNN
+	1    6675 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C191
+U 1 1 5CDB8974
+P 7100 4725
+AR Path="/5CACEBF5/5CDB8974" Ref="C191"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8974" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8974" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8974" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8974" Ref="C391"  Part="1" 
+AR Path="/5D65F554/5CDB8974" Ref="C591"  Part="1" 
+AR Path="/5D65F965/5CDB8974" Ref="C791"  Part="1" 
+AR Path="/5D66274B/5CDB8974" Ref="C991"  Part="1" 
+F 0 "C391" H 7192 4771 50  0000 L CNN
+F 1 "C" H 7192 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7100 4725 50  0001 C CNN
+F 3 "~" H 7100 4725 50  0001 C CNN
+	1    7100 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C192
+U 1 1 5CDB897B
+P 7500 4725
+AR Path="/5CACEBF5/5CDB897B" Ref="C192"  Part="1" 
+AR Path="/5CFFD7A4/5CDB897B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB897B" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB897B" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB897B" Ref="C392"  Part="1" 
+AR Path="/5D65F554/5CDB897B" Ref="C592"  Part="1" 
+AR Path="/5D65F965/5CDB897B" Ref="C792"  Part="1" 
+AR Path="/5D66274B/5CDB897B" Ref="C992"  Part="1" 
+F 0 "C392" H 7592 4771 50  0000 L CNN
+F 1 "C" H 7592 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7500 4725 50  0001 C CNN
+F 3 "~" H 7500 4725 50  0001 C CNN
+	1    7500 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 4600 4625
+Connection ~ 5000 4625
+Connection ~ 5425 4625
+Connection ~ 5825 4625
+Connection ~ 6275 4625
+Connection ~ 6675 4625
+Connection ~ 7100 4625
+Connection ~ 7500 4625
+$Comp
+L Device:C_Small C193
+U 1 1 5CDB898A
+P 7875 4725
+AR Path="/5CACEBF5/5CDB898A" Ref="C193"  Part="1" 
+AR Path="/5CFFD7A4/5CDB898A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB898A" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB898A" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB898A" Ref="C393"  Part="1" 
+AR Path="/5D65F554/5CDB898A" Ref="C593"  Part="1" 
+AR Path="/5D65F965/5CDB898A" Ref="C793"  Part="1" 
+AR Path="/5D66274B/5CDB898A" Ref="C993"  Part="1" 
+F 0 "C393" H 7967 4771 50  0000 L CNN
+F 1 "C" H 7967 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 7875 4725 50  0001 C CNN
+F 3 "~" H 7875 4725 50  0001 C CNN
+	1    7875 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C194
+U 1 1 5CDB8991
+P 8275 4725
+AR Path="/5CACEBF5/5CDB8991" Ref="C194"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8991" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8991" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8991" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8991" Ref="C394"  Part="1" 
+AR Path="/5D65F554/5CDB8991" Ref="C594"  Part="1" 
+AR Path="/5D65F965/5CDB8991" Ref="C794"  Part="1" 
+AR Path="/5D66274B/5CDB8991" Ref="C994"  Part="1" 
+F 0 "C394" H 8367 4771 50  0000 L CNN
+F 1 "C" H 8367 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8275 4725 50  0001 C CNN
+F 3 "~" H 8275 4725 50  0001 C CNN
+	1    8275 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C195
+U 1 1 5CDB8998
+P 8725 4725
+AR Path="/5CACEBF5/5CDB8998" Ref="C195"  Part="1" 
+AR Path="/5CFFD7A4/5CDB8998" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB8998" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB8998" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB8998" Ref="C395"  Part="1" 
+AR Path="/5D65F554/5CDB8998" Ref="C595"  Part="1" 
+AR Path="/5D65F965/5CDB8998" Ref="C795"  Part="1" 
+AR Path="/5D66274B/5CDB8998" Ref="C995"  Part="1" 
+F 0 "C395" H 8817 4771 50  0000 L CNN
+F 1 "C" H 8817 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 8725 4725 50  0001 C CNN
+F 3 "~" H 8725 4725 50  0001 C CNN
+	1    8725 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C196
+U 1 1 5CDB899F
+P 9125 4725
+AR Path="/5CACEBF5/5CDB899F" Ref="C196"  Part="1" 
+AR Path="/5CFFD7A4/5CDB899F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB899F" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB899F" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB899F" Ref="C396"  Part="1" 
+AR Path="/5D65F554/5CDB899F" Ref="C596"  Part="1" 
+AR Path="/5D65F965/5CDB899F" Ref="C796"  Part="1" 
+AR Path="/5D66274B/5CDB899F" Ref="C996"  Part="1" 
+F 0 "C396" H 9217 4771 50  0000 L CNN
+F 1 "C" H 9217 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9125 4725 50  0001 C CNN
+F 3 "~" H 9125 4725 50  0001 C CNN
+	1    9125 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C197
+U 1 1 5CDB89A6
+P 9550 4725
+AR Path="/5CACEBF5/5CDB89A6" Ref="C197"  Part="1" 
+AR Path="/5CFFD7A4/5CDB89A6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB89A6" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB89A6" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB89A6" Ref="C397"  Part="1" 
+AR Path="/5D65F554/5CDB89A6" Ref="C597"  Part="1" 
+AR Path="/5D65F965/5CDB89A6" Ref="C797"  Part="1" 
+AR Path="/5D66274B/5CDB89A6" Ref="C997"  Part="1" 
+F 0 "C397" H 9642 4771 50  0000 L CNN
+F 1 "C" H 9642 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9550 4725 50  0001 C CNN
+F 3 "~" H 9550 4725 50  0001 C CNN
+	1    9550 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C198
+U 1 1 5CDB89AD
+P 9950 4725
+AR Path="/5CACEBF5/5CDB89AD" Ref="C198"  Part="1" 
+AR Path="/5CFFD7A4/5CDB89AD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB89AD" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB89AD" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB89AD" Ref="C398"  Part="1" 
+AR Path="/5D65F554/5CDB89AD" Ref="C598"  Part="1" 
+AR Path="/5D65F965/5CDB89AD" Ref="C798"  Part="1" 
+AR Path="/5D66274B/5CDB89AD" Ref="C998"  Part="1" 
+F 0 "C398" H 10042 4771 50  0000 L CNN
+F 1 "C" H 10042 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 9950 4725 50  0001 C CNN
+F 3 "~" H 9950 4725 50  0001 C CNN
+	1    9950 4725
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C199
+U 1 1 5CDB89B4
+P 10400 4725
+AR Path="/5CACEBF5/5CDB89B4" Ref="C199"  Part="1" 
+AR Path="/5CFFD7A4/5CDB89B4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB89B4" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB89B4" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB89B4" Ref="C399"  Part="1" 
+AR Path="/5D65F554/5CDB89B4" Ref="C599"  Part="1" 
+AR Path="/5D65F965/5CDB89B4" Ref="C799"  Part="1" 
+AR Path="/5D66274B/5CDB89B4" Ref="C999"  Part="1" 
+F 0 "C399" H 10492 4771 50  0000 L CNN
+F 1 "C" H 10492 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10400 4725 50  0001 C CNN
+F 3 "~" H 10400 4725 50  0001 C CNN
+	1    10400 4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 7875 4625
+Connection ~ 8275 4625
+Connection ~ 8725 4625
+Connection ~ 9125 4625
+Connection ~ 9550 4625
+Connection ~ 9950 4625
+$Comp
+L Device:C_Small C176
+U 1 1 5CDB89C1
+P 900 4725
+AR Path="/5CACEBF5/5CDB89C1" Ref="C176"  Part="1" 
+AR Path="/5CFFD7A4/5CDB89C1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5CDB89C1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5CDB89C1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5CDB89C1" Ref="C376"  Part="1" 
+AR Path="/5D65F554/5CDB89C1" Ref="C576"  Part="1" 
+AR Path="/5D65F965/5CDB89C1" Ref="C776"  Part="1" 
+AR Path="/5D66274B/5CDB89C1" Ref="C976"  Part="1" 
+F 0 "C376" H 992 4771 50  0000 L CNN
+F 1 "C" H 992 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 900 4725 50  0001 C CNN
+F 3 "~" H 900 4725 50  0001 C CNN
+	1    900  4725
+	1    0    0    -1  
+$EndComp
+Connection ~ 900  4625
+Wire Wire Line
+	750  4625 900  4625
+Wire Wire Line
+	900  4625 1250 4625
+Wire Wire Line
+	1250 4625 1650 4625
+Wire Wire Line
+	1650 4625 2075 4625
+Wire Wire Line
+	2075 4625 2475 4625
+Wire Wire Line
+	2475 4625 2925 4625
+Wire Wire Line
+	2925 4625 3325 4625
+Wire Wire Line
+	3325 4625 3750 4625
+Wire Wire Line
+	3750 4625 4150 4625
+Wire Wire Line
+	4150 4625 4600 4625
+Wire Wire Line
+	4600 4625 5000 4625
+Wire Wire Line
+	5000 4625 5425 4625
+Wire Wire Line
+	5425 4625 5825 4625
+Wire Wire Line
+	5825 4625 6275 4625
+Wire Wire Line
+	6275 4625 6675 4625
+Wire Wire Line
+	6675 4625 7100 4625
+Wire Wire Line
+	7100 4625 7500 4625
+Wire Wire Line
+	7500 4625 7875 4625
+Wire Wire Line
+	7875 4625 8275 4625
+Wire Wire Line
+	8275 4625 8725 4625
+Wire Wire Line
+	8725 4625 9125 4625
+Wire Wire Line
+	9125 4625 9550 4625
+Wire Wire Line
+	9550 4625 9950 4625
+Wire Wire Line
+	9950 4625 10400 4625
+Connection ~ 900  1150
+Wire Wire Line
+	750  4625 750  4100
+Wire Wire Line
+	725  1150 750  1150
+Connection ~ 750  1150
+Wire Wire Line
+	750  1150 900  1150
+Connection ~ 750  1675
+Wire Wire Line
+	750  1675 750  1150
+Connection ~ 750  2125
+Wire Wire Line
+	750  2125 750  1675
+Connection ~ 750  2650
+Wire Wire Line
+	750  2650 750  2125
+Connection ~ 750  3125
+Wire Wire Line
+	750  3125 750  2650
+Connection ~ 750  3650
+Wire Wire Line
+	750  3650 750  3125
+Connection ~ 750  4100
+Wire Wire Line
+	900  1350 1250 1350
+Connection ~ 1250 1350
+Wire Wire Line
+	1250 1350 1650 1350
+Connection ~ 1650 1350
+Wire Wire Line
+	1650 1350 2075 1350
+Connection ~ 2075 1350
+Wire Wire Line
+	2075 1350 2475 1350
+Connection ~ 2475 1350
+Wire Wire Line
+	2475 1350 2925 1350
+Connection ~ 2925 1350
+Wire Wire Line
+	2925 1350 3325 1350
+Connection ~ 3325 1350
+Wire Wire Line
+	3325 1350 3750 1350
+Connection ~ 3750 1350
+Wire Wire Line
+	3750 1350 4150 1350
+Connection ~ 4150 1350
+Wire Wire Line
+	4150 1350 4600 1350
+Connection ~ 4600 1350
+Wire Wire Line
+	4600 1350 5000 1350
+Connection ~ 5000 1350
+Wire Wire Line
+	5000 1350 5425 1350
+Connection ~ 5425 1350
+Wire Wire Line
+	5425 1350 5825 1350
+Connection ~ 5825 1350
+Wire Wire Line
+	5825 1350 6275 1350
+Connection ~ 6275 1350
+Wire Wire Line
+	6275 1350 6675 1350
+Connection ~ 6675 1350
+Wire Wire Line
+	6675 1350 7100 1350
+Connection ~ 7100 1350
+Wire Wire Line
+	7100 1350 7500 1350
+Connection ~ 7500 1350
+Wire Wire Line
+	7500 1350 7875 1350
+Connection ~ 7875 1350
+Wire Wire Line
+	7875 1350 8275 1350
+Connection ~ 8275 1350
+Wire Wire Line
+	8275 1350 8725 1350
+Connection ~ 8725 1350
+Wire Wire Line
+	8725 1350 9125 1350
+Connection ~ 9125 1350
+Wire Wire Line
+	9125 1350 9550 1350
+Connection ~ 9550 1350
+Wire Wire Line
+	9550 1350 9950 1350
+Connection ~ 9950 1350
+Wire Wire Line
+	9950 1350 10400 1350
+Connection ~ 10400 1350
+Wire Wire Line
+	900  4825 1250 4825
+Connection ~ 1250 4825
+Wire Wire Line
+	1250 4825 1650 4825
+Connection ~ 1650 4825
+Wire Wire Line
+	1650 4825 2075 4825
+Connection ~ 2075 4825
+Wire Wire Line
+	2075 4825 2475 4825
+Connection ~ 2475 4825
+Wire Wire Line
+	2475 4825 2925 4825
+Connection ~ 2925 4825
+Wire Wire Line
+	2925 4825 3325 4825
+Connection ~ 3325 4825
+Wire Wire Line
+	3325 4825 3750 4825
+Connection ~ 3750 4825
+Wire Wire Line
+	3750 4825 4150 4825
+Connection ~ 4150 4825
+Wire Wire Line
+	4150 4825 4600 4825
+Connection ~ 4600 4825
+Wire Wire Line
+	4600 4825 5000 4825
+Connection ~ 5000 4825
+Wire Wire Line
+	5000 4825 5425 4825
+Connection ~ 5425 4825
+Wire Wire Line
+	5425 4825 5825 4825
+Connection ~ 5825 4825
+Wire Wire Line
+	5825 4825 6275 4825
+Connection ~ 6275 4825
+Wire Wire Line
+	6275 4825 6675 4825
+Connection ~ 6675 4825
+Wire Wire Line
+	6675 4825 7100 4825
+Connection ~ 7100 4825
+Wire Wire Line
+	7100 4825 7500 4825
+Connection ~ 7500 4825
+Wire Wire Line
+	7500 4825 7875 4825
+Connection ~ 7875 4825
+Wire Wire Line
+	7875 4825 8275 4825
+Connection ~ 8275 4825
+Wire Wire Line
+	8275 4825 8725 4825
+Connection ~ 8725 4825
+Wire Wire Line
+	8725 4825 9125 4825
+Connection ~ 9125 4825
+Wire Wire Line
+	9125 4825 9550 4825
+Connection ~ 9550 4825
+Wire Wire Line
+	9550 4825 9950 4825
+Connection ~ 9950 4825
+Wire Wire Line
+	9950 4825 10400 4825
+Connection ~ 10400 4825
+Wire Wire Line
+	900  4300 1250 4300
+Connection ~ 1250 4300
+Wire Wire Line
+	1250 4300 1650 4300
+Connection ~ 1650 4300
+Wire Wire Line
+	1650 4300 2075 4300
+Connection ~ 2075 4300
+Wire Wire Line
+	2075 4300 2475 4300
+Connection ~ 2475 4300
+Wire Wire Line
+	2475 4300 2925 4300
+Connection ~ 2925 4300
+Wire Wire Line
+	2925 4300 3325 4300
+Connection ~ 3325 4300
+Wire Wire Line
+	3325 4300 3750 4300
+Connection ~ 3750 4300
+Wire Wire Line
+	3750 4300 4150 4300
+Connection ~ 4150 4300
+Wire Wire Line
+	4150 4300 4600 4300
+Connection ~ 4600 4300
+Wire Wire Line
+	4600 4300 5000 4300
+Connection ~ 5000 4300
+Wire Wire Line
+	5000 4300 5425 4300
+Connection ~ 5425 4300
+Wire Wire Line
+	5425 4300 5825 4300
+Connection ~ 5825 4300
+Wire Wire Line
+	5825 4300 6275 4300
+Connection ~ 6275 4300
+Wire Wire Line
+	6275 4300 6675 4300
+Connection ~ 6675 4300
+Wire Wire Line
+	6675 4300 7100 4300
+Connection ~ 7100 4300
+Wire Wire Line
+	7100 4300 7500 4300
+Connection ~ 7500 4300
+Wire Wire Line
+	7500 4300 7875 4300
+Connection ~ 7875 4300
+Wire Wire Line
+	7875 4300 8275 4300
+Connection ~ 8275 4300
+Wire Wire Line
+	8275 4300 8725 4300
+Connection ~ 8725 4300
+Wire Wire Line
+	8725 4300 9125 4300
+Connection ~ 9125 4300
+Wire Wire Line
+	9125 4300 9550 4300
+Connection ~ 9550 4300
+Wire Wire Line
+	9550 4300 9950 4300
+Connection ~ 9950 4300
+Wire Wire Line
+	9950 4300 10400 4300
+Connection ~ 10400 4300
+Wire Wire Line
+	900  3325 1250 3325
+Connection ~ 1250 3325
+Wire Wire Line
+	1250 3325 1650 3325
+Connection ~ 1650 3325
+Wire Wire Line
+	1650 3325 2075 3325
+Connection ~ 2075 3325
+Wire Wire Line
+	2075 3325 2475 3325
+Connection ~ 2475 3325
+Wire Wire Line
+	2475 3325 2925 3325
+Connection ~ 2925 3325
+Wire Wire Line
+	2925 3325 3325 3325
+Connection ~ 3325 3325
+Wire Wire Line
+	3325 3325 3750 3325
+Connection ~ 3750 3325
+Wire Wire Line
+	3750 3325 4150 3325
+Connection ~ 4150 3325
+Wire Wire Line
+	4150 3325 4600 3325
+Connection ~ 4600 3325
+Wire Wire Line
+	4600 3325 5000 3325
+Connection ~ 5000 3325
+Wire Wire Line
+	5000 3325 5425 3325
+Connection ~ 5425 3325
+Wire Wire Line
+	5425 3325 5825 3325
+Connection ~ 5825 3325
+Wire Wire Line
+	5825 3325 6275 3325
+Connection ~ 6275 3325
+Wire Wire Line
+	6275 3325 6675 3325
+Connection ~ 6675 3325
+Wire Wire Line
+	6675 3325 7100 3325
+Connection ~ 7100 3325
+Wire Wire Line
+	7100 3325 7500 3325
+Connection ~ 7500 3325
+Wire Wire Line
+	7500 3325 7875 3325
+Connection ~ 7875 3325
+Wire Wire Line
+	7875 3325 8275 3325
+Connection ~ 8275 3325
+Wire Wire Line
+	8275 3325 8725 3325
+Connection ~ 8725 3325
+Wire Wire Line
+	8725 3325 9125 3325
+Connection ~ 9125 3325
+Wire Wire Line
+	9125 3325 9550 3325
+Connection ~ 9550 3325
+Wire Wire Line
+	9550 3325 9950 3325
+Connection ~ 9950 3325
+Wire Wire Line
+	9950 3325 10400 3325
+Connection ~ 10400 3325
+Wire Wire Line
+	900  2850 1250 2850
+Connection ~ 1250 2850
+Wire Wire Line
+	1250 2850 1650 2850
+Connection ~ 1650 2850
+Wire Wire Line
+	1650 2850 2075 2850
+Connection ~ 2075 2850
+Wire Wire Line
+	2075 2850 2475 2850
+Connection ~ 2475 2850
+Wire Wire Line
+	2475 2850 2925 2850
+Connection ~ 2925 2850
+Wire Wire Line
+	2925 2850 3325 2850
+Connection ~ 3325 2850
+Wire Wire Line
+	3325 2850 3750 2850
+Connection ~ 3750 2850
+Wire Wire Line
+	3750 2850 4150 2850
+Connection ~ 4150 2850
+Wire Wire Line
+	4150 2850 4600 2850
+Connection ~ 4600 2850
+Wire Wire Line
+	4600 2850 5000 2850
+Connection ~ 5000 2850
+Wire Wire Line
+	5000 2850 5425 2850
+Connection ~ 5425 2850
+Wire Wire Line
+	5425 2850 5825 2850
+Connection ~ 5825 2850
+Wire Wire Line
+	5825 2850 6275 2850
+Connection ~ 6275 2850
+Wire Wire Line
+	6275 2850 6675 2850
+Connection ~ 6675 2850
+Wire Wire Line
+	6675 2850 7100 2850
+Connection ~ 7100 2850
+Wire Wire Line
+	7100 2850 7500 2850
+Connection ~ 7500 2850
+Wire Wire Line
+	7500 2850 7875 2850
+Connection ~ 7875 2850
+Wire Wire Line
+	7875 2850 8275 2850
+Connection ~ 8275 2850
+Wire Wire Line
+	8275 2850 8725 2850
+Connection ~ 8725 2850
+Wire Wire Line
+	8725 2850 9125 2850
+Connection ~ 9125 2850
+Wire Wire Line
+	9125 2850 9550 2850
+Connection ~ 9550 2850
+Wire Wire Line
+	9550 2850 9950 2850
+Connection ~ 9950 2850
+Wire Wire Line
+	9950 2850 10400 2850
+Connection ~ 10400 2850
+Wire Wire Line
+	900  1875 1250 1875
+Connection ~ 1250 1875
+Wire Wire Line
+	1250 1875 1650 1875
+Connection ~ 1650 1875
+Wire Wire Line
+	1650 1875 2075 1875
+Connection ~ 2075 1875
+Wire Wire Line
+	2075 1875 2475 1875
+Connection ~ 2475 1875
+Wire Wire Line
+	2475 1875 2925 1875
+Connection ~ 2925 1875
+Wire Wire Line
+	2925 1875 3325 1875
+Connection ~ 3325 1875
+Wire Wire Line
+	3325 1875 3750 1875
+Connection ~ 3750 1875
+Wire Wire Line
+	3750 1875 4150 1875
+Connection ~ 4150 1875
+Wire Wire Line
+	4150 1875 4600 1875
+Connection ~ 4600 1875
+Wire Wire Line
+	4600 1875 5000 1875
+Connection ~ 5000 1875
+Wire Wire Line
+	5000 1875 5425 1875
+Connection ~ 5425 1875
+Wire Wire Line
+	5425 1875 5825 1875
+Connection ~ 5825 1875
+Wire Wire Line
+	5825 1875 6275 1875
+Connection ~ 6275 1875
+Wire Wire Line
+	6275 1875 6675 1875
+Connection ~ 6675 1875
+Wire Wire Line
+	6675 1875 7100 1875
+Connection ~ 7100 1875
+Wire Wire Line
+	7100 1875 7500 1875
+Connection ~ 7500 1875
+Wire Wire Line
+	7500 1875 7875 1875
+Connection ~ 7875 1875
+Wire Wire Line
+	7875 1875 8275 1875
+Connection ~ 8275 1875
+Wire Wire Line
+	8275 1875 8725 1875
+Connection ~ 8725 1875
+Wire Wire Line
+	8725 1875 9125 1875
+Connection ~ 9125 1875
+Wire Wire Line
+	9125 1875 9550 1875
+Connection ~ 9550 1875
+Wire Wire Line
+	9550 1875 9950 1875
+Connection ~ 9950 1875
+Wire Wire Line
+	9950 1875 10400 1875
+Connection ~ 10400 1875
+Wire Wire Line
+	900  2325 1250 2325
+Connection ~ 1250 2325
+Wire Wire Line
+	1250 2325 1650 2325
+Connection ~ 1650 2325
+Wire Wire Line
+	1650 2325 2075 2325
+Connection ~ 2075 2325
+Wire Wire Line
+	2075 2325 2475 2325
+Connection ~ 2475 2325
+Wire Wire Line
+	2475 2325 2925 2325
+Connection ~ 2925 2325
+Wire Wire Line
+	2925 2325 3325 2325
+Connection ~ 3325 2325
+Wire Wire Line
+	3325 2325 3750 2325
+Connection ~ 3750 2325
+Wire Wire Line
+	3750 2325 4150 2325
+Connection ~ 4150 2325
+Wire Wire Line
+	4150 2325 4600 2325
+Connection ~ 4600 2325
+Wire Wire Line
+	4600 2325 5000 2325
+Connection ~ 5000 2325
+Wire Wire Line
+	5000 2325 5425 2325
+Connection ~ 5425 2325
+Wire Wire Line
+	5425 2325 5825 2325
+Connection ~ 5825 2325
+Wire Wire Line
+	5825 2325 6275 2325
+Connection ~ 6275 2325
+Wire Wire Line
+	6275 2325 6675 2325
+Connection ~ 6675 2325
+Wire Wire Line
+	6675 2325 7100 2325
+Connection ~ 7100 2325
+Wire Wire Line
+	7100 2325 7500 2325
+Connection ~ 7500 2325
+Wire Wire Line
+	7500 2325 7875 2325
+Connection ~ 7875 2325
+Wire Wire Line
+	7875 2325 8275 2325
+Connection ~ 8275 2325
+Wire Wire Line
+	8275 2325 8725 2325
+Connection ~ 8725 2325
+Wire Wire Line
+	8725 2325 9125 2325
+Connection ~ 9125 2325
+Wire Wire Line
+	9125 2325 9550 2325
+Connection ~ 9550 2325
+Wire Wire Line
+	9550 2325 9950 2325
+Connection ~ 9950 2325
+Wire Wire Line
+	9950 2325 10400 2325
+Connection ~ 10400 2325
+$Comp
+L Device:C_Small C25
+U 1 1 5D045A93
+P 10850 1250
+AR Path="/5CACEBF5/5D045A93" Ref="C25"  Part="1" 
+AR Path="/5CFFD7A4/5D045A93" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D045A93" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D045A93" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D045A93" Ref="C225"  Part="1" 
+AR Path="/5D65F554/5D045A93" Ref="C425"  Part="1" 
+AR Path="/5D65F965/5D045A93" Ref="C625"  Part="1" 
+AR Path="/5D66274B/5D045A93" Ref="C825"  Part="1" 
+F 0 "C225" H 10942 1296 50  0000 L CNN
+F 1 "C" H 10942 1205 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10850 1250 50  0001 C CNN
+F 3 "~" H 10850 1250 50  0001 C CNN
+	1    10850 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C50
+U 1 1 5D045C39
+P 10850 1775
+AR Path="/5CACEBF5/5D045C39" Ref="C50"  Part="1" 
+AR Path="/5CFFD7A4/5D045C39" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D045C39" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D045C39" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D045C39" Ref="C250"  Part="1" 
+AR Path="/5D65F554/5D045C39" Ref="C450"  Part="1" 
+AR Path="/5D65F965/5D045C39" Ref="C650"  Part="1" 
+AR Path="/5D66274B/5D045C39" Ref="C850"  Part="1" 
+F 0 "C250" H 10942 1821 50  0000 L CNN
+F 1 "C" H 10942 1730 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10850 1775 50  0001 C CNN
+F 3 "~" H 10850 1775 50  0001 C CNN
+	1    10850 1775
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C75
+U 1 1 5D08B12D
+P 10875 2225
+AR Path="/5CACEBF5/5D08B12D" Ref="C75"  Part="1" 
+AR Path="/5CFFD7A4/5D08B12D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D08B12D" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D08B12D" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D08B12D" Ref="C275"  Part="1" 
+AR Path="/5D65F554/5D08B12D" Ref="C475"  Part="1" 
+AR Path="/5D65F965/5D08B12D" Ref="C675"  Part="1" 
+AR Path="/5D66274B/5D08B12D" Ref="C875"  Part="1" 
+F 0 "C275" H 10967 2271 50  0000 L CNN
+F 1 "C" H 10967 2180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10875 2225 50  0001 C CNN
+F 3 "~" H 10875 2225 50  0001 C CNN
+	1    10875 2225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C100
+U 1 1 5D08B2D1
+P 10900 2750
+AR Path="/5CACEBF5/5D08B2D1" Ref="C100"  Part="1" 
+AR Path="/5CFFD7A4/5D08B2D1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D08B2D1" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D08B2D1" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D08B2D1" Ref="C300"  Part="1" 
+AR Path="/5D65F554/5D08B2D1" Ref="C500"  Part="1" 
+AR Path="/5D65F965/5D08B2D1" Ref="C700"  Part="1" 
+AR Path="/5D66274B/5D08B2D1" Ref="C900"  Part="1" 
+F 0 "C300" H 10992 2796 50  0000 L CNN
+F 1 "C" H 10992 2705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10900 2750 50  0001 C CNN
+F 3 "~" H 10900 2750 50  0001 C CNN
+	1    10900 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C125
+U 1 1 5D08B485
+P 10900 3225
+AR Path="/5CACEBF5/5D08B485" Ref="C125"  Part="1" 
+AR Path="/5CFFD7A4/5D08B485" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D08B485" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D08B485" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D08B485" Ref="C325"  Part="1" 
+AR Path="/5D65F554/5D08B485" Ref="C525"  Part="1" 
+AR Path="/5D65F965/5D08B485" Ref="C725"  Part="1" 
+AR Path="/5D66274B/5D08B485" Ref="C925"  Part="1" 
+F 0 "C325" H 10992 3271 50  0000 L CNN
+F 1 "C" H 10992 3180 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10900 3225 50  0001 C CNN
+F 3 "~" H 10900 3225 50  0001 C CNN
+	1    10900 3225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C150
+U 1 1 5D08B631
+P 10900 3750
+AR Path="/5CACEBF5/5D08B631" Ref="C150"  Part="1" 
+AR Path="/5CFFD7A4/5D08B631" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D08B631" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D08B631" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D08B631" Ref="C350"  Part="1" 
+AR Path="/5D65F554/5D08B631" Ref="C550"  Part="1" 
+AR Path="/5D65F965/5D08B631" Ref="C750"  Part="1" 
+AR Path="/5D66274B/5D08B631" Ref="C950"  Part="1" 
+F 0 "C350" H 10992 3796 50  0000 L CNN
+F 1 "C" H 10992 3705 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10900 3750 50  0001 C CNN
+F 3 "~" H 10900 3750 50  0001 C CNN
+	1    10900 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C200
+U 1 1 5D1157C8
+P 10900 4725
+AR Path="/5CACEBF5/5D1157C8" Ref="C200"  Part="1" 
+AR Path="/5CFFD7A4/5D1157C8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D1157C8" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D1157C8" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D1157C8" Ref="C400"  Part="1" 
+AR Path="/5D65F554/5D1157C8" Ref="C600"  Part="1" 
+AR Path="/5D65F965/5D1157C8" Ref="C800"  Part="1" 
+AR Path="/5D66274B/5D1157C8" Ref="C1000"  Part="1" 
+F 0 "C400" H 10992 4771 50  0000 L CNN
+F 1 "C" H 10992 4680 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10900 4725 50  0001 C CNN
+F 3 "~" H 10900 4725 50  0001 C CNN
+	1    10900 4725
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10400 1150 10850 1150
+Connection ~ 10400 1150
+Wire Wire Line
+	10400 4625 10900 4625
+Connection ~ 10400 4625
+Wire Wire Line
+	10400 4100 10900 4100
+Connection ~ 10400 4100
+$Comp
+L Device:C_Small C175
+U 1 1 5D0D0691
+P 10900 4200
+AR Path="/5CACEBF5/5D0D0691" Ref="C175"  Part="1" 
+AR Path="/5CFFD7A4/5D0D0691" Ref="C?"  Part="1" 
+AR Path="/5CFFDB58/5D0D0691" Ref="C?"  Part="1" 
+AR Path="/5CFFDB5E/5D0D0691" Ref="C?"  Part="1" 
+AR Path="/5D65F129/5D0D0691" Ref="C375"  Part="1" 
+AR Path="/5D65F554/5D0D0691" Ref="C575"  Part="1" 
+AR Path="/5D65F965/5D0D0691" Ref="C775"  Part="1" 
+AR Path="/5D66274B/5D0D0691" Ref="C975"  Part="1" 
+F 0 "C375" H 10992 4246 50  0000 L CNN
+F 1 "C" H 10992 4155 50  0000 L CNN
+F 2 "user_dc:C_2220_Sm" H 10900 4200 50  0001 C CNN
+F 3 "~" H 10900 4200 50  0001 C CNN
+	1    10900 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10400 4300 10900 4300
+Connection ~ 11125 4300
+Connection ~ 10900 4300
+Wire Wire Line
+	10900 4300 11125 4300
+Wire Wire Line
+	10400 3650 10900 3650
+Connection ~ 10400 3650
+Connection ~ 11125 3850
+Wire Wire Line
+	900  3850 1250 3850
+Connection ~ 1250 3850
+Wire Wire Line
+	1250 3850 1650 3850
+Connection ~ 1650 3850
+Wire Wire Line
+	1650 3850 2075 3850
+Connection ~ 2075 3850
+Wire Wire Line
+	2075 3850 2475 3850
+Connection ~ 2475 3850
+Wire Wire Line
+	2475 3850 2925 3850
+Connection ~ 2925 3850
+Wire Wire Line
+	2925 3850 3325 3850
+Connection ~ 3325 3850
+Wire Wire Line
+	3325 3850 3750 3850
+Connection ~ 3750 3850
+Wire Wire Line
+	3750 3850 4150 3850
+Connection ~ 4150 3850
+Wire Wire Line
+	4150 3850 4600 3850
+Connection ~ 4600 3850
+Wire Wire Line
+	4600 3850 5000 3850
+Connection ~ 5000 3850
+Wire Wire Line
+	5000 3850 5425 3850
+Connection ~ 5425 3850
+Wire Wire Line
+	5425 3850 5825 3850
+Connection ~ 5825 3850
+Wire Wire Line
+	5825 3850 6275 3850
+Connection ~ 6275 3850
+Wire Wire Line
+	6275 3850 6675 3850
+Connection ~ 6675 3850
+Wire Wire Line
+	6675 3850 7100 3850
+Connection ~ 7100 3850
+Wire Wire Line
+	7100 3850 7500 3850
+Connection ~ 7500 3850
+Wire Wire Line
+	7500 3850 7875 3850
+Connection ~ 7875 3850
+Wire Wire Line
+	7875 3850 8275 3850
+Connection ~ 8275 3850
+Wire Wire Line
+	8275 3850 8725 3850
+Connection ~ 8725 3850
+Wire Wire Line
+	8725 3850 9125 3850
+Connection ~ 9125 3850
+Wire Wire Line
+	9125 3850 9550 3850
+Connection ~ 9550 3850
+Wire Wire Line
+	9550 3850 9950 3850
+Connection ~ 9950 3850
+Wire Wire Line
+	9950 3850 10400 3850
+Connection ~ 10400 3850
+Wire Wire Line
+	10400 3850 10900 3850
+Connection ~ 10900 3850
+Wire Wire Line
+	10900 3850 11125 3850
+Wire Wire Line
+	10400 3325 10900 3325
+Connection ~ 11125 3325
+Connection ~ 10900 3325
+Wire Wire Line
+	10900 3325 11125 3325
+Wire Wire Line
+	10400 2850 10900 2850
+Connection ~ 11125 2850
+Connection ~ 10900 2850
+Wire Wire Line
+	10900 2850 11125 2850
+Wire Wire Line
+	10400 2325 10875 2325
+Connection ~ 11125 2325
+Connection ~ 10875 2325
+Wire Wire Line
+	10875 2325 11125 2325
+Wire Wire Line
+	10400 1875 10850 1875
+Connection ~ 11125 1875
+Connection ~ 10850 1875
+Wire Wire Line
+	10850 1875 11125 1875
+Wire Wire Line
+	10400 1350 10850 1350
+Connection ~ 10850 1350
+Wire Wire Line
+	10850 1350 11125 1350
+Wire Wire Line
+	10400 1675 10850 1675
+Connection ~ 10400 1675
+Wire Wire Line
+	10400 2125 10875 2125
+Connection ~ 10400 2125
+Wire Wire Line
+	10400 2650 10900 2650
+Connection ~ 10400 2650
+Wire Wire Line
+	10400 3125 10900 3125
+Connection ~ 10400 3125
+Connection ~ 11125 4825
+Connection ~ 10900 4825
+Wire Wire Line
+	10900 4825 11125 4825
+Wire Wire Line
+	10400 4825 10900 4825
+Wire Wire Line
+	11125 5075 10850 5075
+Wire Wire Line
+	11125 4825 11125 5075
+Text HLabel 725  1150 0    50   Input ~ 0
+C2+
+Wire Wire Line
+	750  3650 750  4100
+Wire Wire Line
+	11125 1350 11125 1875
+Wire Wire Line
+	11125 1875 11125 2325
+Wire Wire Line
+	11125 2325 11125 2850
+Wire Wire Line
+	11125 2850 11125 3325
+Wire Wire Line
+	11125 3325 11125 3850
+Wire Wire Line
+	11125 3850 11125 4300
+Wire Wire Line
+	11125 4300 11125 4825
+$EndSCHEMATC

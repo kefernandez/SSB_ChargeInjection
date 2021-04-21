@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\kefer\Documents\GitHub\charger\Buffer\Buffer.sch</source>
+    <date>3/4/2019 5:19:08 PM</date>
+    <tool>Eeschema (5.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Buffer.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="Q1">
+      <value>NFET_EPC2</value>
+      <footprint>user_dc:EPC_EPC203x_BGA-24</footprint>
+      <datasheet>http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf</datasheet>
+      <libsource lib="0pg-discretes" part="NFET_EPC2" description="EPC203x"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C76F2EE</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>NFET_EPC2</value>
+      <footprint>user_dc:EPC_EPC203x_BGA-24</footprint>
+      <datasheet>http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf</datasheet>
+      <libsource lib="0pg-discretes" part="NFET_EPC2" description="EPC203x"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C772336</tstamp>
+    </comp>
+    <comp ref="Inf1">
+      <value>2EDF7275K</value>
+      <footprint>user_dc:Inf2EDF7275K</footprint>
+      <libsource lib="user_kf" part="2EDF7275K" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C773157</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>1uF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C773AD2</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>732k</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C773E4A</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>22</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C782F1F</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_Schottky</value>
+      <footprint>calisco-general:D_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7842B2</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>22</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C786BC6</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>calisco-general:D_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C786C26</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7D737B</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>50m</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7D9B9F</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>20uF</value>
+      <footprint>calisco-general:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7DB4BD</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1uF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7DCC13</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>20uF</value>
+      <footprint>calisco-general:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7E2F45</tstamp>
+    </comp>
+    <comp ref="Inf2">
+      <value>2EDF7275K</value>
+      <footprint>user_dc:Inf2EDF7275K</footprint>
+      <libsource lib="user_kf" part="2EDF7275K" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7E42B1</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>150</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7EA33D</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>150</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7EA38D</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>100pF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7ED364</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>100pF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7EE93E</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>D</value>
+      <footprint>user_mb:DO-219AB</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C7FEC71</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>732k</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C803E5C</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>1uF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C803EDA</tstamp>
+    </comp>
+    <comp ref="Q3">
+      <value>NFET_EPC2</value>
+      <footprint>user_dc:EPC_EPC203x_BGA-24</footprint>
+      <datasheet>http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf</datasheet>
+      <libsource lib="0pg-discretes" part="NFET_EPC2" description="EPC203x"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C811978</tstamp>
+    </comp>
+    <comp ref="Q4">
+      <value>NFET_EPC2</value>
+      <footprint>user_dc:EPC_EPC203x_BGA-24</footprint>
+      <datasheet>http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf</datasheet>
+      <libsource lib="0pg-discretes" part="NFET_EPC2" description="EPC203x"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C814DD5</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>150</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C8187AD</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>100pF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C8189F7</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>150</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C81C75E</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100pF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C823B0C</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>22</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C83B8F5</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky</value>
+      <footprint>calisco-general:D_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C83B95B</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>22</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C845DA4</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_Schottky</value>
+      <footprint>calisco-general:D_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C845E30</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C85D33A</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1uF</value>
+      <footprint>calisco-general:C_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C864C27</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D</value>
+      <footprint>user_mb:DO-219AB</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4002" description="100V 1A General Purpose Rectifier Diode, DO-41"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C868A6D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>50m</value>
+      <footprint>calisco-general:R_0402</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C87CC26</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>20uF</value>
+      <footprint>calisco-general:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C8A70EF</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>20uF</value>
+      <footprint>calisco-general:C_0603</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="CP1_Small" description="Polarised capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C8A7316</tstamp>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9EFACF</tstamp>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Power</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9EFB6D</tstamp>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9EFD5F</tstamp>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F04E0</tstamp>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F056E</tstamp>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F0E8F</tstamp>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F12F3</tstamp>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F1638</tstamp>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F1796</tstamp>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Logic</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F1E53</tstamp>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>user_dc:Pad_Power</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5C9F266B</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="0pg-discretes" part="NFET_EPC2">
+      <description>EPC203x</description>
+      <docs>http://epc-co.com/epc/Portals/0/epc/documents/datasheets/EPC2033_datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NFET_EPC2</field>
+        <field name="Footprint">EPC</field>
+      </fields>
+      <pins>
+        <pin num="D" name="D" type="passive"/>
+        <pin num="G" name="G" type="passive"/>
+        <pin num="S" name="S" type="passive"/>
+        <pin num="S2" name="B" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4001">
+      <aliases>
+        <alias>1N4002</alias>
+        <alias>1N4003</alias>
+        <alias>1N4004</alias>
+        <alias>1N4005</alias>
+        <alias>1N4006</alias>
+        <alias>1N4007</alias>
+        <alias>BA157</alias>
+        <alias>BA158</alias>
+        <alias>BA159</alias>
+      </aliases>
+      <description>50V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4001</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="user_kf" part="2EDF7275K">
+      <fields>
+        <field name="Reference">Inf</field>
+        <field name="Value">2EDF7275K</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GNDI" type="input"/>
+        <pin num="2" name="InA" type="input"/>
+        <pin num="3" name="InB" type="input"/>
+        <pin num="4" name="SLDON" type="input"/>
+        <pin num="5" name="Disable" type="input"/>
+        <pin num="6" name="NC" type="NotConnected"/>
+        <pin num="7" name="VDDI" type="input"/>
+        <pin num="8" name="GNDB" type="input"/>
+        <pin num="9" name="OutB" type="output"/>
+        <pin num="10" name="VDDB" type="input"/>
+        <pin num="11" name="GNDA" type="input"/>
+        <pin num="12" name="OutA" type="output"/>
+        <pin num="13" name="VDDA" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="0pg-discretes">
+      <uri>C:\Users\kefer\Documents\GitHub\charger\Buffer/../kicad-library/sch/0pg-discretes.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="user_kf">
+      <uri>C:/Users/kefer/Documents/GitHub/charger/Buffer/user_kf.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C12-Pad1)">
+      <node ref="Inf2" pin="7"/>
+      <node ref="R14" pin="1"/>
+      <node ref="C12" pin="1"/>
+    </net>
+    <net code="2" name="Net-(C7-Pad1)">
+      <node ref="D6" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="Inf2" pin="10"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="3" name="Net-(D6-Pad2)">
+      <node ref="R10" pin="1"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="4" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1"/>
+      <node ref="Inf2" pin="13"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="5" name="Net-(D4-Pad1)">
+      <node ref="R8" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="Inf2" pin="9"/>
+    </net>
+    <net code="6" name="Net-(D4-Pad2)">
+      <node ref="R8" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="Q3" pin="G"/>
+    </net>
+    <net code="7" name="Net-(C10-Pad1)">
+      <node ref="R13" pin="1"/>
+      <node ref="Inf2" pin="2"/>
+      <node ref="C10" pin="1"/>
+    </net>
+    <net code="8" name="Net-(C11-Pad1)">
+      <node ref="Inf2" pin="3"/>
+      <node ref="C11" pin="1"/>
+      <node ref="R12" pin="1"/>
+    </net>
+    <net code="9" name="/5.5V_Iso">
+      <node ref="R4" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="TP1" pin="1"/>
+    </net>
+    <net code="10" name="Net-(D5-Pad2)">
+      <node ref="R9" pin="2"/>
+      <node ref="Q4" pin="G"/>
+      <node ref="D5" pin="2"/>
+    </net>
+    <net code="11" name="/Disable1">
+      <node ref="Inf1" pin="5"/>
+      <node ref="TP6" pin="1"/>
+    </net>
+    <net code="12" name="/PWMHigh2">
+      <node ref="R12" pin="2"/>
+      <node ref="TP10" pin="1"/>
+    </net>
+    <net code="13" name="/PWMLow2">
+      <node ref="TP11" pin="1"/>
+      <node ref="R13" pin="2"/>
+    </net>
+    <net code="14" name="/Disable2">
+      <node ref="Inf2" pin="5"/>
+      <node ref="TP9" pin="1"/>
+    </net>
+    <net code="15" name="/Vc2Pos">
+      <node ref="TP7" pin="1"/>
+      <node ref="Q3" pin="D"/>
+      <node ref="Q1" pin="D"/>
+    </net>
+    <net code="16" name="/PWMLow1">
+      <node ref="R3" pin="1"/>
+      <node ref="TP3" pin="1"/>
+    </net>
+    <net code="17" name="/PWMHigh1">
+      <node ref="R2" pin="1"/>
+      <node ref="TP2" pin="1"/>
+    </net>
+    <net code="18" name="Net-(D5-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="Inf2" pin="12"/>
+    </net>
+    <net code="19" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="Inf2" pin="8"/>
+    </net>
+    <net code="20" name="Net-(D1-Pad2)">
+      <node ref="R5" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="21" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="Q1" pin="G"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="22" name="Net-(D3-Pad1)">
+      <node ref="R7" pin="2"/>
+      <node ref="Inf1" pin="12"/>
+      <node ref="D3" pin="1"/>
+    </net>
+    <net code="23" name="Net-(C4-Pad1)">
+      <node ref="R4" pin="1"/>
+      <node ref="C4" pin="1"/>
+      <node ref="Inf1" pin="10"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="24" name="Net-(D2-Pad1)">
+      <node ref="Inf1" pin="9"/>
+      <node ref="D2" pin="1"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="25" name="Net-(C5-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="Inf1" pin="13"/>
+      <node ref="C5" pin="1"/>
+      <node ref="D1" pin="1"/>
+    </net>
+    <net code="26" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="Q2" pin="G"/>
+      <node ref="R6" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C5-Pad2)">
+      <node ref="Inf1" pin="11"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+    </net>
+    <net code="28" name="Net-(C1-Pad1)">
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="Inf1" pin="7"/>
+    </net>
+    <net code="29" name="Net-(Inf1-Pad6)">
+      <node ref="Inf1" pin="6"/>
+    </net>
+    <net code="30" name="Net-(C2-Pad1)">
+      <node ref="R3" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="Inf1" pin="3"/>
+    </net>
+    <net code="31" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="Inf1" pin="2"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="32" name="/Vc2Neg">
+      <node ref="Inf1" pin="8"/>
+      <node ref="C8" pin="2"/>
+      <node ref="Q4" pin="S2"/>
+      <node ref="Q4" pin="S"/>
+      <node ref="Inf2" pin="11"/>
+      <node ref="TP8" pin="1"/>
+      <node ref="Q2" pin="S"/>
+      <node ref="Q2" pin="S2"/>
+      <node ref="C4" pin="2"/>
+    </net>
+    <net code="33" name="/LfNeg">
+      <node ref="Q2" pin="D"/>
+      <node ref="Q1" pin="S2"/>
+      <node ref="Q1" pin="S"/>
+    </net>
+    <net code="34" name="/CfNeg">
+      <node ref="Q4" pin="D"/>
+      <node ref="Q3" pin="S2"/>
+      <node ref="Q3" pin="S"/>
+    </net>
+    <net code="35" name="/5V">
+      <node ref="R14" pin="2"/>
+      <node ref="TP4" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="36" name="/GNDI">
+      <node ref="Inf2" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="Inf1" pin="1"/>
+      <node ref="Inf1" pin="4"/>
+      <node ref="TP5" pin="1"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="Inf2" pin="4"/>
+      <node ref="C12" pin="2"/>
+    </net>
+    <net code="37" name="Net-(Inf2-Pad6)">
+      <node ref="Inf2" pin="6"/>
+    </net>
+  </nets>
+</export>

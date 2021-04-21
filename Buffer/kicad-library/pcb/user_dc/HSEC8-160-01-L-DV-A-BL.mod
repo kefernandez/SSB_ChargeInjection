@@ -1,0 +1,1275 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SAMTEC_HSEC8-160-01-L-DV-A-BL
+$EndINDEX
+$MODULE SAMTEC_HSEC8-160-01-L-DV-A-BL
+Po 0 0 0 15 00000000 00000000 ~~
+Li SAMTEC_HSEC8-160-01-L-DV-A-BL
+Cd Conn Card Edge SKT 120 POS 0.8mm Solder ST SMD Tray
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -30.1709 -4.74314 1.00137 1.00137 0 0.05 N V 21 "SAMTEC_HSEC8-160-01-L-DV-A-BL"
+T1 -29.125 5.465 1 1 0 0.05 N V 21 "VAL**"
+DS -33.525 3.5 0 3.5 0.127 27
+DS 0 -3.5 -33.525 -3.5 0.127 27
+DS -33.525 -3.5 -33.525 3.5 0.127 27
+DS 0 3.5 33.525 3.5 0.127 27
+DS 33.525 3.5 33.525 -3.5 0.127 27
+DS 33.525 -3.5 0 -3.5 0.127 27
+DS 0 -3.5 0 3.5 0.127 27
+DS -36.705 -6.68 -36.705 6.68 0.05 26
+DS -36.705 6.68 36.705 6.68 0.05 26
+DS 36.705 6.68 36.705 -6.68 0.05 26
+DS 36.705 -6.68 -36.705 -6.68 0.05 26
+DS -33.525 -3.5 -33.525 3.5 0.127 21
+DS 33.525 -3.5 -33.525 -3.5 0.127 21
+DS -33.525 3.5 33.525 3.5 0.127 21
+DS 33.525 3.5 33.525 -3.5 0.127 21
+DC -25.3 4.2 -25.1 4.2 0.3 27
+DC -25.3 4.2 -25.1 4.2 0.3 21
+DP 0 0 0 0 124 0.001 19
+Dl -30.32 0
+Dl -30.32 -0.0332485
+Dl -30.3165 -0.0996696
+Dl -30.3096 -0.165818
+Dl -30.2992 -0.231511
+Dl -30.2853 -0.29657
+Dl -30.2681 -0.360816
+Dl -30.2476 -0.424073
+Dl -30.2237 -0.486167
+Dl -30.1967 -0.54693
+Dl -30.1665 -0.606193
+Dl -30.1332 -0.663794
+Dl -30.097 -0.719576
+Dl -30.0579 -0.773386
+Dl -30.0161 -0.825076
+Dl -29.9715 -0.874504
+Dl -29.9245 -0.921536
+Dl -29.8751 -0.966042
+Dl -29.8234 -1.0079
+Dl -29.7696 -1.04699
+Dl -29.7138 -1.08322
+Dl -29.6562 -1.11648
+Dl -29.5969 -1.14667
+Dl -29.5362 -1.17373
+Dl -29.4741 -1.19756
+Dl -29.4108 -1.21812
+Dl -29.3466 -1.23533
+Dl -29.2815 -1.24916
+Dl -29.2158 -1.25957
+Dl -29.1497 -1.26652
+Dl -29.0833 -1.27
+Dl -29.05 -1.27
+Dl -29.0168 -1.27
+Dl -28.9503 -1.26652
+Dl -28.8842 -1.25957
+Dl -28.8185 -1.24916
+Dl -28.7534 -1.23533
+Dl -28.6892 -1.21812
+Dl -28.6259 -1.19757
+Dl -28.5638 -1.17373
+Dl -28.5031 -1.14668
+Dl -28.4438 -1.11648
+Dl -28.3862 -1.08323
+Dl -28.3304 -1.047
+Dl -28.2766 -1.00791
+Dl -28.2249 -0.966051
+Dl -28.1755 -0.921546
+Dl -28.1285 -0.874515
+Dl -28.084 -0.825087
+Dl -28.0421 -0.773398
+Dl -28.003 -0.719589
+Dl -27.9668 -0.663807
+Dl -27.9335 -0.606206
+Dl -27.9033 -0.546943
+Dl -27.8763 -0.486182
+Dl -27.8524 -0.424087
+Dl -27.8319 -0.36083
+Dl -27.8147 -0.296585
+Dl -27.8008 -0.231526
+Dl -27.7904 -0.165833
+Dl -27.7835 -0.0996848
+Dl -27.78 -0.0332637
+Dl -27.78 0
+Dl -27.78 0.0332485
+Dl -27.7835 0.0996696
+Dl -27.7904 0.165818
+Dl -27.8008 0.231511
+Dl -27.8147 0.29657
+Dl -27.8319 0.360816
+Dl -27.8524 0.424073
+Dl -27.8763 0.486167
+Dl -27.9033 0.54693
+Dl -27.9335 0.606193
+Dl -27.9668 0.663794
+Dl -28.003 0.719576
+Dl -28.0421 0.773386
+Dl -28.0839 0.825076
+Dl -28.1285 0.874504
+Dl -28.1755 0.921536
+Dl -28.2249 0.966042
+Dl -28.2766 1.0079
+Dl -28.3304 1.04699
+Dl -28.3862 1.08322
+Dl -28.4438 1.11648
+Dl -28.5031 1.14667
+Dl -28.5638 1.17373
+Dl -28.6259 1.19756
+Dl -28.6892 1.21812
+Dl -28.7534 1.23533
+Dl -28.8185 1.24916
+Dl -28.8842 1.25957
+Dl -28.9503 1.26652
+Dl -29.0167 1.27
+Dl -29.05 1.27
+Dl -29.0832 1.27
+Dl -29.1497 1.26652
+Dl -29.2158 1.25957
+Dl -29.2815 1.24916
+Dl -29.3466 1.23533
+Dl -29.4108 1.21812
+Dl -29.4741 1.19757
+Dl -29.5362 1.17373
+Dl -29.5969 1.14668
+Dl -29.6562 1.11648
+Dl -29.7138 1.08323
+Dl -29.7696 1.047
+Dl -29.8234 1.00791
+Dl -29.8751 0.966051
+Dl -29.9245 0.921546
+Dl -29.9715 0.874515
+Dl -30.016 0.825087
+Dl -30.0579 0.773398
+Dl -30.097 0.719589
+Dl -30.1332 0.663807
+Dl -30.1665 0.606206
+Dl -30.1967 0.546943
+Dl -30.2237 0.486182
+Dl -30.2476 0.424087
+Dl -30.2681 0.36083
+Dl -30.2853 0.296585
+Dl -30.2992 0.231526
+Dl -30.3096 0.165833
+Dl -30.3165 0.0996848
+Dl -30.32 0.0332637
+Dl -30.32 0
+DP 0 0 0 0 124 0.001 19
+Dl 27.78 0
+Dl 27.78 -0.0332485
+Dl 27.7835 -0.0996696
+Dl 27.7904 -0.165818
+Dl 27.8008 -0.231511
+Dl 27.8147 -0.29657
+Dl 27.8319 -0.360816
+Dl 27.8524 -0.424073
+Dl 27.8763 -0.486167
+Dl 27.9033 -0.54693
+Dl 27.9335 -0.606193
+Dl 27.9668 -0.663794
+Dl 28.003 -0.719576
+Dl 28.0421 -0.773386
+Dl 28.0839 -0.825076
+Dl 28.1285 -0.874504
+Dl 28.1755 -0.921536
+Dl 28.2249 -0.966042
+Dl 28.2766 -1.0079
+Dl 28.3304 -1.04699
+Dl 28.3862 -1.08322
+Dl 28.4438 -1.11648
+Dl 28.5031 -1.14667
+Dl 28.5638 -1.17373
+Dl 28.6259 -1.19756
+Dl 28.6892 -1.21812
+Dl 28.7534 -1.23533
+Dl 28.8185 -1.24916
+Dl 28.8842 -1.25957
+Dl 28.9503 -1.26652
+Dl 29.0167 -1.27
+Dl 29.05 -1.27
+Dl 29.0832 -1.27
+Dl 29.1497 -1.26652
+Dl 29.2158 -1.25957
+Dl 29.2815 -1.24916
+Dl 29.3466 -1.23533
+Dl 29.4108 -1.21812
+Dl 29.4741 -1.19757
+Dl 29.5362 -1.17373
+Dl 29.5969 -1.14668
+Dl 29.6562 -1.11648
+Dl 29.7138 -1.08323
+Dl 29.7696 -1.047
+Dl 29.8234 -1.00791
+Dl 29.8751 -0.966051
+Dl 29.9245 -0.921546
+Dl 29.9715 -0.874515
+Dl 30.016 -0.825087
+Dl 30.0579 -0.773398
+Dl 30.097 -0.719589
+Dl 30.1332 -0.663807
+Dl 30.1665 -0.606206
+Dl 30.1967 -0.546943
+Dl 30.2237 -0.486182
+Dl 30.2476 -0.424087
+Dl 30.2681 -0.36083
+Dl 30.2853 -0.296585
+Dl 30.2992 -0.231526
+Dl 30.3096 -0.165833
+Dl 30.3165 -0.0996848
+Dl 30.32 -0.0332637
+Dl 30.32 0
+Dl 30.32 0.0332485
+Dl 30.3165 0.0996696
+Dl 30.3096 0.165818
+Dl 30.2992 0.231511
+Dl 30.2853 0.29657
+Dl 30.2681 0.360816
+Dl 30.2476 0.424073
+Dl 30.2237 0.486167
+Dl 30.1967 0.54693
+Dl 30.1665 0.606193
+Dl 30.1332 0.663794
+Dl 30.097 0.719576
+Dl 30.0579 0.773386
+Dl 30.0161 0.825076
+Dl 29.9715 0.874504
+Dl 29.9245 0.921536
+Dl 29.8751 0.966042
+Dl 29.8234 1.0079
+Dl 29.7696 1.04699
+Dl 29.7138 1.08322
+Dl 29.6562 1.11648
+Dl 29.5969 1.14667
+Dl 29.5362 1.17373
+Dl 29.4741 1.19756
+Dl 29.4108 1.21812
+Dl 29.3466 1.23533
+Dl 29.2815 1.24916
+Dl 29.2158 1.25957
+Dl 29.1497 1.26652
+Dl 29.0833 1.27
+Dl 29.05 1.27
+Dl 29.0168 1.27
+Dl 28.9503 1.26652
+Dl 28.8842 1.25957
+Dl 28.8185 1.24916
+Dl 28.7534 1.23533
+Dl 28.6892 1.21812
+Dl 28.6259 1.19757
+Dl 28.5638 1.17373
+Dl 28.5031 1.14668
+Dl 28.4438 1.11648
+Dl 28.3862 1.08323
+Dl 28.3304 1.047
+Dl 28.2766 1.00791
+Dl 28.2249 0.966051
+Dl 28.1755 0.921546
+Dl 28.1285 0.874515
+Dl 28.084 0.825087
+Dl 28.0421 0.773398
+Dl 28.003 0.719589
+Dl 27.9668 0.663807
+Dl 27.9335 0.606206
+Dl 27.9033 0.546943
+Dl 27.8763 0.486182
+Dl 27.8524 0.424087
+Dl 27.8319 0.36083
+Dl 27.8147 0.296585
+Dl 27.8008 0.231526
+Dl 27.7904 0.165833
+Dl 27.7835 0.0996848
+Dl 27.78 0.0332637
+Dl 27.78 0
+$PAD
+Sh "1" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -25.2 1.7
+$EndPAD
+$PAD
+Sh "2" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -25.2 -1.7
+$EndPAD
+$PAD
+Sh "Hole" C 1.27 1.27 0 0 0
+Dr 1.27 0 0
+At HOLE N 00E0FFFF
+Po -26.7 1.5
+$EndPAD
+$PAD
+Sh "Hole" C 1.27 1.27 0 0 0
+Dr 1.27 0 0
+At HOLE N 00E0FFFF
+Po 26.7 0
+$EndPAD
+$PAD
+Sh "3" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -24.4 1.7
+$EndPAD
+$PAD
+Sh "4" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -24.4 -1.7
+$EndPAD
+$PAD
+Sh "5" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -23.6 1.7
+$EndPAD
+$PAD
+Sh "6" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -23.6 -1.7
+$EndPAD
+$PAD
+Sh "7" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -22.8 1.7
+$EndPAD
+$PAD
+Sh "8" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -22.8 -1.7
+$EndPAD
+$PAD
+Sh "9" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -22 1.7
+$EndPAD
+$PAD
+Sh "10" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -22 -1.7
+$EndPAD
+$PAD
+Sh "11" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -21.2 1.7
+$EndPAD
+$PAD
+Sh "12" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -21.2 -1.7
+$EndPAD
+$PAD
+Sh "13" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -20.4 1.7
+$EndPAD
+$PAD
+Sh "14" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -20.4 -1.7
+$EndPAD
+$PAD
+Sh "15" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -19.6 1.7
+$EndPAD
+$PAD
+Sh "16" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -19.6 -1.7
+$EndPAD
+$PAD
+Sh "17" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -18.8 1.7
+$EndPAD
+$PAD
+Sh "18" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -18.8 -1.7
+$EndPAD
+$PAD
+Sh "19" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -18 1.7
+$EndPAD
+$PAD
+Sh "20" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -18 -1.7
+$EndPAD
+$PAD
+Sh "21" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -17.2 1.7
+$EndPAD
+$PAD
+Sh "22" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -17.2 -1.7
+$EndPAD
+$PAD
+Sh "23" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -16.4 1.7
+$EndPAD
+$PAD
+Sh "24" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -16.4 -1.7
+$EndPAD
+$PAD
+Sh "25" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -15.6 1.7
+$EndPAD
+$PAD
+Sh "26" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -15.6 -1.7
+$EndPAD
+$PAD
+Sh "27" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -14.8 1.7
+$EndPAD
+$PAD
+Sh "28" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -14.8 -1.7
+$EndPAD
+$PAD
+Sh "29" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -14 1.7
+$EndPAD
+$PAD
+Sh "30" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -14 -1.7
+$EndPAD
+$PAD
+Sh "31" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -13.2 1.7
+$EndPAD
+$PAD
+Sh "32" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -13.2 -1.7
+$EndPAD
+$PAD
+Sh "33" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.4 1.7
+$EndPAD
+$PAD
+Sh "34" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -12.4 -1.7
+$EndPAD
+$PAD
+Sh "35" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6 1.7
+$EndPAD
+$PAD
+Sh "36" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -11.6 -1.7
+$EndPAD
+$PAD
+Sh "37" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.8 1.7
+$EndPAD
+$PAD
+Sh "38" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10.8 -1.7
+$EndPAD
+$PAD
+Sh "39" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10 1.7
+$EndPAD
+$PAD
+Sh "40" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -10 -1.7
+$EndPAD
+$PAD
+Sh "41" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.2 1.7
+$EndPAD
+$PAD
+Sh "42" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -9.2 -1.7
+$EndPAD
+$PAD
+Sh "43" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.4 1.7
+$EndPAD
+$PAD
+Sh "44" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -8.4 -1.7
+$EndPAD
+$PAD
+Sh "45" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.6 1.7
+$EndPAD
+$PAD
+Sh "46" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -7.6 -1.7
+$EndPAD
+$PAD
+Sh "47" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.8 1.7
+$EndPAD
+$PAD
+Sh "48" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6.8 -1.7
+$EndPAD
+$PAD
+Sh "49" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6 1.7
+$EndPAD
+$PAD
+Sh "50" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -6 -1.7
+$EndPAD
+$PAD
+Sh "51" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.2 1.7
+$EndPAD
+$PAD
+Sh "52" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -5.2 -1.7
+$EndPAD
+$PAD
+Sh "53" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.4 1.7
+$EndPAD
+$PAD
+Sh "54" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4.4 -1.7
+$EndPAD
+$PAD
+Sh "55" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.6 1.7
+$EndPAD
+$PAD
+Sh "56" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -3.6 -1.7
+$EndPAD
+$PAD
+Sh "57" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.8 1.7
+$EndPAD
+$PAD
+Sh "58" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2.8 -1.7
+$EndPAD
+$PAD
+Sh "59" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2 1.7
+$EndPAD
+$PAD
+Sh "60" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -2 -1.7
+$EndPAD
+$PAD
+Sh "61" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 1.7
+$EndPAD
+$PAD
+Sh "62" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -1.2 -1.7
+$EndPAD
+$PAD
+Sh "63" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.4 1.7
+$EndPAD
+$PAD
+Sh "64" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -0.4 -1.7
+$EndPAD
+$PAD
+Sh "65" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.6 1.7
+$EndPAD
+$PAD
+Sh "66" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 3.6 -1.7
+$EndPAD
+$PAD
+Sh "67" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.4 1.7
+$EndPAD
+$PAD
+Sh "68" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4.4 -1.7
+$EndPAD
+$PAD
+Sh "69" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.2 1.7
+$EndPAD
+$PAD
+Sh "70" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 5.2 -1.7
+$EndPAD
+$PAD
+Sh "71" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6 1.7
+$EndPAD
+$PAD
+Sh "72" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6 -1.7
+$EndPAD
+$PAD
+Sh "73" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.8 1.7
+$EndPAD
+$PAD
+Sh "74" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 6.8 -1.7
+$EndPAD
+$PAD
+Sh "75" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.6 1.7
+$EndPAD
+$PAD
+Sh "76" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 7.6 -1.7
+$EndPAD
+$PAD
+Sh "77" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.4 1.7
+$EndPAD
+$PAD
+Sh "78" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 8.4 -1.7
+$EndPAD
+$PAD
+Sh "79" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.2 1.7
+$EndPAD
+$PAD
+Sh "80" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 9.2 -1.7
+$EndPAD
+$PAD
+Sh "81" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10 1.7
+$EndPAD
+$PAD
+Sh "82" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10 -1.7
+$EndPAD
+$PAD
+Sh "83" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.8 1.7
+$EndPAD
+$PAD
+Sh "84" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 10.8 -1.7
+$EndPAD
+$PAD
+Sh "85" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6 1.7
+$EndPAD
+$PAD
+Sh "86" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 11.6 -1.7
+$EndPAD
+$PAD
+Sh "87" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.4 1.7
+$EndPAD
+$PAD
+Sh "88" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 12.4 -1.7
+$EndPAD
+$PAD
+Sh "89" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 13.2 1.7
+$EndPAD
+$PAD
+Sh "90" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 13.2 -1.7
+$EndPAD
+$PAD
+Sh "91" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 14 1.7
+$EndPAD
+$PAD
+Sh "92" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 14 -1.7
+$EndPAD
+$PAD
+Sh "93" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 14.8 1.7
+$EndPAD
+$PAD
+Sh "94" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 14.8 -1.7
+$EndPAD
+$PAD
+Sh "95" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 15.6 1.7
+$EndPAD
+$PAD
+Sh "96" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 15.6 -1.7
+$EndPAD
+$PAD
+Sh "97" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 16.4 1.7
+$EndPAD
+$PAD
+Sh "98" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 16.4 -1.7
+$EndPAD
+$PAD
+Sh "99" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 17.2 1.7
+$EndPAD
+$PAD
+Sh "100" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 17.2 -1.7
+$EndPAD
+$PAD
+Sh "101" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 18 1.7
+$EndPAD
+$PAD
+Sh "102" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 18 -1.7
+$EndPAD
+$PAD
+Sh "103" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 18.8 1.7
+$EndPAD
+$PAD
+Sh "104" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 18.8 -1.7
+$EndPAD
+$PAD
+Sh "105" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 19.6 1.7
+$EndPAD
+$PAD
+Sh "106" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 19.6 -1.7
+$EndPAD
+$PAD
+Sh "107" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 20.4 1.7
+$EndPAD
+$PAD
+Sh "108" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 20.4 -1.7
+$EndPAD
+$PAD
+Sh "109" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 21.2 1.7
+$EndPAD
+$PAD
+Sh "110" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 21.2 -1.7
+$EndPAD
+$PAD
+Sh "111" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 22 1.7
+$EndPAD
+$PAD
+Sh "112" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 22 -1.7
+$EndPAD
+$PAD
+Sh "113" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 22.8 1.7
+$EndPAD
+$PAD
+Sh "114" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 22.8 -1.7
+$EndPAD
+$PAD
+Sh "115" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 23.6 1.7
+$EndPAD
+$PAD
+Sh "116" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 23.6 -1.7
+$EndPAD
+$PAD
+Sh "117" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 24.4 1.7
+$EndPAD
+$PAD
+Sh "118" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 24.4 -1.7
+$EndPAD
+$PAD
+Sh "119" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 25.2 1.7
+$EndPAD
+$PAD
+Sh "120" R 0.5 1.2 0 0 1800
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 25.2 -1.7
+$EndPAD
+$PAD
+Sh "P1" C 1.348 1.348 0 0 0
+Dr 0.84 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -29.05 0
+$EndPAD
+$PAD
+Sh "P2" C 1.348 1.348 0 0 0
+Dr 0.84 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 29.05 0
+$EndPAD
+$EndMODULE SAMTEC_HSEC8-160-01-L-DV-A-BL
