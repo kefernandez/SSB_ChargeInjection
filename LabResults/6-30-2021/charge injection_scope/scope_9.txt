@@ -1,0 +1,33 @@
+ANALOG
+Ch 1 Scale 12.0V/, Pos 183.450V, Coup DC, BW Limit Off, Inv Off, Imp 1M Ohm
+     Probe 100.00000 : 1, Skew 0.0s
+Ch 2 Scale 12.0V/, Pos 745.0mV, Coup DC, BW Limit Off, Inv Off, Imp 1M Ohm
+     Probe 10.000000 : 1, Skew 0.0s
+Ch 3 Scale 12.0V/, Pos 0.0V, Coup DC, BW Limit Off, Inv Off, Imp 1M Ohm
+     Probe 10.000000 : 1, Skew 0.0s
+Ch 4 Scale 100mA/, Pos 1.95250A, Coup DC, BW Limit Off, Inv Off, Imp 1M Ohm
+     Probe 10.000000 : 1, Skew 0.0s
+
+TRIGGER
+Sweep Mode Auto, Coup DC, Noise Rej Off, HF Rej Off, Holdoff 40.0ns
+Mode Edge, Source Line Trigger, Slope Rising
+
+HORIZONTAL
+Mode Normal, Ref Center, Main Scale 5.000ms/, Main Delay 280.000000us
+
+ACQUISITION
+Mode Normal, Realtime, Vectors On, Persistence Off
+Antialiasing On
+
+MEASUREMENTS
+Frequency(1), Cur 120.19Hz, Mean 193.26Hz, Min 27.58Hz, Max 210.00kHz, Std Dev 3.5792kHz, Count 8.549k
+Pk-Pk(1), Cur 63.5V, Mean 32.9V, Min 200mV, Max 64.3V, Std Dev 18.2V, Count 8.513k
+Phase(1-3), Cur -175.95Degree, Mean 110.99Degree, Min -20400Degree, Max 1500.0Degree, Std Dev 355.61Degree, Count 8.267k
+Pk-Pk(4), Cur 90mA, Mean 90mA, Min 2mA, Max 5.260A, Std Dev 204mA, Count 21.89k
+RMS - N cycles(2), Cur 36.8V, Mean 5.9V, Min 0.0V, Max 37.1V, Std Dev 9.9V, Count 31.59k
+Average - N Cycles(2), Cur 36.796V, Mean 5.857V, Min -886mV, Max 37.087V, Std Dev 9.905V, Count 31.55k
+RMS - N cycles(1), Cur 184V, Mean 118V, Min 5V, Max 191V, Std Dev 66V, Count 8.431k
+Average - N Cycles(1), Cur 183.16V, Mean 117.14V, Min 4.802V, Max 190.35V, Std Dev 66.124V, Count 8.421k
+RMS - N cycles(4), Cur 1.66A, Mean 400mA, Min 0.0A, Max 4.90A, Std Dev 500mA, Count 21.63k
+Average - N Cycles(4), Cur 1.6604A, Mean 373.06mA, Min -36.97mA, Max 4.9036A, Std Dev 518.54mA, Count 21.62k
+
