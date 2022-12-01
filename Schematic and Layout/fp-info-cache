@@ -1,4 +1,4 @@
-20131373065165506
+19976041843829875
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -14112,13 +14112,6 @@ connector JST AUH side entry
 7
 6
 Connector_JST
-JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
-JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
-0
-2
-2
-Connector_JST
 JST_EH_B02B-EH-A_1x02_P2.50mm_Vertical
 JST EH series connector, B02B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH side entry
@@ -14126,16 +14119,23 @@ connector JST EH side entry
 2
 2
 Connector_JST
-JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical
-JST EH series connector, B03B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH side entry
+JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
-3
-3
+2
+2
 Connector_JST
 JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical
 JST EH series connector, B3B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
 connector JST EH vertical
+0
+3
+3
+Connector_JST
+JST_EH_B03B-EH-A_1x03_P2.50mm_Vertical
+JST EH series connector, B03B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
 0
 3
 3
@@ -14210,16 +14210,16 @@ connector JST EH vertical
 8
 8
 Connector_JST
-JST_EH_B9B-EH-A_1x09_P2.50mm_Vertical
-JST EH series connector, B9B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH vertical
+JST_EH_B09B-EH-A_1x09_P2.50mm_Vertical
+JST EH series connector, B09B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH side entry
 0
 9
 9
 Connector_JST
-JST_EH_B09B-EH-A_1x09_P2.50mm_Vertical
-JST EH series connector, B09B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH side entry
+JST_EH_B9B-EH-A_1x09_P2.50mm_Vertical
+JST EH series connector, B9B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH vertical
 0
 9
 9
@@ -14273,16 +14273,16 @@ connector JST EH side entry
 16
 16
 Connector_JST
-JST_EH_S2B-EH_1x02_P2.50mm_Horizontal
-JST EH series connector, S2B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
+JST_EH_S02B-EH_1x02_P2.50mm_Horizontal
+JST EH series connector, S02B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH top entry
 0
 2
 2
 Connector_JST
-JST_EH_S02B-EH_1x02_P2.50mm_Horizontal
-JST EH series connector, S02B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH top entry
+JST_EH_S2B-EH_1x02_P2.50mm_Horizontal
+JST EH series connector, S2B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
 0
 2
 2
@@ -14371,16 +14371,16 @@ connector JST EH top entry
 8
 8
 Connector_JST
-JST_EH_S09B-EH_1x09_P2.50mm_Horizontal
-JST EH series connector, S09B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH top entry
+JST_EH_S9B-EH_1x09_P2.50mm_Horizontal
+JST EH series connector, S9B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH horizontal
 0
 9
 9
 Connector_JST
-JST_EH_S9B-EH_1x09_P2.50mm_Horizontal
-JST EH series connector, S9B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
-connector JST EH horizontal
+JST_EH_S09B-EH_1x09_P2.50mm_Horizontal
+JST EH series connector, S09B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator
+connector JST EH top entry
 0
 9
 9
@@ -16527,16 +16527,16 @@ connector JST XAG top entry
 7
 6
 Connector_JST
-JST_XH_B01B-XH-AM_1x01_P2.50mm_Vertical
-JST XH series connector, B01B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry boss
+JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
+JST XH series connector, B1B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 1
 1
 Connector_JST
-JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical
-JST XH series connector, B1B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B01B-XH-AM_1x01_P2.50mm_Vertical
+JST XH series connector, B01B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry boss
 0
 1
 1
@@ -16555,16 +16555,16 @@ connector JST XH vertical boss
 2
 2
 Connector_JST
-JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical
-JST XH series connector, B02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
+JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
 2
 2
 Connector_JST
-JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
-JST XH series connector, B2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B02B-XH-A_1x02_P2.50mm_Vertical
+JST XH series connector, B02B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
 2
 2
@@ -16583,13 +16583,6 @@ connector JST XH side entry boss
 3
 3
 Connector_JST
-JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
-JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
-0
-3
-3
-Connector_JST
 JST_XH_B03B-XH-A_1x03_P2.50mm_Vertical
 JST XH series connector, B03B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH side entry
@@ -16597,12 +16590,12 @@ connector JST XH side entry
 3
 3
 Connector_JST
-JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical
-JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+JST XH series connector, B3B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
-4
-4
+3
+3
 Connector_JST
 JST_XH_B04B-XH-AM_1x04_P2.50mm_Vertical
 JST XH series connector, B04B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -16611,9 +16604,9 @@ connector JST XH side entry boss
 4
 4
 Connector_JST
-JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
-JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical
+JST XH series connector, B4B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 4
 4
@@ -16625,16 +16618,23 @@ connector JST XH side entry
 4
 4
 Connector_JST
-JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical
-JST XH series connector, B5B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
-5
-5
+4
+4
 Connector_JST
 JST_XH_B05B-XH-AM_1x05_P2.50mm_Vertical
 JST XH series connector, B05B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH side entry boss
+0
+5
+5
+Connector_JST
+JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical
+JST XH series connector, B5B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 5
 5
@@ -16667,16 +16667,16 @@ connector JST XH vertical boss
 6
 6
 Connector_JST
-JST_XH_B06B-XH-A_1x06_P2.50mm_Vertical
-JST XH series connector, B06B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
+JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
+JST XH series connector, B6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
 6
 6
 Connector_JST
-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical
-JST XH series connector, B6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B06B-XH-A_1x06_P2.50mm_Vertical
+JST XH series connector, B06B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
 6
 6
@@ -16709,16 +16709,16 @@ connector JST XH side entry
 7
 7
 Connector_JST
-JST_XH_B8B-XH-AM_1x08_P2.50mm_Vertical
-JST XH series connector, B8B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical boss
+JST_XH_B08B-XH-AM_1x08_P2.50mm_Vertical
+JST XH series connector, B08B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry boss
 0
 8
 8
 Connector_JST
-JST_XH_B08B-XH-AM_1x08_P2.50mm_Vertical
-JST XH series connector, B08B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry boss
+JST_XH_B8B-XH-AM_1x08_P2.50mm_Vertical
+JST XH series connector, B8B-XH-AM, with boss (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical boss
 0
 8
 8
@@ -16751,16 +16751,16 @@ connector JST XH side entry boss
 9
 9
 Connector_JST
-JST_XH_B09B-XH-A_1x09_P2.50mm_Vertical
-JST XH series connector, B09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH side entry
+JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
+JST XH series connector, B9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
 0
 9
 9
 Connector_JST
-JST_XH_B9B-XH-A_1x09_P2.50mm_Vertical
-JST XH series connector, B9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH vertical
+JST_XH_B09B-XH-A_1x09_P2.50mm_Vertical
+JST XH series connector, B09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH side entry
 0
 9
 9
@@ -16842,16 +16842,16 @@ connector JST XH side entry
 20
 20
 Connector_JST
-JST_XH_S02B-XH-A-1_1x02_P2.50mm_Horizontal
-JST XH series connector, S02B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
+JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal
+JST XH series connector, S2B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 2
 2
 Connector_JST
-JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal
-JST XH series connector, S2B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
+JST_XH_S02B-XH-A-1_1x02_P2.50mm_Horizontal
+JST XH series connector, S02B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
 2
 2
@@ -16926,13 +16926,6 @@ connector JST XH top entry
 4
 4
 Connector_JST
-JST_XH_S05B-XH-A-1_1x05_P2.50mm_Horizontal
-JST XH series connector, S05B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
-0
-5
-5
-Connector_JST
 JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal
 JST XH series connector, S5B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
@@ -16940,8 +16933,8 @@ connector JST XH horizontal
 5
 5
 Connector_JST
-JST_XH_S05B-XH-A_1x05_P2.50mm_Horizontal
-JST XH series connector, S05B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S05B-XH-A-1_1x05_P2.50mm_Horizontal
+JST XH series connector, S05B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
 0
 5
@@ -16954,12 +16947,12 @@ connector JST XH horizontal
 5
 5
 Connector_JST
-JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal
-JST XH series connector, S6B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
+JST_XH_S05B-XH-A_1x05_P2.50mm_Horizontal
+JST XH series connector, S05B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
-6
-6
+5
+5
 Connector_JST
 JST_XH_S06B-XH-A-1_1x06_P2.50mm_Horizontal
 JST XH series connector, S06B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
@@ -16968,8 +16961,8 @@ connector JST XH top entry
 6
 6
 Connector_JST
-JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal
-JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S6B-XH-A-1_1x06_P2.50mm_Horizontal
+JST XH series connector, S6B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
 0
 6
@@ -16982,16 +16975,23 @@ connector JST XH top entry
 6
 6
 Connector_JST
-JST_XH_S7B-XH-A-1_1x07_P2.50mm_Horizontal
-JST XH series connector, S7B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S6B-XH-A_1x06_P2.50mm_Horizontal
+JST XH series connector, S6B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
 0
-7
-7
+6
+6
 Connector_JST
 JST_XH_S07B-XH-A-1_1x07_P2.50mm_Horizontal
 JST XH series connector, S07B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
+0
+7
+7
+Connector_JST
+JST_XH_S7B-XH-A-1_1x07_P2.50mm_Horizontal
+JST XH series connector, S7B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 7
 7
@@ -17010,13 +17010,6 @@ connector JST XH horizontal
 7
 7
 Connector_JST
-JST_XH_S8B-XH-A-1_1x08_P2.50mm_Horizontal
-JST XH series connector, S8B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
-0
-8
-8
-Connector_JST
 JST_XH_S08B-XH-A-1_1x08_P2.50mm_Horizontal
 JST XH series connector, S08B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
@@ -17024,8 +17017,8 @@ connector JST XH top entry
 8
 8
 Connector_JST
-JST_XH_S8B-XH-A_1x08_P2.50mm_Horizontal
-JST XH series connector, S8B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+JST_XH_S8B-XH-A-1_1x08_P2.50mm_Horizontal
+JST XH series connector, S8B-XH-A-1 (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH horizontal
 0
 8
@@ -17034,6 +17027,13 @@ Connector_JST
 JST_XH_S08B-XH-A_1x08_P2.50mm_Horizontal
 JST XH series connector, S08B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
 connector JST XH top entry
+0
+8
+8
+Connector_JST
+JST_XH_S8B-XH-A_1x08_P2.50mm_Horizontal
+JST XH series connector, S8B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 8
 8
@@ -17052,16 +17052,16 @@ connector JST XH top entry
 9
 9
 Connector_JST
-JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal
-JST XH series connector, S9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH horizontal
+JST_XH_S09B-XH-A_1x09_P2.50mm_Horizontal
+JST XH series connector, S09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH top entry
 0
 9
 9
 Connector_JST
-JST_XH_S09B-XH-A_1x09_P2.50mm_Horizontal
-JST XH series connector, S09B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
-connector JST XH top entry
+JST_XH_S9B-XH-A_1x09_P2.50mm_Horizontal
+JST XH series connector, S9B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
 0
 9
 9
@@ -60976,27 +60976,6 @@ Yellow 5381 Series LED
 0
 2
 2
-MTA
-MTA156_2pin
-
-
-0
-2
-2
-MTA
-MTA156_4pin
-
-
-0
-4
-4
-MTA
-MTA156_5pin
-
-
-0
-5
-5
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -86596,41 +86575,6 @@ varistor SIOV
 0
 2
 2
-calisco-MTA
-MTA156_2pin
-
-
-0
-2
-2
-calisco-MTA
-MTA156_4pin
-
-
-0
-4
-4
-calisco-MTA
-MTA156_5pin
-
-
-0
-5
-5
-calisco-connectors
-HDR_P5KF_AXK6F80347YG
-
-
-0
-80
-80
-calisco-connectors
-Pin_Header_Straight_2x05_Pitch1.27mm_SMD_PRGM
-surface-mounted straight pin header, 2x05, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x05 1.27mm double row
-0
-10
-10
 calisco-general
 ASF
 
@@ -87079,636 +87023,6 @@ uMAX
 0
 8
 8
-calisco-molex
-Molex_DuraClik_vert_2pin
-
-
-0
-4
-2
-calisco-molex
-Molex_DuraClik_vert_3pin
-
-
-0
-5
-3
-calisco-molex
-Molex_DuraClik_vert_4pin
-
-
-0
-6
-4
-calisco-molex
-Molex_DuraClik_vert_5pin
-
-
-0
-7
-5
-calisco-molex
-Molex_DuraClik_vert_6pin
-
-
-0
-8
-6
-calisco-molex
-Molex_DuraClik_vert_8pin
-
-
-0
-10
-8
-calisco-power
-BAL_UNIT
-surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x03 2.54mm double row
-0
-12
-7
-calisco-power
-F_2410
-
-
-0
-2
-2
-calisco-power
-IExxxxD
-Isloated DC-DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
-Isloated DC-DC
-0
-4
-4
-calisco-power
-ISExxxxA
-Isolated 2W Single Output SM DC/DC Converters, http://power.murata.com/data/power/ncl/kdc_nxe2.pdf
-Isolated 2W Single Output SM DC/DC Converters
-0
-5
-5
-calisco-power
-LPD5030v
-
-
-0
-4
-4
-calisco-power
-LPD6235
-
-
-0
-4
-4
-calisco-power
-M55-7011642R
-surface-mounted straight pin header, 2x08, 1.27mm pitch, double rows
-Surface mounted pin header SMD 2x08 1.27mm double row
-0
-20
-17
-calisco-power
-MSD7342
-
-
-0
-4
-4
-calisco-power
-Pin_Header_Straight_2x02_Pitch2.54mm_SMD_BottomEntry
-surface-mounted straight pin header, 2x02, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x02 2.54mm double row
-0
-8
-4
-calisco-power
-Pin_Header_Straight_2x03_Pitch2.54mm_SMD_BottomEntry
-surface-mounted straight pin header, 2x03, 2.54mm pitch, double rows
-Surface mounted pin header SMD 2x03 2.54mm double row
-0
-12
-6
-calisco-power
-PowerTap_M2.5_Pad_Via
-Mounting Hole 3mm
-mounting hole 3mm
-0
-9
-1
-calisco-power
-SLC7649
-
-
-0
-2
-2
-calisco-power
-SOT-23-6_FET
-SOT-23, 6-pin version
-SOT-23
-0
-6
-3
-calisco-power
-SingleSwPair
-
-
-0
-14
-14
-calisco-power
-Wurth_Flyback_Trans
-
-
-0
-8
-4
-smd-so
-AD7276AUJZ
-
-
-0
-6
-6
-smd-so
-ADCMP601BKSZ
-
-
-0
-6
-6
-smd-so
-ADG1606BCPZ
-
-
-0
-33
-33
-smd-so
-ADN4663BRZ
-
-
-0
-24
-8
-smd-so
-ADN4664BRZ
-
-
-0
-24
-8
-smd-so
-AD_SSOP-20_RS-20
-
-
-0
-20
-20
-smd-so
-SOT-23-6
-
-
-0
-6
-6
-smd-so
-SiLabs_SOIC-8_NB
-
-
-0
-8
-8
-user_dc
-2-1734592-0
-
-
-0
-22
-21
-user_dc
-2-1734592-0_REV
-
-
-0
-22
-21
-user_dc
-2EDF7275K
-
-
-0
-13
-13
-user_dc
-3mm_Thread_Pad_Via
-Mounting Hole 4mm
-mounting hole 4mm
-0
-9
-1
-user_dc
-Buffer Full Bridge
-
-
-0
-16
-13
-user_dc
-C_0402_SM
-Capacitor SMD 0402, from DipTrace + hand soldering - DC
-capacitor 0402
-0
-2
-2
-user_dc
-C_0402_SM2
-Capacitor SMD 0402, from DipTrace + hand soldering, more difficult - DC
-capacitor 0402
-0
-2
-2
-user_dc
-C_0603_SM
-Capacitor SMD 0603, from DipTrace + hand soldering - DC
-capacitor 0603
-0
-2
-2
-user_dc
-C_0805_HV
-Capacitor SMD 0805, from DipTrace + hand soldering - DC
-capacitor 0805
-0
-2
-2
-user_dc
-C_0805_HV_Split
-Capacitor SMD 0805, from DipTrace + hand soldering - DC
-capacitor 0805
-0
-1
-1
-user_dc
-C_0805_SM
-Capacitor SMD 0805, from DipTrace + hand soldering - DC
-capacitor 0805
-0
-2
-2
-user_dc
-C_1206_SM
-Capacitor SMD 1206, from DipTrace + hand soldering - DC
-capacitor 1206
-0
-2
-2
-user_dc
-C_1210
-Capacitor SMD 1210, from DipTrace
-capacitor 1210
-0
-2
-2
-user_dc
-C_1812
-Capacitor SMD 1812, from DipTrace
-capacitor 1812
-0
-2
-2
-user_dc
-C_2220_Sm
-
-
-0
-2
-2
-user_dc
-EPC_Cell_Single
-
-
-0
-7
-7
-user_dc
-EPC_EPC203x_BGA-24
-
-
-0
-24
-4
-user_dc
-FC4L32
-
-
-0
-4
-4
-user_dc
-FC4L64
-
-
-0
-4
-4
-user_dc
-GS66516T
-
-
-0
-4
-3
-user_dc
-Inf2EDF7275K
-
-
-0
-13
-13
-user_dc
-Infineon2EDF7275K
-
-
-0
-13
-13
-user_dc
-MEC8-120-02-L-DV-A
-
-
-0
-40
-40
-user_dc
-MountingHole_3.2mm_M3_Pad_Via
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-9
-1
-user_dc
-MountingHole_3.2mm_M3_Pad_Via_All
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-9
-1
-user_dc
-MountingHole_3.2mm_M3_Pad_Via_Clearance
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-8
-1
-user_dc
-MountingHole_4mm_Pad_Via
-Mounting Hole 4mm
-mounting hole 4mm
-0
-9
-1
-user_dc
-MountingHole_4mm_Pad_Via_SM
-Mounting Hole 4mm
-mounting hole 4mm
-0
-9
-1
-user_dc
-Pad_Logic
-
-
-0
-1
-1
-user_dc
-Pad_Power
-
-
-0
-1
-1
-user_dc
-R_0201_SM
-Resistor SMD 0201, from DipTrace + hand soldering - DC
-resistor 0201
-0
-2
-2
-user_dc
-R_0402_SM
-Resistor SMD 0402, from DipTrace + hand soldering - DC
-resistor 0402
-0
-2
-2
-user_dc
-R_0402_SM2
-Resistor SMD 0402, from DipTrace + hand soldering, more difficult - DC
-resistor 0402
-0
-2
-2
-user_dc
-R_0603_SM
-Resistor SMD 0603, from DipTrace + hand soldering - DC
-resistor 0603
-0
-2
-2
-user_dc
-R_0805_SM
-Resistor SMD 0805, from DipTrace + hand soldering - DC
-resistor 0805
-0
-2
-2
-user_dc
-R_1206_SM
-Resistor SMD 1206, from DipTrace + hand soldering - DC
-resistor 1206
-0
-2
-2
-user_dc
-SAMTEC_HSEC8-160-01-L-DV-A-BL
-Conn Card Edge SKT 120 POS 0.8mm Solder ST SMD Tray
-
-0
-122
-122
-user_dc
-SKT-40
-Conn Card Edge SKT 60 POS 0.8mm Solder ST SMD Tray
-
-0
-40
-40
-user_dc
-SKT-60
-Conn Card Edge SKT 60 POS 0.8mm Solder ST SMD Tray
-
-0
-60
-60
-user_dc
-SOD-123F
-SOD-123F
-SOD-123F
-0
-2
-2
-user_dc
-SOIC-8
-
-
-0
-8
-8
-user_dc
-SOIC-16
-
-
-0
-16
-16
-user_dc
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-user_dc
-SOT-23-5
-SOT-23, 5-pin version
-SOT-23
-0
-5
-5
-user_dc
-SOT-23-6
-SOT-23, 6-pin version
-SOT-23
-0
-6
-6
-user_dc
-SOT-23-8
-8-pin SOT-23 package
-SOT-23-8
-0
-8
-8
-user_dc
-Si8274
-
-
-0
-13
-13
-user_dc
-SingleSwPair
-
-
-0
-14
-14
-user_dc
-Solder_Via_52mil
-
-
-0
-1
-1
-user_dc
-Solder_Via_60mil
-
-
-0
-1
-1
-user_dc
-Soldermask_Circle_3.2mm
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-1
-1
-user_dc
-Via_24mil
-
-
-0
-1
-1
-user_dc
-Via_24milC
-
-
-0
-1
-1
-user_dc
-Vishay_6767
-
-
-0
-2
-2
-user_dc
-XAL1510
-
-
-0
-2
-2
-user_dc
-XAL7070
-
-
-0
-2
-2
-user_dc
-XEL4030
-
-
-0
-2
-2
-user_dc
-arpa
-
-
-0
-0
-0
-user_dc
-cal
-
-
-0
-0
-0
-user_dc
-samtec_0.8mm
-
-
-0
-20
-20
-user_dc
-samtec_0.8mm_Centered
-
-
-0
-20
-20
 user_kf
 0603 TP
 
@@ -87898,17 +87212,3 @@ cap_board_smd
 0
 1
 1
-user_tm
-IHLP3232
-
-
-0
-2
-2
-user_tm
-IHLP5050
-
-
-0
-2
-2

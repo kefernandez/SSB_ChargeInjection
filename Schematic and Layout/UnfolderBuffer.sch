@@ -85,7 +85,7 @@ Wire Wire Line
 Wire Wire Line
 	2975 1875 2975 1925
 $Comp
-L user_tm:TP TP1
+L UnfolderBuffer-rescue:TP-user_tm TP1
 U 1 1 5C8C3760
 P 4100 1400
 F 0 "TP1" H 4175 1400 40  0000 C CNN
@@ -96,7 +96,7 @@ F 3 "" H 4100 1400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L user_tm:TP TP2
+L UnfolderBuffer-rescue:TP-user_tm TP2
 U 1 1 5CE8E2CB
 P 4500 1725
 F 0 "TP2" H 4575 1725 40  0000 C CNN
@@ -113,7 +113,7 @@ Wire Wire Line
 	2825 2525 3025 2525
 Connection ~ 2825 2525
 $Comp
-L user_tm:TP TP3
+L UnfolderBuffer-rescue:TP-user_tm TP3
 U 1 1 5CEA191D
 P 3625 2275
 F 0 "TP3" H 3700 2275 40  0000 C CNN
@@ -124,7 +124,7 @@ F 3 "" H 3625 2275 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L user_tm:TP TP4
+L UnfolderBuffer-rescue:TP-user_tm TP4
 U 1 1 5CEA19B7
 P 3625 2525
 F 0 "TP4" H 3700 2525 40  0000 C CNN

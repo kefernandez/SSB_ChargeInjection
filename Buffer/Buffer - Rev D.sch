@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Buffer - Rev C-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -543,11 +542,11 @@ Connection ~ 6225 2450
 Wire Wire Line
 	6225 2450 6475 2450
 $Comp
-L Device:C_Small 0.47uF1
+L Device:C_Small C0
 U 1 1 5C86D4D7
 P 5750 2350
-F 0 "0.47uF1" H 5842 2396 50  0001 L CNN
-F 1 "C" H 5842 2305 50  0000 L CNN
+F 0 "C0" H 5842 2396 50  0000 L CNN
+F 1 "0.1uF" H 5842 2305 50  0000 L CNN
 F 2 "calisco-general:C_0805" H 5750 2350 50  0001 C CNN
 F 3 "~" H 5750 2350 50  0001 C CNN
 	1    5750 2350

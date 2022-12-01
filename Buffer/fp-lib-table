@@ -8,7 +8,7 @@
   (lib (name smd-passives)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/smd-passives)(options "")(descr ""))
   (lib (name smd-so)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/smd-so)(options "")(descr ""))
   (lib (name user_dc)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/user_dc)(options "")(descr ""))
-  (lib (name user_mb)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/user_mb.pretty)(options "")(descr ""))
+  (lib (name user_mb)(type KiCad)(uri C:/Users/kefer/Documents/GitHub/SSB_ChargeInjection/Buffer/kicad-library/pcb/user_mb)(options "")(descr ""))
   (lib (name user_tm)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/user_tm)(options "")(descr ""))
   (lib (name Connectors_Samtec_local)(type KiCad)(uri ${KIPRJMOD}/../kicad-library/pcb/Connectors_Samtec.pretty)(options "")(descr ""))
   (lib (name Capacitor_SMD)(type KiCad)(uri ${KISYSMOD}/Capacitor_SMD.pretty)(options "")(descr ""))
