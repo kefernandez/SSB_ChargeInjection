@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Phasor_SSB_LossComp.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.52382155"
+     inkscape:cx="-228.13113"
+     inkscape:cy="547.89651"
+     inkscape:window-width="1500"
+     inkscape:window-height="930"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="1951"
+         y="369"
+         width="624"
+         height="653"
+         id="rect824" />
+    </clipPath>
+    <clipPath
+       id="clip0-0">
+      <rect
+         x="1951"
+         y="369"
+         width="624"
+         height="653"
+         id="rect1061" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#clip0)"
+       transform="matrix(0.26458333,0,0,0.26458333,-507.81465,-37.97532)"
+       id="g867">
+      <path
+         d="M 2,-7.38084e-7 2.00021,555.638 h -4 L -2,7.38084e-7 Z M 8.0002,552.97 2.09974e-4,568.97 -7.9998,552.97 Z"
+         transform="matrix(1,0,0,-1,2233,1021.97)"
+         id="path829" />
+      <path
+         d="M 0.00814379,-1.99998 549.519,0.237588 549.503,4.23756 -0.00814379,1.99998 Z M 546.877,-5.77322 562.844,2.29186 546.812,10.2266 Z"
+         transform="matrix(1,0,0,-1,1952,720.292)"
+         id="path831" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2473.95,703)"
+         id="text833">Re</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2231.11,437)"
+         id="text835">Im</text>
+      <path
+         d="M 4,-3.74953e-6 4.00019,204 h -8 L -4,3.74953e-6 Z M 12.0002,200 2.09974e-4,224 -11.9998,200 Z"
+         fill="#0072bd"
+         transform="matrix(1,0,0,-1,2233,720)"
+         id="path837" />
+      <path
+         d="m 2237,721 v 203.364 h -8 V 721 Z m 8,199.364 -12,24 -12,-24 z"
+         fill="#d7d57b"
+         id="path839" />
+      <path
+         d="m 2233,714 h 130.58 v 8 H 2233 Z m 126.58,-8 24,12 -24,12 z"
+         fill="#0072bd"
+         id="path841" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2116.32,506)"
+         id="text843">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2148.03,518)"
+         id="text845">ab,j</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2083.89,939)"
+         id="text847">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2119.56,951)"
+         id="text849">C1,ac</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2347.53,789)"
+         id="text851">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2379.24,801)"
+         id="text853">ab,i</text>
+      <path
+         d="M 3.51992,-1.90005 107.639,190.984 100.599,194.785 -3.51992,1.90005 Z M 112.779,183.664 l 0.84,26.82 -21.9599,-15.419 z"
+         fill="#0072bd"
+         transform="matrix(1,0,0,-1,2240,715.484)"
+         id="path855" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2372.8,562)"
+         id="text857">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2404.51,574)"
+         id="text859">ab</text>
+      <path
+         d="m 2236.5,559.5 c 32.63,0 61.41,10.542 70.84,25.951"
+         stroke="#000000"
+         stroke-width="2.66667"
+         stroke-miterlimit="8"
+         stroke-dasharray="10.6667, 8"
+         fill="none"
+         fill-rule="evenodd"
+         id="path861" />
+      <path
+         d="m 2278.51,528.394 c -0.77,3.532 -1.15,6.503 -1.15,8.912 0,1.823 0.28,3.161 0.83,4.016 0.55,0.854 1.45,1.281 2.69,1.281 1.82,0 3.55,-1.224 5.18,-3.674 1.64,-2.449 3.03,-5.961 4.17,-10.535 z m 10.01,-16.455 c -1.91,0 -3.67,1.205 -5.29,3.614 -1.62,2.409 -3,5.859 -4.14,10.351 h 11.7 c 0.76,-3.434 1.14,-6.388 1.14,-8.862 0,-1.709 -0.27,-2.987 -0.83,-3.833 -0.55,-0.846 -1.41,-1.27 -2.58,-1.27 z m 0.29,-1.977 c 4.72,0 7.08,2.995 7.08,8.984 0,1.693 -0.19,3.715 -0.57,6.067 -0.39,2.352 -0.99,4.749 -1.82,7.19 -0.83,2.441 -1.88,4.602 -3.15,6.482 -1.27,1.88 -2.74,3.333 -4.4,4.358 -1.66,1.025 -3.45,1.538 -5.37,1.538 -2.42,0 -4.23,-0.741 -5.42,-2.222 -1.19,-1.481 -1.78,-3.703 -1.78,-6.665 0,-1.611 0.18,-3.597 0.54,-5.957 0.36,-2.36 0.95,-4.773 1.77,-7.239 0.82,-2.465 1.88,-4.654 3.17,-6.567 1.3,-1.912 2.78,-3.385 4.47,-4.419 1.68,-1.033 3.51,-1.55 5.48,-1.55 z"
+         fill-rule="evenodd"
+         id="path863" />
+      <text
+         fill="#000000"
+         fill-opacity="0"
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-size="34.6191px"
+         x="2273.3799"
+         y="540.25403"
+         id="text865">𝜃</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Phasor_SSB_NoLossComp.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showborder="false"
+     inkscape:zoom="0.26191077"
+     inkscape:cx="-17.181424"
+     inkscape:cy="733.07408"
+     inkscape:window-width="1500"
+     inkscape:window-height="930"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clip0">
+      <rect
+         x="1951"
+         y="369"
+         width="624"
+         height="653"
+         id="rect824" />
+    </clipPath>
+    <clipPath
+       id="clip0-0">
+      <rect
+         x="1951"
+         y="369"
+         width="624"
+         height="653"
+         id="rect1061" />
+    </clipPath>
+    <clipPath
+       id="clip0-0-2">
+      <rect
+         x="1951"
+         y="369"
+         width="624"
+         height="653"
+         id="rect1061-1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       clip-path="url(#clip0-0-2)"
+       transform="matrix(0.26458333,0,0,0.26458333,-807.84527,-156.6743)"
+       id="g1086">
+      <path
+         d="M 2,-7.38084e-7 2.00021,555.638 h -4 L -2,7.38084e-7 Z M 8.0002,552.97 2.09974e-4,568.97 -7.9998,552.97 Z"
+         transform="matrix(1,0,0,-1,2233,1021.97)"
+         id="path1066" />
+      <path
+         d="M 0.00814379,-1.99998 549.519,0.237588 549.503,4.23756 -0.00814379,1.99998 Z M 546.877,-5.77322 562.844,2.29186 546.812,10.2266 Z"
+         transform="matrix(1,0,0,-1,1952,720.292)"
+         id="path1068" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2473.95,703)"
+         id="text1070">Re</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2231.11,437)"
+         id="text1072">Im</text>
+      <path
+         d="M 4,-3.74953e-6 4.00019,204 h -8 L -4,3.74953e-6 Z M 12.0002,200 2.09974e-4,224 -11.9998,200 Z"
+         fill="#0072bd"
+         transform="matrix(1,0,0,-1,2233,720)"
+         id="path1074" />
+      <path
+         d="m 2237,721 v 203.364 h -8 V 721 Z m 8,199.364 -12,24 -12,-24 z"
+         fill="#d7d57b"
+         id="path1076" />
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2116.32,506)"
+         id="text1078">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2148.03,518)"
+         id="text1080">ab</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="53px"
+         transform="translate(2083.89,939)"
+         id="text1082">V</text>
+      <text
+         font-family="Arial, Arial_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="36px"
+         transform="translate(2119.56,951)"
+         id="text1084">C1,ac</text>
+    </g>
+  </g>
+</svg>
