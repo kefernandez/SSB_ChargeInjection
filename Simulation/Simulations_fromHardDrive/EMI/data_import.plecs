@@ -1,0 +1,384 @@
+Plecs {
+  Name          "data_import"
+  Version       "4.5"
+  CircuitModel  "ContStateSpace"
+  StartTime     "0.0"
+  TimeSpan      "5e3/150e3"
+  Timeout       ""
+  Solver        "auto"
+  MaxStep       "1"
+  InitStep      "-1"
+  FixedStep     "4e-7"
+  Refine        "40"
+  ZCStepSize    "1e-9"
+  RelTol        "1e-3"
+  AbsTol        "-1"
+  TurnOnThreshold "0"
+  SyncFixedStepTasks "2"
+  UseSingleCommonBaseRate "2"
+  LossVariableLimitExceededMsg "3"
+  NegativeSwitchLossMsg "3"
+  DivisionByZeroMsg "2"
+  StiffnessDetectionMsg "2"
+  MaxConsecutiveZCs "1000"
+  AlgebraicLoopWithStateMachineMsg "2"
+  AssertionAction "1"
+  InitializationCommands ""
+  InitialState  "1"
+  SystemState   ""
+  TaskingMode   "1"
+  TaskConfigurations ""
+  CodeGenParameterInlining "2"
+  CodeGenFloatingPointFormat "2"
+  CodeGenAbsTimeUsageMsg "3"
+  CodeGenBaseName ""
+  CodeGenOutputDir ""
+  CodeGenExtraOpts ""
+  CodeGenTarget "Generic"
+  CodeGenTargetSettings ""
+  ExtendedMatrixPrecision "1"
+  MatrixSignificanceCheck "2"
+  EnableStateSpaceSplitting "2"
+  DisplayStateSpaceSplitting "1"
+  DiscretizationMethod "2"
+  ExternalModeSettings ""
+  AlgebraicLoopMethod "1"
+  AlgebraicLoopTolerance "1e-6"
+  ScriptsDialogGeometry ""
+  ScriptsDialogSplitterPos "0"
+  Schematic {
+    Location      [806, -1057; 2726, -81]
+    ZoomFactor    1.77778
+    SliderPosition [0, 0]
+    ShowBrowser   off
+    BrowserWidth  100
+    Component {
+      Type          Subsystem
+      Name          "Signal\nGenerator1"
+      Show          off
+      Position      [160, 80]
+      Direction     up
+      Flipped       on
+      Frame         [-30, -20; 30, 20]
+      LabelPosition [0, -23]
+      LabelAlign    down
+      SampleTime    "-1"
+      CodeGenDiscretizationMethod "2"
+      CodeGenTarget "Generic"
+      MaskType      "Signal Generator"
+      MaskDescription "This block generates a signal defined by time values an"
+"d output values."
+      MaskDisplay   "text(['Waveform' char(10) 'Generator'])"
+      MaskIconFrame on
+      MaskIconOpaque on
+      MaskIconRotates on
+      MaskInit      "data2 = load(filename);\n"
+"time_values = data2(:,1);\n"
+"channel1 = data2(:,2);\n"
+"channel2 = data2(:,3);\n"
+      Parameter {
+        Variable      "filename"
+        Prompt        "File name"
+        Type          FreeText
+        Value         "'Buck_switch_data.csv'"
+        Show          off
+        Tunable       off
+        TabName       ""
+      }
+      Terminal {
+        Type          Output
+        Position      [34, 10]
+        Direction     right
+      }
+      Terminal {
+        Type          Output
+        Position      [34, -10]
+        Direction     right
+      }
+      Terminal {
+        Type          Output
+        Position      [34, 0]
+        Direction     right
+      }
+      Schematic {
+        Location      [806, -1057; 2726, -81]
+        ZoomFactor    1.33333
+        SliderPosition [0, 0]
+        ShowBrowser   off
+        BrowserWidth  100
+        Component {
+          Type          Clock
+          Name          "Clock"
+          Show          on
+          Position      [55, 80]
+          Direction     right
+          Flipped       off
+        }
+        Component {
+          Type          Lookup1D
+          Name          "1D-Table 1"
+          Show          on
+          Position      [140, 80]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "x"
+            Value         "time_values"
+            Show          off
+          }
+          Parameter {
+            Variable      "f(x)"
+            Value         "channel1"
+            Show          off
+          }
+          Parameter {
+            Variable      "ZeroCrossingSignals"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Output
+          Name          "Out"
+          Show          on
+          Position      [225, 80]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "1"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Lookup1D
+          Name          "1D-Table 2"
+          Show          on
+          Position      [140, 135]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "x"
+            Value         "time_values"
+            Show          off
+          }
+          Parameter {
+            Variable      "f(x)"
+            Value         "channel2"
+            Show          off
+          }
+          Parameter {
+            Variable      "ZeroCrossingSignals"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Output
+          Name          "Out1"
+          Show          on
+          Position      [225, 135]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "2"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Lookup1D
+          Name          "1D-Table 3"
+          Show          on
+          Position      [140, 200]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "x"
+            Value         "time_values"
+            Show          off
+          }
+          Parameter {
+            Variable      "f(x)"
+            Value         "channel3"
+            Show          off
+          }
+          Parameter {
+            Variable      "ZeroCrossingSignals"
+            Value         "1"
+            Show          off
+          }
+        }
+        Component {
+          Type          Output
+          Name          "Out2"
+          Show          on
+          Position      [225, 200]
+          Direction     right
+          Flipped       off
+          Parameter {
+            Variable      "Index"
+            Value         "3"
+            Show          on
+          }
+          Parameter {
+            Variable      "Width"
+            Value         "-1"
+            Show          off
+          }
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "1D-Table 1"
+          SrcTerminal   2
+          DstComponent  "Out"
+          DstTerminal   1
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "1D-Table 2"
+          SrcTerminal   2
+          DstComponent  "Out1"
+          DstTerminal   1
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "Clock"
+          SrcTerminal   1
+          Points        [90, 80]
+          Branch {
+            DstComponent  "1D-Table 1"
+            DstTerminal   1
+          }
+          Branch {
+            Points        [90, 135]
+            Branch {
+              DstComponent  "1D-Table 2"
+              DstTerminal   1
+            }
+            Branch {
+              Points        [90, 200]
+              DstComponent  "1D-Table 3"
+              DstTerminal   1
+            }
+          }
+        }
+        Connection {
+          Type          Signal
+          SrcComponent  "1D-Table 3"
+          SrcTerminal   2
+          DstComponent  "Out2"
+          DstTerminal   1
+        }
+      }
+    }
+    Component {
+      Type          Scope
+      Name          "Scope"
+      Show          on
+      Position      [295, 80]
+      Direction     up
+      Flipped       off
+      Location      [681, 48; 1081, 227]
+      State         "AAAA/wAAAAD9AAAAAgAAAAEAAAAAAAAAAPwCAAAAA/sAAAAQAFoAbwBvA"
+"G0AQQByAGUAYQAAAAAA/////wAAAKwA////+wAAABQAUwBhAHYAZQBkAFYAaQBlAHcAcwAAAAAA//"
+"///wAAAMoA////+wAAAAwAVAByAGEAYwBlAHMAAAAAAP////8AAADKAP///wAAAAMAAAGQAAAAZvw"
+"BAAAAAfsAAAAUAEQAYQB0AGEAVwBpAGQAZwBlAHQAAAAAAAAAAZAAAACYAP///wAAAyAAAAE5AAAA"
+"BAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAOAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAA"
+"AAAAA=="
+      SavedViews    "AAAAAgAAAAA="
+      HeaderState   "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAL/gMAAAAJAAAAA"
+"QAAAGQAAAAHAAAAZAAAAAYAAABkAAAABQAAAGQAAAAEAAAAZAAAAAkAAABkAAAACAAAAGQAAAADAA"
+"AAZAAAAAIAAABkAAAAzAAAAAsBAAABAAAAAAAAAAAAAAAAZP////8AAACBAAAAAAAAAAsAAACDAAA"
+"AAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAA"
+"AAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAA"
+"ABJAAAAAQAAAAAAAAPoAAAAAEk="
+      PlotPalettes  "AAAAAQAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA"
+"AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+      Axes          "2"
+      TimeRange     "0.0"
+      ScrollingMode "1"
+      SingleTimeAxis "1"
+      Open          "1"
+      Ts            "-1"
+      SampleLimit   "0"
+      XAxisLabel    ""
+      ShowLegend    "1"
+      Axis {
+        Name          ""
+        AutoScale     1
+        MinValue      0
+        MaxValue      1
+        Signals       {}
+        SignalTypes   [ ]
+        Untangle      0
+        KeepBaseline  off
+        BaselineValue 0
+      }
+      Axis {
+        Name          ""
+        AutoScale     1
+        MinValue      0
+        MaxValue      1
+        Signals       {}
+        SignalTypes   [ ]
+        Untangle      0
+        KeepBaseline  off
+        BaselineValue 0
+      }
+      Fourier {
+        SingleXAxis       on
+        AxisLabel         "Frequency"
+        Scaling           0
+        PhaseDisplay      0
+        ShowFourierLegend off
+        Axis {
+          Name          ""
+          AutoScale     1
+          MinValue      0
+          MaxValue      1
+          Signals       {}
+          Untangle      0
+          KeepBaseline  off
+          BaselineValue 0
+        }
+        Axis {
+          Name          ""
+          AutoScale     1
+          MinValue      0
+          MaxValue      1
+          Signals       {}
+          Untangle      0
+          KeepBaseline  off
+          BaselineValue 0
+        }
+      }
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "Signal\nGenerator1"
+      SrcTerminal   1
+      Points        [210, 70; 210, 75]
+      DstComponent  "Scope"
+      DstTerminal   1
+    }
+    Connection {
+      Type          Signal
+      SrcComponent  "Signal\nGenerator1"
+      SrcTerminal   2
+      Points        [210, 90; 210, 85]
+      DstComponent  "Scope"
+      DstTerminal   2
+    }
+  }
+}

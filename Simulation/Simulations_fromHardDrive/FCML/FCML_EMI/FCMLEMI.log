@@ -1,0 +1,41 @@
+Circuit: * C:\Users\kefer\Documents\Berkeley\Research\Charger\Simulations\FCML\FCML_EMI\FCMLEMI.asc
+
+.OP point found by inspection.
+Ignoring empty pin current: Ix(x11:g)
+Ignoring empty pin current: Ix(x12:g)
+Ignoring empty pin current: Ix(x13:g)
+Ignoring empty pin current: Ix(x14:g)
+Ignoring empty pin current: Ix(x15:g)
+Ignoring empty pin current: Ix(x16:g)
+Ignoring empty pin current: Ix(x17:g)
+Ignoring empty pin current: Ix(x18:g)
+Ignoring empty pin current: Ix(x19:g)
+Ignoring empty pin current: Ix(x20:g)
+Ignoring empty pin current: Ix(x11:g)
+Ignoring empty pin current: Ix(x12:g)
+Ignoring empty pin current: Ix(x13:g)
+Ignoring empty pin current: Ix(x14:g)
+Ignoring empty pin current: Ix(x15:g)
+Ignoring empty pin current: Ix(x16:g)
+Ignoring empty pin current: Ix(x17:g)
+Ignoring empty pin current: Ix(x18:g)
+Ignoring empty pin current: Ix(x19:g)
+Ignoring empty pin current: Ix(x20:g)
+
+Date: Thu Sep 09 15:30:04 2021
+Total elapsed time: 22.218 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7990131
+traniter = 7990131
+tranpoints = 3391974
+accept = 3162636
+rejected = 229338
+matrix size = 39
+fillins = 13
+solver = Normal
+Matrix Compiler1: 2.11 KB object code size  0.5/0.2/[0.2]
+Matrix Compiler2: 2.90 KB object code size  0.3/0.4/[0.2]
+
